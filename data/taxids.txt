@@ -1,0 +1,10 @@
+ERR1091947,11320,"Influenza A virus",1191021
+ERR1091952,11320,"Influenza A virus",1200098
+ERR1091975,11320,"Influenza A virus",788969
+ERR1229298,562,"Escherichia coli",24826
+ERR1259103,9606,"Homo sapiens",110937
+ERR1856832,11520,"Influenza B virus",495272
+ERR1917159,28901,"Salmonella enterica",19496
+ERR2206927,29348,"Clostridium spiroforme",1128
+ERR2213264,562,"Escherichia coli",203
+ERR2213296,562,"Escherichia coli",227

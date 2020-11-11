@@ -1,0 +1,10 @@
+data/ngs/raw/ERR1091947.fna
+data/ngs/raw/ERR1091952.fna
+data/ngs/raw/ERR1091975.fna
+data/ngs/raw/ERR1229298.fna
+data/ngs/raw/ERR1259103.fna
+data/ngs/raw/ERR1856832.fna
+data/ngs/raw/ERR1917159.fna
+data/ngs/raw/ERR2206927.fna
+data/ngs/raw/ERR2213264.fna
+data/ngs/raw/ERR2213296.fna

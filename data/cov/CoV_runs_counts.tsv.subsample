@@ -1,0 +1,45 @@
+ERR1091947,2501931,Orthocoronavirinae,1,0
+ERR1091947,694002,Betacoronavirus,1,1
+ERR1091952,2501931,Orthocoronavirinae,20,0
+ERR1091952,694002,Betacoronavirus,20,7
+ERR1091952,2509511,Sarbecovirus,13,0
+ERR1091952,694009,Severe acute respiratory syndrome-related coronavirus,13,13
+ERR1091975,2501931,Orthocoronavirinae,4,0
+ERR1091975,694002,Betacoronavirus,4,1
+ERR1091975,2509511,Sarbecovirus,3,0
+ERR1091975,694009,Severe acute respiratory syndrome-related coronavirus,3,3
+ERR1229298,2501931,Orthocoronavirinae,6,0
+ERR1229298,694014,Avian coronavirus,6,0
+ERR1229298,694013,Gammacoronavirus,6,0
+ERR1229298,2509487,Igacovirus,6,0
+ERR1229298,11120,Infectious bronchitis virus,6,6
+ERR1259103,694014,Avian coronavirus,1,0
+ERR1259103,2509487,Igacovirus,1,0
+ERR1259103,694013,Gammacoronavirus,1,0
+ERR1259103,2501931,Orthocoronavirinae,1,0
+ERR1259103,11120,Infectious bronchitis virus,1,1
+ERR1856832,2501931,Orthocoronavirinae,1,0
+ERR1856832,694002,Betacoronavirus,1,0
+ERR1856832,2509494,Merbecovirus,1,0
+ERR1856832,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+ERR1917159,2501931,Orthocoronavirinae,3,0
+ERR1917159,693997,Alphacoronavirus 1,3,0
+ERR1917159,693996,Alphacoronavirus,3,0
+ERR1917159,2509514,Tegacovirus,3,0
+ERR1917159,11153,Canine coronavirus,3,3
+ERR2206927,693996,Alphacoronavirus,1,0
+ERR2206927,2509505,Pedacovirus,1,0
+ERR2206927,2501931,Orthocoronavirinae,1,0
+ERR2206927,28295,Porcine epidemic diarrhea virus,1,1
+ERR2213264,2501931,Orthocoronavirinae,61,0
+ERR2213264,2509487,Igacovirus,58,0
+ERR2213264,694013,Gammacoronavirus,58,0
+ERR2213264,694014,Avian coronavirus,58,13
+ERR2213264,11120,Infectious bronchitis virus,45,45
+ERR2213264,694002,Betacoronavirus,3,0
+ERR2213264,2509481,Embecovirus,3,0
+ERR2213264,694005,Murine coronavirus,3,3
+ERR2213296,2509481,Embecovirus,1,0
+ERR2213296,2501931,Orthocoronavirinae,1,0
+ERR2213296,694002,Betacoronavirus,1,0
+ERR2213296,694005,Murine coronavirus,1,1

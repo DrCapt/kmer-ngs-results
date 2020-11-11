@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 import itertools
 
@@ -5,7 +6,6 @@ metadata = {}
 srr_tax_ids = {}
 tax_ids = set()
 for i, line in enumerate(open(sys.argv[1]).readlines()):
-    if i < 1: continue
     srr, tax_id, _, cnt, _ = line.split(',')
     metadata[(srr, tax_id)] = int(cnt)
     srr_tax_ids[srr] = srr_tax_ids.get(srr, set()) | set([tax_id])

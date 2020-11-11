@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 from math import log
 
@@ -67,4 +68,4 @@ gen_cnt = sum([len(cl) for cl in gen_clusters])
 NMI = 0
 if H_X+H_Y > 0:
     NMI = 2*(H_X-H_XlY)/(H_X+H_Y)
-print(NMI, H_X, H_Y, H_XlY, H_X-H_XlY)
+print(NMI)

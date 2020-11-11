@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 import re
 
@@ -13,7 +14,6 @@ def nearest_neighbor_cluster(triplets):
             index[b] = cluster
     return set(tuple(cluster) for cluster in index.values())
 
-threshold = int(sys.argv[1])
 index = {}
 closed = set()
 for line in sys.stdin:
@@ -30,7 +30,6 @@ for line in sys.stdin:
         cluster = index.get(a, set())
         cluster.update([a, b])
         index[b] = cluster
-    if len(closed) >= threshold and threshold > 0: break
 
 clusters = set([tuple(clstr) for clstr in index.values()])
 for i, clstr in enumerate(clusters):
