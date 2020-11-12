@@ -1,15 +1,15 @@
 #!/bin/sh
 srrs_list=info/srrs_100M_200M.txt
+if [ ! -f data/clusters/cov_clusters.txt || ! -f data/dists/cov_dists.txt ]
+  tail -n +2 info/CoV_run_counts.tsv | grep -f $srrs_list > data/cov/CoV_runs_counts.tsv.subsample
+  bin/pair_dist_cov.py data/cov/CoV_runs_counts.tsv.subsample > data/dists/cov_dists.txt
+  sort -n -k 3 -t ' ' data/dists/cov_dists.txt | bin/cluster.py > data/clusters/cov_clusters.txt
+fi
+
 if [ ! -f data/clusters/taxids_clusters.txt ]
   bin/collect_taxids.sh $srrs_list data/traces > data/taxids.txt
   bin/compare_taxids.py data/taxids.txt > data/dists/taxids_dists.txt
   sort -n -k 3 -t ' ' data/dists/taxids_dists.txt | bin/cluster.py > data/clusters/taxids_clusters.txt
-fi
-
-if [ ! -f data/clusters/cov_clusters.txt ]
-  tail -n +2 info/CoV_run_counts.tsv | grep -f $srrs_list > data/cov/CoV_runs_counts.tsv.subsample
-  bin/pair_dist_cov.py data/cov/CoV_runs_counts.tsv.subsample > data/dists/cov_dists.txt
-  sort -n -k 3 -t ' ' data/dists/cov_dists.txt | bin/cluster.py > data/clusters/cov_clusters.txt
 fi
 
 export TMPDIR=/home/hollowayem/srrs-data3/tmp # Replace as appropriate
