@@ -1,5 +1,5 @@
 #!/bin/sh
-srrs_list=$1
+srrs_list=info/srrs_100M_200M.txt
 bin/collect_taxids.sh $srrs_list data/traces > data/taxids.txt
 bin/compare_taxids.py data/taxids.txt > data/dists/taxids_dists.txt
 sort -n -k 3 -t ' ' data/dists/taxids_dists.txt | bin/cluster.py > data/clusters/taxids_clusters.txt
@@ -13,7 +13,7 @@ bin/dl_lzjd_dist.sh $srrs_list data/ngs/raw/ data/lzjd/sdbfs.txt > data/dists/ng
 sort -n -r -k 3 -t '|' data/dists/ngs_lzjd_dists.txt | bin/subsample.py info/srrs_100M_200M.txt '\|' | bin/cluster.py > data/clusters/ngs_lzjd_clusters.txt
 
 ls data/ngs/raw/* > data/mash/input_files.txt
-bin/mash.exe sketch -l data/mash/input_files.txt -k 16 -s 1024 -o data/mash/sketches
+bin/mash.exe sketch -l data/mash/input_files.txt -k 18 -s 1024 -o data/mash/sketches
 bin/mash.exe dist data/mash/sketches.msh data/mash/sketches.msh > data/dists/ngs_mash_dists.txt
 sort -n -k 3 data/dists/ngs_mash_dists.txt | bin/subsample.py info/srrs_100M_200M.txt '\t' | bin/cluster.py > data/clusters/ngs_mash_clusters.txt
 
