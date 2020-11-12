@@ -9,6 +9,7 @@ then
 else
   echo clusters already exist
 fi
+echo
 
 echo create clusters from largest amount of organism kmer
 if [ ! -f data/clusters/taxids_clusters.txt ]
@@ -19,6 +20,7 @@ then
 else
   echo clusters already exist
 fi
+echo
 
 export TMPDIR=/home/hollowayem/srrs-data3/tmp # Replace as appropriate
 echo creating clusters using LZJD
@@ -29,6 +31,7 @@ then
 else
   echo clusters already exist
 fi
+echo
 
 echo creating clusters using Mash
 if [ ! -f data/clusters/ngs_mash_clusters.txt ]
@@ -40,6 +43,7 @@ then
 else
   echo clusters already exist
 fi
+echo
 
 echo comparing clusters
 bin/relevant_rand_tests.sh

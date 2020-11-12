@@ -1,6 +1,8 @@
 #!/bin/sh
 
-echo $1 $2 $3 $4
+echo
+echo 'randomness test on clusters file:' $2
+echo 'number of experiments:' $3
 echo |> data/rand/rand_results.txt
 for i in `seq $3`
 do
