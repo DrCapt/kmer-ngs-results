@@ -43,3 +43,3048 @@ ERR2213296,2509481,Embecovirus,1,0
 ERR2213296,2501931,Orthocoronavirinae,1,0
 ERR2213296,694002,Betacoronavirus,1,0
 ERR2213296,694005,Murine coronavirus,1,1
+ERR2213309,2501931,Orthocoronavirinae,2,0
+ERR2213309,694002,Betacoronavirus,2,0
+ERR2213309,2509481,Embecovirus,2,0
+ERR2213309,694005,Murine coronavirus,2,2
+ERR2213404,2501931,Orthocoronavirinae,1,0
+ERR2213404,2509481,Embecovirus,1,0
+ERR2213404,694002,Betacoronavirus,1,0
+ERR2213404,694005,Murine coronavirus,1,1
+ERR2213408,694002,Betacoronavirus,2,0
+ERR2213408,2501931,Orthocoronavirinae,2,0
+ERR2213408,2509481,Embecovirus,2,0
+ERR2213408,694005,Murine coronavirus,2,2
+ERR2348791,2501931,Orthocoronavirinae,248,0
+ERR2348791,693996,Alphacoronavirus,248,12
+ERR2348791,2509514,Tegacovirus,236,0
+ERR2348791,693997,Alphacoronavirus 1,236,23
+ERR2348791,12663,Feline coronavirus,213,212
+ERR2348791,1052158,Feline coronavirus UU54,1,1
+ERR2649538,2501931,Orthocoronavirinae,136,2
+ERR2649538,694002,Betacoronavirus,134,2
+ERR2649538,696098,unclassified Betacoronavirus,132,4
+ERR2649538,1928434,Betacoronavirus sp.,128,128
+ERR2649538,1986197,unclassified Coronaviridae,1,0
+ERR2649538,1986198,Coronaviridae sp.,1,1
+ERR2734401,694013,Gammacoronavirus,36335,0
+ERR2734401,2509487,Igacovirus,36335,0
+ERR2734401,2501931,Orthocoronavirinae,36335,0
+ERR2734401,694014,Avian coronavirus,36335,14879
+ERR2734401,11120,Infectious bronchitis virus,21452,21451
+ERR2734401,11152,Turkey coronavirus,2,2
+ERR2734401,749416,unclassified Avian coronavirus,1,0
+ERR2734401,658930,Infectious bronchitis virus NGA/A116E7/2006,1,1
+ERR2734401,300188,Duck coronavirus,1,1
+ERR2734401,1245464,Guinea fowl coronavirus GfCoV/FR/2011,1,1
+ERR2737535,2501931,Orthocoronavirinae,136,2
+ERR2737535,694002,Betacoronavirus,134,2
+ERR2737535,696098,unclassified Betacoronavirus,132,4
+ERR2737535,1928434,Betacoronavirus sp.,128,128
+ERR2737535,1986197,unclassified Coronaviridae,1,0
+ERR2737535,1986198,Coronaviridae sp.,1,1
+ERR2737561,2501931,Orthocoronavirinae,25,0
+ERR2737561,694002,Betacoronavirus,25,4
+ERR2737561,696098,unclassified Betacoronavirus,21,0
+ERR2737561,1928434,Betacoronavirus sp.,21,21
+ERR2737562,2501931,Orthocoronavirinae,22,0
+ERR2737562,694002,Betacoronavirus,22,3
+ERR2737562,696098,unclassified Betacoronavirus,19,1
+ERR2737562,1928434,Betacoronavirus sp.,18,18
+ERR2737563,2501931,Orthocoronavirinae,38,0
+ERR2737563,694002,Betacoronavirus,38,6
+ERR2737563,696098,unclassified Betacoronavirus,31,2
+ERR2737563,1928434,Betacoronavirus sp.,29,29
+ERR2737563,2501960,China Rattus coronavirus HKU24,1,0
+ERR2737563,2509481,Embecovirus,1,0
+ERR2737563,1590370,Betacoronavirus HKU24,1,1
+ERR2737564,2501931,Orthocoronavirinae,48,0
+ERR2737564,694002,Betacoronavirus,48,2
+ERR2737564,696098,unclassified Betacoronavirus,45,2
+ERR2737564,1928434,Betacoronavirus sp.,43,43
+ERR2737564,2501960,China Rattus coronavirus HKU24,1,0
+ERR2737564,2509481,Embecovirus,1,0
+ERR2737564,1590370,Betacoronavirus HKU24,1,1
+ERR2737651,2501931,Orthocoronavirinae,5015,13
+ERR2737651,694002,Betacoronavirus,5002,197
+ERR2737651,696098,unclassified Betacoronavirus,4803,136
+ERR2737651,1928434,Betacoronavirus sp.,4667,4667
+ERR2737651,693995,Coronavirinae,5,0
+ERR2737651,2664420,unclassified Coronavirinae,5,0
+ERR2737651,2050018,Rodent coronavirus,5,5
+ERR2737651,2509481,Embecovirus,2,0
+ERR2737651,2501960,China Rattus coronavirus HKU24,1,0
+ERR2737651,694003,Betacoronavirus 1,1,0
+ERR2737651,11128,Bovine coronavirus,1,1
+ERR2737651,1590370,Betacoronavirus HKU24,1,1
+ERR2737652,2501931,Orthocoronavirinae,5133,22
+ERR2737652,694002,Betacoronavirus,5111,228
+ERR2737652,696098,unclassified Betacoronavirus,4883,140
+ERR2737652,1928434,Betacoronavirus sp.,4740,4740
+ERR2737652,1508222,Longquan Aa mouse coronavirus,3,3
+ERR2737652,693995,Coronavirinae,2,0
+ERR2737652,2664420,unclassified Coronavirinae,2,0
+ERR2737652,2050018,Rodent coronavirus,2,2
+ERR2737657,693996,Alphacoronavirus,1,0
+ERR2737657,2501931,Orthocoronavirinae,1,0
+ERR2737657,366617,unclassified Alphacoronavirus,1,0
+ERR2737657,1906673,Alphacoronavirus sp.,1,1
+ERR2737988,2501931,Orthocoronavirinae,1,0
+ERR2737988,694002,Betacoronavirus,1,0
+ERR2737988,696098,unclassified Betacoronavirus,1,1
+ERR2738293,693996,Alphacoronavirus,1,0
+ERR2738293,2501931,Orthocoronavirinae,1,0
+ERR2738293,366617,unclassified Alphacoronavirus,1,0
+ERR2738293,1906673,Alphacoronavirus sp.,1,1
+ERR2738559,696098,unclassified Betacoronavirus,1,0
+ERR2738559,694002,Betacoronavirus,1,0
+ERR2738559,2501931,Orthocoronavirinae,1,0
+ERR2738559,1928434,Betacoronavirus sp.,1,1
+ERR2819915,2501931,Orthocoronavirinae,367778,49204
+ERR2819915,694002,Betacoronavirus,318569,21228
+ERR2819915,2509481,Embecovirus,297301,24
+ERR2819915,694003,Betacoronavirus 1,297272,258494
+ERR2819915,11128,Bovine coronavirus,35905,34694
+ERR2819915,2501420,Yak coronavirus,1630,1630
+ERR2819915,502105,Bovine respiratory coronavirus bovine/US/OH-440-TC/1996,1049,1049
+ERR2819915,31631,Human coronavirus OC43,514,514
+ERR2819915,42005,Porcine hemagglutinating encephalomyelitis virus,362,362
+ERR2819915,2030446,Coronavirus HKU23,171,0
+ERR2819915,1479610,Dromedary camel coronavirus HKU23,171,171
+ERR2819915,215681,Canine respiratory coronavirus,126,126
+ERR2819915,136187,Equine coronavirus,70,70
+ERR2819915,166124,Human enteric coronavirus 4408,54,54
+ERR2819915,2126133,Water deer coronavirus,43,43
+ERR2819915,696098,unclassified Betacoronavirus,40,2
+ERR2819915,1160968,Rabbit coronavirus HKU14,33,33
+ERR2819915,422217,Bovine coronavirus E-AH65,25,22
+ERR2819915,404135,Bovine coronavirus isolate Alpaca,17,17
+ERR2819915,693995,Coronavirinae,15,0
+ERR2819915,2664420,unclassified Coronavirinae,15,2
+ERR2819915,473588,Bovine coronavirus Bubalus/Italy/179/07-11,6,6
+ERR2819915,693996,Alphacoronavirus,5,0
+ERR2819915,366617,unclassified Alphacoronavirus,5,0
+ERR2819915,1679890,Coronavirus RCoV/D_RMU10_1940/Myo_gla/GER/2010,5,5
+ERR2819915,1699096,Camel coronavirus HKU23,5,5
+ERR2819915,694005,Murine coronavirus,5,5
+ERR2819915,422220,Bovine coronavirus E-AH187,4,4
+ERR2819915,1679912,Coronavirus RCoV/NL_69/Mic_arv/NED/2007,4,4
+ERR2819915,422214,Bovine coronavirus R-AH65,3,3
+ERR2819915,422134,White-tailed deer coronavirus US/OH-WD470/1994,3,3
+ERR2819915,422218,Bovine coronavirus E-AH65-TC,3,3
+ERR2819915,2050018,Rodent coronavirus,3,3
+ERR2819915,398808,Bovine coronavirus DB2,3,3
+ERR2819915,422137,Waterbuck coronavirus US/OH-WD358-TC/1994,2,2
+ERR2819915,1508222,Longquan Aa mouse coronavirus,2,2
+ERR2819915,1770168,Alpaca coronavirus,2,2
+ERR2819915,756651,Bovine coronavirus cow/WDBR-54/BRA/2003,1,1
+ERR2819915,694448,unidentified human coronavirus,1,1
+ERR2819915,702700,Bovine coronavirus Bubalus/339/ITA/2007,1,1
+ERR2819915,1928434,Betacoronavirus sp.,1,1
+ERR2955655,694013,Gammacoronavirus,3,0
+ERR2955655,694014,Avian coronavirus,3,0
+ERR2955655,2509487,Igacovirus,3,0
+ERR2955655,2501931,Orthocoronavirinae,3,0
+ERR2955655,300189,Pigeon coronavirus,3,3
+ERR298309,2501931,Orthocoronavirinae,7859,5
+ERR298309,693996,Alphacoronavirus,7816,2
+ERR298309,2509512,Setracovirus,7808,1
+ERR298309,277944,Human coronavirus NL63,7807,7803
+ERR298309,694002,Betacoronavirus,38,1
+ERR298309,2509481,Embecovirus,37,0
+ERR298309,694003,Betacoronavirus 1,37,34
+ERR298309,2509480,Duvinacovirus,6,0
+ERR298309,11137,Human coronavirus 229E,6,6
+ERR298309,270642,Human group 1 coronavirus associated with pneumonia,4,4
+ERR298309,31631,Human coronavirus OC43,3,3
+ERR298310,2501931,Orthocoronavirinae,115323,6
+ERR298310,693996,Alphacoronavirus,115303,58
+ERR298310,2509512,Setracovirus,115230,233
+ERR298310,277944,Human coronavirus NL63,114995,114970
+ERR298310,270642,Human group 1 coronavirus associated with pneumonia,25,25
+ERR298310,2509481,Embecovirus,14,0
+ERR298310,694002,Betacoronavirus,14,0
+ERR298310,694003,Betacoronavirus 1,14,14
+ERR298310,2509480,Duvinacovirus,9,0
+ERR298310,11137,Human coronavirus 229E,9,9
+ERR298310,366617,unclassified Alphacoronavirus,3,0
+ERR298310,2509505,Pedacovirus,3,0
+ERR298310,28295,Porcine epidemic diarrhea virus,3,3
+ERR298310,2501929,NL63-related bat coronavirus strain BtKYNL63-9b,2,0
+ERR298310,1920748,NL63-related bat coronavirus,2,2
+ERR298310,2664420,unclassified Coronavirinae,1,0
+ERR298310,693995,Coronavirinae,1,0
+ERR298310,2586420,Tylonycteris bat coronavirus HKU33,1,1
+ERR298310,1508228,Wencheng Sm shrew coronavirus,1,1
+ERR298310,2042576,Coronavirus PREDICT CoV-52,1,1
+ERR298310,694448,unidentified human coronavirus,1,1
+ERR298314,2501931,Orthocoronavirinae,52,4
+ERR298314,694002,Betacoronavirus,29,0
+ERR298314,2509481,Embecovirus,29,0
+ERR298314,694003,Betacoronavirus 1,29,23
+ERR298314,693996,Alphacoronavirus,19,0
+ERR298314,2509512,Setracovirus,12,0
+ERR298314,277944,Human coronavirus NL63,12,12
+ERR298314,2509480,Duvinacovirus,7,0
+ERR298314,11137,Human coronavirus 229E,7,7
+ERR298314,31631,Human coronavirus OC43,6,6
+ERR298316,2501931,Orthocoronavirinae,34,5
+ERR298316,693996,Alphacoronavirus,16,0
+ERR298316,2509512,Setracovirus,15,0
+ERR298316,277944,Human coronavirus NL63,15,15
+ERR298316,694002,Betacoronavirus,13,0
+ERR298316,2509481,Embecovirus,13,0
+ERR298316,694003,Betacoronavirus 1,12,11
+ERR298316,2509480,Duvinacovirus,1,0
+ERR298316,694005,Murine coronavirus,1,0
+ERR298316,11138,Murine hepatitis virus,1,1
+ERR298316,31631,Human coronavirus OC43,1,1
+ERR298316,11137,Human coronavirus 229E,1,1
+ERR298318,2501931,Orthocoronavirinae,36,3
+ERR298318,694002,Betacoronavirus,22,0
+ERR298318,2509481,Embecovirus,22,0
+ERR298318,694003,Betacoronavirus 1,22,20
+ERR298318,693996,Alphacoronavirus,11,0
+ERR298318,2509512,Setracovirus,7,0
+ERR298318,277944,Human coronavirus NL63,7,7
+ERR298318,2509480,Duvinacovirus,4,0
+ERR298318,11137,Human coronavirus 229E,4,4
+ERR298318,31631,Human coronavirus OC43,1,1
+ERR298318,42005,Porcine hemagglutinating encephalomyelitis virus,1,1
+ERR298321,2501931,Orthocoronavirinae,5046,2
+ERR298321,693996,Alphacoronavirus,5016,14
+ERR298321,2509480,Duvinacovirus,5000,44
+ERR298321,11137,Human coronavirus 229E,4956,4926
+ERR298321,694002,Betacoronavirus,26,1
+ERR298321,2509481,Embecovirus,25,0
+ERR298321,694003,Betacoronavirus 1,25,23
+ERR298321,1739614,229E-related bat coronavirus,17,17
+ERR298321,1176035,Alpaca respiratory coronavirus,5,5
+ERR298321,1895985,Camel alphacoronavirus Camel229E,5,5
+ERR298321,1699095,Camel alphacoronavirus,3,3
+ERR298321,694013,Gammacoronavirus,2,0
+ERR298321,2509512,Setracovirus,2,0
+ERR298321,694015,Beluga whale coronavirus SW1,2,0
+ERR298321,2509476,Cegacovirus,2,0
+ERR298321,1433215,Bottlenose dolphin coronavirus HKU22,2,2
+ERR298321,277944,Human coronavirus NL63,2,2
+ERR298321,11128,Bovine coronavirus,1,1
+ERR298321,31631,Human coronavirus OC43,1,1
+ERR298325,2501931,Orthocoronavirinae,2549,287
+ERR298325,694002,Betacoronavirus,2244,33
+ERR298325,2509481,Embecovirus,2211,1
+ERR298325,694003,Betacoronavirus 1,2210,1867
+ERR298325,31631,Human coronavirus OC43,282,282
+ERR298325,11128,Bovine coronavirus,39,39
+ERR298325,693996,Alphacoronavirus,18,0
+ERR298325,42005,Porcine hemagglutinating encephalomyelitis virus,10,10
+ERR298325,2509480,Duvinacovirus,9,0
+ERR298325,2509512,Setracovirus,9,0
+ERR298325,11137,Human coronavirus 229E,9,9
+ERR298325,277944,Human coronavirus NL63,9,9
+ERR298325,2030446,Coronavirus HKU23,7,0
+ERR298325,1479610,Dromedary camel coronavirus HKU23,7,7
+ERR298325,2664420,unclassified Coronavirinae,3,0
+ERR298325,693995,Coronavirinae,3,0
+ERR298325,215681,Canine respiratory coronavirus,3,3
+ERR298325,2501420,Yak coronavirus,2,2
+ERR298325,694448,unidentified human coronavirus,1,1
+ERR298325,1679890,Coronavirus RCoV/D_RMU10_1940/Myo_gla/GER/2010,1,1
+ERR298325,1679921,Coronavirus RCoV/SPB40/Liomys_spec/MEX/2011,1,1
+ERR298326,2501931,Orthocoronavirinae,327411,28403
+ERR298326,694002,Betacoronavirus,298960,3392
+ERR298326,2509481,Embecovirus,295454,89
+ERR298326,694003,Betacoronavirus 1,295297,248500
+ERR298326,31631,Human coronavirus OC43,40608,40608
+ERR298326,11128,Bovine coronavirus,3704,3403
+ERR298326,42005,Porcine hemagglutinating encephalomyelitis virus,1226,1226
+ERR298326,2030446,Coronavirus HKU23,610,0
+ERR298326,1479610,Dromedary camel coronavirus HKU23,610,610
+ERR298326,693995,Coronavirinae,279,0
+ERR298326,2664420,unclassified Coronavirinae,279,75
+ERR298326,136187,Equine coronavirus,254,254
+ERR298326,2501420,Yak coronavirus,227,227
+ERR298326,215681,Canine respiratory coronavirus,168,168
+ERR298326,756651,Bovine coronavirus cow/WDBR-54/BRA/2003,136,136
+ERR298326,696098,unclassified Betacoronavirus,113,1
+ERR298326,694448,unidentified human coronavirus,112,112
+ERR298326,2126133,Water deer coronavirus,96,96
+ERR298326,694005,Murine coronavirus,66,5
+ERR298326,166124,Human enteric coronavirus 4408,63,52
+ERR298326,11138,Murine hepatitis virus,61,59
+ERR298326,1679921,Coronavirus RCoV/SPB40/Liomys_spec/MEX/2011,57,57
+ERR298326,1160968,Rabbit coronavirus HKU14,48,48
+ERR298326,693996,Alphacoronavirus,45,0
+ERR298326,2509480,Duvinacovirus,35,1
+ERR298326,11137,Human coronavirus 229E,34,34
+ERR298326,1928434,Betacoronavirus sp.,31,31
+ERR298326,1381358,Bat Coronavirus Rhhar/CII_KSA_004/Bisha/Saudi Arabia/2013,30,30
+ERR298326,2050018,Rodent coronavirus,21,21
+ERR298326,1679890,Coronavirus RCoV/D_RMU10_1940/Myo_gla/GER/2010,11,11
+ERR298326,627439,Human enteric coronavirus strain 4408,11,11
+ERR298326,2509512,Setracovirus,7,0
+ERR298326,277944,Human coronavirus NL63,7,7
+ERR298326,694013,Gammacoronavirus,3,0
+ERR298326,366617,unclassified Alphacoronavirus,3,0
+ERR298326,694014,Avian coronavirus,3,0
+ERR298326,2509487,Igacovirus,3,0
+ERR298326,11120,Infectious bronchitis virus,3,3
+ERR298326,404135,Bovine coronavirus isolate Alpaca,3,3
+ERR298326,1699096,Camel coronavirus HKU23,3,3
+ERR298326,1770168,Alpaca coronavirus,2,2
+ERR298326,1679911,Coronavirus RCoV/Lmg115/Sig_spec/MEX/2011,2,2
+ERR298326,290028,Human coronavirus HKU1,2,2
+ERR298326,502106,Murine coronavirus MHV-1,2,2
+ERR298326,2509494,Merbecovirus,1,0
+ERR298326,473588,Bovine coronavirus Bubalus/Italy/179/07-11,1,1
+ERR298326,422214,Bovine coronavirus R-AH65,1,1
+ERR298326,422134,White-tailed deer coronavirus US/OH-WD470/1994,1,1
+ERR298326,1679885,Coronavirus RCoV/D_RMU10_1182/Mic_agr/GER/2010,1,1
+ERR298326,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+ERR298326,1508223,Longquan Rl rat coronavirus,1,1
+ERR298330,2501931,Orthocoronavirinae,1,0
+ERR298330,693996,Alphacoronavirus,1,0
+ERR298330,2509512,Setracovirus,1,0
+ERR298330,277944,Human coronavirus NL63,1,1
+ERR3013324,2509505,Pedacovirus,1326,0
+ERR3013324,2501931,Orthocoronavirinae,1326,0
+ERR3013324,693996,Alphacoronavirus,1326,0
+ERR3013324,28295,Porcine epidemic diarrhea virus,1326,1326
+ERR3038465,694014,Avian coronavirus,1,0
+ERR3038465,2509487,Igacovirus,1,0
+ERR3038465,2501931,Orthocoronavirinae,1,0
+ERR3038465,694013,Gammacoronavirus,1,0
+ERR3038465,300189,Pigeon coronavirus,1,1
+ERR3042035,2501931,Orthocoronavirinae,2,0
+ERR3042035,2509487,Igacovirus,2,0
+ERR3042035,694013,Gammacoronavirus,2,0
+ERR3042035,694014,Avian coronavirus,2,0
+ERR3042035,300189,Pigeon coronavirus,2,2
+ERR3178780,693996,Alphacoronavirus,1,0
+ERR3178780,2501931,Orthocoronavirinae,1,0
+ERR3178780,366617,unclassified Alphacoronavirus,1,0
+ERR3178780,1906673,Alphacoronavirus sp.,1,1
+ERR3178875,693996,Alphacoronavirus,2,0
+ERR3178875,2501931,Orthocoronavirinae,2,0
+ERR3178875,366617,unclassified Alphacoronavirus,2,1
+ERR3178875,1906673,Alphacoronavirus sp.,1,1
+ERR3179194,2501931,Orthocoronavirinae,5345,22
+ERR3179194,694002,Betacoronavirus,5323,171
+ERR3179194,696098,unclassified Betacoronavirus,5152,146
+ERR3179194,1928434,Betacoronavirus sp.,5004,5004
+ERR3179194,693995,Coronavirinae,7,0
+ERR3179194,2664420,unclassified Coronavirinae,7,1
+ERR3179194,2050018,Rodent coronavirus,6,6
+ERR3179194,1508222,Longquan Aa mouse coronavirus,2,2
+ERR3179292,2501931,Orthocoronavirinae,2,0
+ERR3179292,694002,Betacoronavirus,2,1
+ERR3179292,696098,unclassified Betacoronavirus,1,0
+ERR3179292,1928434,Betacoronavirus sp.,1,1
+ERR3179740,366617,unclassified Alphacoronavirus,1,0
+ERR3179740,2501931,Orthocoronavirinae,1,0
+ERR3179740,693996,Alphacoronavirus,1,0
+ERR3179740,1906673,Alphacoronavirus sp.,1,1
+ERR3179753,2501931,Orthocoronavirinae,1,0
+ERR3179753,693996,Alphacoronavirus,1,0
+ERR3179753,366617,unclassified Alphacoronavirus,1,0
+ERR3179753,1906673,Alphacoronavirus sp.,1,1
+ERR3179988,2501931,Orthocoronavirinae,25,0
+ERR3179988,694002,Betacoronavirus,25,4
+ERR3179988,696098,unclassified Betacoronavirus,21,0
+ERR3179988,1928434,Betacoronavirus sp.,21,21
+ERR3179991,2501931,Orthocoronavirinae,38,0
+ERR3179991,694002,Betacoronavirus,38,6
+ERR3179991,696098,unclassified Betacoronavirus,31,2
+ERR3179991,1928434,Betacoronavirus sp.,29,29
+ERR3179991,2509481,Embecovirus,1,0
+ERR3179991,2501960,China Rattus coronavirus HKU24,1,0
+ERR3179991,1590370,Betacoronavirus HKU24,1,1
+ERR3179999,694002,Betacoronavirus,1,0
+ERR3179999,696098,unclassified Betacoronavirus,1,0
+ERR3179999,2501931,Orthocoronavirinae,1,0
+ERR3179999,1928434,Betacoronavirus sp.,1,1
+ERR3180076,2501931,Orthocoronavirinae,22,0
+ERR3180076,694002,Betacoronavirus,22,3
+ERR3180076,696098,unclassified Betacoronavirus,19,1
+ERR3180076,1928434,Betacoronavirus sp.,18,18
+ERR3180079,2501931,Orthocoronavirinae,48,0
+ERR3180079,694002,Betacoronavirus,48,2
+ERR3180079,696098,unclassified Betacoronavirus,45,2
+ERR3180079,1928434,Betacoronavirus sp.,43,43
+ERR3180079,2509481,Embecovirus,1,0
+ERR3180079,2501960,China Rattus coronavirus HKU24,1,0
+ERR3180079,1590370,Betacoronavirus HKU24,1,1
+ERR3180141,2501931,Orthocoronavirinae,2,0
+ERR3180141,694002,Betacoronavirus,2,0
+ERR3180141,2509481,Embecovirus,2,0
+ERR3180141,694003,Betacoronavirus 1,2,1
+ERR3180141,31631,Human coronavirus OC43,1,1
+ERR3180227,694002,Betacoronavirus,2,0
+ERR3180227,2501931,Orthocoronavirinae,2,0
+ERR3180227,2509481,Embecovirus,2,0
+ERR3180227,694003,Betacoronavirus 1,2,2
+ERR3180325,2501931,Orthocoronavirinae,5,0
+ERR3180325,694002,Betacoronavirus,5,0
+ERR3180325,696098,unclassified Betacoronavirus,5,2
+ERR3180325,1928434,Betacoronavirus sp.,3,3
+ERR3180328,2501931,Orthocoronavirinae,1,0
+ERR3180328,694002,Betacoronavirus,1,0
+ERR3180328,696098,unclassified Betacoronavirus,1,0
+ERR3180328,1928434,Betacoronavirus sp.,1,1
+ERR3180333,2501931,Orthocoronavirinae,2,0
+ERR3180333,694002,Betacoronavirus,2,0
+ERR3180333,696098,unclassified Betacoronavirus,2,0
+ERR3180333,1928434,Betacoronavirus sp.,2,2
+ERR3180334,694002,Betacoronavirus,15,0
+ERR3180334,696098,unclassified Betacoronavirus,15,0
+ERR3180334,2501931,Orthocoronavirinae,15,0
+ERR3180334,1928434,Betacoronavirus sp.,15,15
+ERR3180342,2501931,Orthocoronavirinae,11,0
+ERR3180342,696098,unclassified Betacoronavirus,11,0
+ERR3180342,694002,Betacoronavirus,11,0
+ERR3180342,1928434,Betacoronavirus sp.,11,11
+ERR3180365,2501931,Orthocoronavirinae,8,0
+ERR3180365,694002,Betacoronavirus,8,0
+ERR3180365,2509481,Embecovirus,8,0
+ERR3180365,694003,Betacoronavirus 1,8,5
+ERR3180365,31631,Human coronavirus OC43,2,2
+ERR3180365,11128,Bovine coronavirus,1,1
+ERR3180366,696098,unclassified Betacoronavirus,1,0
+ERR3180366,2501931,Orthocoronavirinae,1,0
+ERR3180366,694002,Betacoronavirus,1,0
+ERR3180366,1928434,Betacoronavirus sp.,1,1
+ERR3180388,2509481,Embecovirus,4,0
+ERR3180388,694002,Betacoronavirus,4,0
+ERR3180388,2501931,Orthocoronavirinae,4,0
+ERR3180388,694003,Betacoronavirus 1,4,3
+ERR3180388,31631,Human coronavirus OC43,1,1
+ERR3180420,696098,unclassified Betacoronavirus,15,0
+ERR3180420,694002,Betacoronavirus,15,0
+ERR3180420,2501931,Orthocoronavirinae,15,0
+ERR3180420,1928434,Betacoronavirus sp.,15,15
+ERR3180422,2501931,Orthocoronavirinae,2,0
+ERR3180422,2509480,Duvinacovirus,2,0
+ERR3180422,693996,Alphacoronavirus,2,0
+ERR3180422,11137,Human coronavirus 229E,2,2
+ERR3180428,694002,Betacoronavirus,9,0
+ERR3180428,696098,unclassified Betacoronavirus,9,0
+ERR3180428,2501931,Orthocoronavirinae,9,0
+ERR3180428,1928434,Betacoronavirus sp.,9,9
+ERR3180430,694002,Betacoronavirus,1,0
+ERR3180430,2501931,Orthocoronavirinae,1,0
+ERR3180430,696098,unclassified Betacoronavirus,1,0
+ERR3180430,1928434,Betacoronavirus sp.,1,1
+ERR3180444,2501931,Orthocoronavirinae,7,0
+ERR3180444,696098,unclassified Betacoronavirus,7,0
+ERR3180444,694002,Betacoronavirus,7,0
+ERR3180444,1928434,Betacoronavirus sp.,7,7
+ERR3180451,2501931,Orthocoronavirinae,7,1
+ERR3180451,694002,Betacoronavirus,6,0
+ERR3180451,2509481,Embecovirus,6,0
+ERR3180451,694003,Betacoronavirus 1,6,4
+ERR3180451,11128,Bovine coronavirus,1,1
+ERR3180451,31631,Human coronavirus OC43,1,1
+ERR3180452,694002,Betacoronavirus,1,0
+ERR3180452,2501931,Orthocoronavirinae,1,0
+ERR3180452,696098,unclassified Betacoronavirus,1,0
+ERR3180452,1928434,Betacoronavirus sp.,1,1
+ERR3180474,2501931,Orthocoronavirinae,6,0
+ERR3180474,694002,Betacoronavirus,6,0
+ERR3180474,2509481,Embecovirus,6,0
+ERR3180474,694003,Betacoronavirus 1,6,2
+ERR3180474,31631,Human coronavirus OC43,4,4
+ERR3180546,2501931,Orthocoronavirinae,189,0
+ERR3180546,2509512,Setracovirus,189,0
+ERR3180546,693996,Alphacoronavirus,189,0
+ERR3180546,277944,Human coronavirus NL63,189,189
+ERR3180622,2509481,Embecovirus,2,0
+ERR3180622,694002,Betacoronavirus,2,0
+ERR3180622,2501931,Orthocoronavirinae,2,0
+ERR3180622,694003,Betacoronavirus 1,2,2
+ERR3180630,2509512,Setracovirus,178,0
+ERR3180630,2501931,Orthocoronavirinae,178,0
+ERR3180630,693996,Alphacoronavirus,178,0
+ERR3180630,277944,Human coronavirus NL63,178,178
+ERR3180654,2501931,Orthocoronavirinae,5015,13
+ERR3180654,694002,Betacoronavirus,5002,197
+ERR3180654,696098,unclassified Betacoronavirus,4803,136
+ERR3180654,1928434,Betacoronavirus sp.,4667,4667
+ERR3180654,2664420,unclassified Coronavirinae,5,0
+ERR3180654,693995,Coronavirinae,5,0
+ERR3180654,2050018,Rodent coronavirus,5,5
+ERR3180654,2509481,Embecovirus,2,0
+ERR3180654,2501960,China Rattus coronavirus HKU24,1,0
+ERR3180654,694003,Betacoronavirus 1,1,0
+ERR3180654,1590370,Betacoronavirus HKU24,1,1
+ERR3180654,11128,Bovine coronavirus,1,1
+ERR3180700,2501931,Orthocoronavirinae,1,0
+ERR3180700,696098,unclassified Betacoronavirus,1,0
+ERR3180700,694002,Betacoronavirus,1,0
+ERR3180700,1928434,Betacoronavirus sp.,1,1
+ERR3180740,2501931,Orthocoronavirinae,5133,22
+ERR3180740,694002,Betacoronavirus,5111,228
+ERR3180740,696098,unclassified Betacoronavirus,4883,140
+ERR3180740,1928434,Betacoronavirus sp.,4740,4740
+ERR3180740,1508222,Longquan Aa mouse coronavirus,3,3
+ERR3180740,2664420,unclassified Coronavirinae,2,0
+ERR3180740,693995,Coronavirinae,2,0
+ERR3180740,2050018,Rodent coronavirus,2,2
+ERR3180759,2501931,Orthocoronavirinae,1,0
+ERR3180759,694002,Betacoronavirus,1,0
+ERR3180759,696098,unclassified Betacoronavirus,1,1
+ERR323200,2501931,Orthocoronavirinae,7,0
+ERR323200,2509481,Embecovirus,7,0
+ERR323200,694002,Betacoronavirus,7,0
+ERR323200,694003,Betacoronavirus 1,7,5
+ERR323200,31631,Human coronavirus OC43,2,2
+ERR346919,2501931,Orthocoronavirinae,2,0
+ERR346919,694002,Betacoronavirus,2,0
+ERR346919,2509494,Merbecovirus,2,0
+ERR346919,1335626,Middle East respiratory syndrome-related coronavirus,2,2
+ERR357851,2509494,Merbecovirus,1,0
+ERR357851,2501931,Orthocoronavirinae,1,0
+ERR357851,694002,Betacoronavirus,1,0
+ERR357851,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+ERR3649035,2509480,Duvinacovirus,1,0
+ERR3649035,2501931,Orthocoronavirinae,1,0
+ERR3649035,693996,Alphacoronavirus,1,0
+ERR3649035,11137,Human coronavirus 229E,1,1
+ERR3932984,693997,Alphacoronavirus 1,1,0
+ERR3932984,2509514,Tegacovirus,1,0
+ERR3932984,2501931,Orthocoronavirinae,1,0
+ERR3932984,693996,Alphacoronavirus,1,0
+ERR3932984,12663,Feline coronavirus,1,1
+ERR417408,2509494,Merbecovirus,71,0
+ERR417408,2501931,Orthocoronavirinae,71,0
+ERR417408,694002,Betacoronavirus,71,0
+ERR417408,1335626,Middle East respiratory syndrome-related coronavirus,71,71
+ERR417411,2501931,Orthocoronavirinae,51,0
+ERR417411,694002,Betacoronavirus,51,0
+ERR417411,2509494,Merbecovirus,51,0
+ERR417411,1335626,Middle East respiratory syndrome-related coronavirus,51,51
+ERR417414,2509494,Merbecovirus,96,0
+ERR417414,2501931,Orthocoronavirinae,96,0
+ERR417414,694002,Betacoronavirus,96,0
+ERR417414,1335626,Middle East respiratory syndrome-related coronavirus,95,95
+ERR417414,694008,Pipistrellus bat coronavirus HKU5,1,1
+ERR417415,694002,Betacoronavirus,40,0
+ERR417415,2501931,Orthocoronavirinae,40,0
+ERR417415,2509494,Merbecovirus,35,0
+ERR417415,1335626,Middle East respiratory syndrome-related coronavirus,35,35
+ERR417415,2509481,Embecovirus,5,0
+ERR417415,694003,Betacoronavirus 1,5,5
+ERR417422,694002,Betacoronavirus,68,0
+ERR417422,2501931,Orthocoronavirinae,68,0
+ERR417422,2509494,Merbecovirus,68,0
+ERR417422,1335626,Middle East respiratory syndrome-related coronavirus,68,68
+ERR422481,694002,Betacoronavirus,12,0
+ERR422481,2509494,Merbecovirus,12,0
+ERR422481,2501931,Orthocoronavirinae,12,0
+ERR422481,1335626,Middle East respiratory syndrome-related coronavirus,12,12
+ERR422493,2509494,Merbecovirus,4,0
+ERR422493,694002,Betacoronavirus,4,0
+ERR422493,2501931,Orthocoronavirinae,4,0
+ERR422493,1335626,Middle East respiratory syndrome-related coronavirus,4,4
+ERR422494,2501931,Orthocoronavirinae,24,0
+ERR422494,694002,Betacoronavirus,24,0
+ERR422494,2509494,Merbecovirus,24,0
+ERR422494,1335626,Middle East respiratory syndrome-related coronavirus,24,24
+ERR438873,2501931,Orthocoronavirinae,186,0
+ERR438873,694002,Betacoronavirus,186,0
+ERR438873,2509481,Embecovirus,186,0
+ERR438873,694003,Betacoronavirus 1,186,184
+ERR438873,31631,Human coronavirus OC43,2,2
+ERR438876,2509481,Embecovirus,391,0
+ERR438876,2501931,Orthocoronavirinae,391,0
+ERR438876,694002,Betacoronavirus,391,0
+ERR438876,694003,Betacoronavirus 1,391,382
+ERR438876,31631,Human coronavirus OC43,9,9
+ERR505433,694002,Betacoronavirus,1,0
+ERR505433,693995,Coronavirinae,1,0
+ERR505433,290028,Human coronavirus HKU1,1,1
+ERR525191,694002,Betacoronavirus,1,0
+ERR525191,693995,Coronavirinae,1,0
+ERR525191,290028,Human coronavirus HKU1,1,1
+ERR525200,693995,Coronavirinae,1,0
+ERR525200,694002,Betacoronavirus,1,0
+ERR525200,290028,Human coronavirus HKU1,1,1
+ERR527392,693995,Coronavirinae,24,0
+ERR527392,696098,unclassified Betacoronavirus,24,0
+ERR527392,694002,Betacoronavirus,24,0
+ERR527392,1335626,Middle East respiratory syndrome coronavirus,24,24
+ERR527393,694002,Betacoronavirus,1,0
+ERR527393,696098,unclassified Betacoronavirus,1,0
+ERR527393,693995,Coronavirinae,1,0
+ERR527393,1335626,Middle East respiratory syndrome coronavirus,1,1
+ERR575819,693995,Coronavirinae,211279,0
+ERR575819,694002,Betacoronavirus,211279,1
+ERR575819,696098,unclassified Betacoronavirus,211276,10
+ERR575819,1335626,Middle East respiratory syndrome coronavirus,211264,211264
+ERR575819,1385427,Betacoronavirus Erinaceus/VMC/DEU/2012,2,2
+ERR575819,694007,Tylonycteris bat coronavirus HKU4,2,2
+ERR575823,696098,unclassified Betacoronavirus,76782,0
+ERR575823,693995,Coronavirinae,76782,0
+ERR575823,694002,Betacoronavirus,76782,0
+ERR575823,1335626,Middle East respiratory syndrome coronavirus,76782,76782
+ERR575869,694002,Betacoronavirus,5903,0
+ERR575869,693995,Coronavirinae,5903,0
+ERR575869,696098,unclassified Betacoronavirus,5903,0
+ERR575869,1335626,Middle East respiratory syndrome coronavirus,5903,5903
+ERR575910,693995,Coronavirinae,154,0
+ERR575910,694002,Betacoronavirus,154,0
+ERR575910,696098,unclassified Betacoronavirus,154,0
+ERR575910,1335626,Middle East respiratory syndrome coronavirus,154,154
+ERR575915,2501931,Orthocoronavirinae,7,0
+ERR575915,2509494,Merbecovirus,7,0
+ERR575915,694002,Betacoronavirus,7,0
+ERR575915,1335626,Middle East respiratory syndrome-related coronavirus,7,7
+ERR808260,694013,Gammacoronavirus,1,0
+ERR808260,2509487,Igacovirus,1,0
+ERR808260,2501931,Orthocoronavirinae,1,0
+ERR808260,694014,Avian coronavirus,1,1
+ERR808265,2501931,Orthocoronavirinae,1,0
+ERR808265,2509487,Igacovirus,1,0
+ERR808265,694014,Avian coronavirus,1,0
+ERR808265,694013,Gammacoronavirus,1,0
+ERR808265,11120,Infectious bronchitis virus,1,1
+ERR809732,2501931,Orthocoronavirinae,1,0
+ERR809732,2509505,Pedacovirus,1,0
+ERR809732,693996,Alphacoronavirus,1,0
+ERR809732,28295,Porcine epidemic diarrhea virus,1,1
+ERR873305,2509494,Merbecovirus,11,0
+ERR873305,2501931,Orthocoronavirinae,11,0
+ERR873305,694002,Betacoronavirus,11,0
+ERR873305,1335626,Middle East respiratory syndrome-related coronavirus,11,11
+ERR873315,2509494,Merbecovirus,15,0
+ERR873315,2501931,Orthocoronavirinae,15,0
+ERR873315,694002,Betacoronavirus,15,0
+ERR873315,1335626,Middle East respiratory syndrome-related coronavirus,15,15
+ERR873316,2501931,Orthocoronavirinae,12,0
+ERR873316,2509494,Merbecovirus,12,0
+ERR873316,694002,Betacoronavirus,12,0
+ERR873316,1335626,Middle East respiratory syndrome-related coronavirus,12,12
+ERR873359,694002,Betacoronavirus,9,0
+ERR873359,2509494,Merbecovirus,9,0
+ERR873359,2501931,Orthocoronavirinae,9,0
+ERR873359,1335626,Middle East respiratory syndrome-related coronavirus,9,9
+ERR873361,2501931,Orthocoronavirinae,7,0
+ERR873361,694002,Betacoronavirus,7,0
+ERR873361,2509494,Merbecovirus,7,1
+ERR873361,1335626,Middle East respiratory syndrome-related coronavirus,6,6
+ERR873362,693995,Coronavirinae,8,0
+ERR873362,696098,unclassified Betacoronavirus,8,0
+ERR873362,694002,Betacoronavirus,8,0
+ERR873362,1335626,Middle East respiratory syndrome coronavirus,8,8
+ERR873370,2501931,Orthocoronavirinae,6,0
+ERR873370,2509494,Merbecovirus,6,0
+ERR873370,694002,Betacoronavirus,6,0
+ERR873370,1335626,Middle East respiratory syndrome-related coronavirus,6,6
+ERR963000,2501931,Orthocoronavirinae,688,0
+ERR963000,694002,Betacoronavirus,688,4
+ERR963000,2509494,Merbecovirus,684,1
+ERR963000,1335626,Middle East respiratory syndrome-related coronavirus,683,682
+ERR963000,1368314,Coronavirus Neoromicia/PML-PHE1/RSA/2011,1,1
+ERR963002,2501931,Orthocoronavirinae,74,0
+ERR963002,2509494,Merbecovirus,74,0
+ERR963002,694002,Betacoronavirus,74,0
+ERR963002,1335626,Middle East respiratory syndrome-related coronavirus,74,74
+ERR963003,694002,Betacoronavirus,31,0
+ERR963003,2501931,Orthocoronavirinae,31,0
+ERR963003,2509494,Merbecovirus,31,0
+ERR963003,1335626,Middle East respiratory syndrome-related coronavirus,31,31
+ERR963007,2501931,Orthocoronavirinae,575,0
+ERR963007,694002,Betacoronavirus,575,7
+ERR963007,2509494,Merbecovirus,568,0
+ERR963007,1335626,Middle East respiratory syndrome-related coronavirus,568,568
+ERR963009,694002,Betacoronavirus,306,0
+ERR963009,2509494,Merbecovirus,306,0
+ERR963009,2501931,Orthocoronavirinae,306,0
+ERR963009,1335626,Middle East respiratory syndrome-related coronavirus,306,306
+ERR963017,2501931,Orthocoronavirinae,25,0
+ERR963017,694002,Betacoronavirus,25,1
+ERR963017,2509494,Merbecovirus,24,0
+ERR963017,1335626,Middle East respiratory syndrome-related coronavirus,24,24
+ERR963030,2501931,Orthocoronavirinae,3,0
+ERR963030,2509494,Merbecovirus,3,0
+ERR963030,694002,Betacoronavirus,3,0
+ERR963030,1335626,Middle East respiratory syndrome-related coronavirus,3,3
+ERR963031,2501931,Orthocoronavirinae,8,0
+ERR963031,694002,Betacoronavirus,8,0
+ERR963031,2509494,Merbecovirus,8,0
+ERR963031,1335626,Middle East respiratory syndrome-related coronavirus,8,8
+ERR963032,2501931,Orthocoronavirinae,3,0
+ERR963032,694002,Betacoronavirus,3,0
+ERR963032,2509494,Merbecovirus,3,0
+ERR963032,1335626,Middle East respiratory syndrome-related coronavirus,3,3
+ERR963033,2509494,Merbecovirus,3,0
+ERR963033,2501931,Orthocoronavirinae,3,0
+ERR963033,694002,Betacoronavirus,3,0
+ERR963033,1335626,Middle East respiratory syndrome-related coronavirus,3,3
+ERR963047,694002,Betacoronavirus,1,0
+ERR963047,2509494,Merbecovirus,1,0
+ERR963047,2501931,Orthocoronavirinae,1,0
+ERR963047,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+ERR963051,2509494,Merbecovirus,31,0
+ERR963051,2501931,Orthocoronavirinae,31,0
+ERR963051,694002,Betacoronavirus,31,0
+ERR963051,1335626,Middle East respiratory syndrome-related coronavirus,31,31
+ERR963072,2501931,Orthocoronavirinae,1,0
+ERR963072,694002,Betacoronavirus,1,0
+ERR963072,2509494,Merbecovirus,1,0
+ERR963072,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+ERR963074,2501931,Orthocoronavirinae,6,0
+ERR963074,694002,Betacoronavirus,6,0
+ERR963074,2509494,Merbecovirus,6,0
+ERR963074,1335626,Middle East respiratory syndrome-related coronavirus,6,6
+ERR963083,694002,Betacoronavirus,16,0
+ERR963083,2501931,Orthocoronavirinae,16,0
+ERR963083,2509494,Merbecovirus,16,0
+ERR963083,1335626,Middle East respiratory syndrome-related coronavirus,16,16
+ERR963091,694002,Betacoronavirus,15,0
+ERR963091,2509494,Merbecovirus,15,0
+ERR963091,2501931,Orthocoronavirinae,15,0
+ERR963091,1335626,Middle East respiratory syndrome-related coronavirus,15,15
+ERR969493,2501931,Orthocoronavirinae,6,0
+ERR969493,2509481,Embecovirus,4,0
+ERR969493,694002,Betacoronavirus,4,0
+ERR969493,694003,Betacoronavirus 1,3,3
+ERR969493,693996,Alphacoronavirus,2,0
+ERR969493,2509480,Duvinacovirus,2,1
+ERR969493,11137,Human coronavirus 229E,1,1
+ERR969493,290028,Human coronavirus HKU1,1,1
+SRR033892,2501931,Orthocoronavirinae,13,3
+SRR033892,694002,Betacoronavirus,10,1
+SRR033892,2509481,Embecovirus,9,0
+SRR033892,694003,Betacoronavirus 1,9,9
+SRR057834,2509481,Embecovirus,3,0
+SRR057834,694002,Betacoronavirus,3,0
+SRR057834,2501931,Orthocoronavirinae,3,0
+SRR057834,694005,Murine coronavirus,3,2
+SRR057834,11138,Murine hepatitis virus,1,1
+SRR057858,2501931,Orthocoronavirinae,7289,9
+SRR057858,694002,Betacoronavirus,7280,46
+SRR057858,2509481,Embecovirus,7233,13
+SRR057858,694005,Murine coronavirus,7220,5558
+SRR057858,11138,Murine hepatitis virus,1657,1655
+SRR057858,31632,Rat coronavirus,5,5
+SRR057858,502106,Murine coronavirus MHV-1,2,2
+SRR057858,696098,unclassified Betacoronavirus,1,0
+SRR057858,2664420,unclassified Coronavirinae,1,0
+SRR057858,693995,Coronavirinae,1,0
+SRR057858,1508223,Longquan Rl rat coronavirus,1,1
+SRR057858,2050018,Rodent coronavirus,1,1
+SRR057862,2501931,Orthocoronavirinae,1,0
+SRR057862,2509481,Embecovirus,1,0
+SRR057862,694002,Betacoronavirus,1,0
+SRR057862,694005,Murine coronavirus,1,1
+SRR10033324,2501931,Orthocoronavirinae,163,1
+SRR10033324,694002,Betacoronavirus,162,1
+SRR10033324,2509481,Embecovirus,161,0
+SRR10033324,694003,Betacoronavirus 1,161,83
+SRR10033324,31631,Human coronavirus OC43,77,77
+SRR10033324,2030446,Coronavirus HKU23,1,0
+SRR10033324,1479610,Dromedary camel coronavirus HKU23,1,1
+SRR10033357,2501931,Orthocoronavirinae,3,0
+SRR10033357,693996,Alphacoronavirus,3,0
+SRR10033357,2509512,Setracovirus,3,0
+SRR10033357,277944,Human coronavirus NL63,3,3
+SRR10139821,2509505,Pedacovirus,2,0
+SRR10139821,693996,Alphacoronavirus,2,0
+SRR10139821,2501931,Orthocoronavirinae,2,0
+SRR10139821,28295,Porcine epidemic diarrhea virus,2,2
+SRR10144502,2501931,Orthocoronavirinae,1,0
+SRR10144502,694002,Betacoronavirus,1,0
+SRR10144502,2509481,Embecovirus,1,0
+SRR10144502,290028,Human coronavirus HKU1,1,1
+SRR10186444,693996,Alphacoronavirus,2,0
+SRR10186444,2501931,Orthocoronavirinae,2,0
+SRR10186444,2509505,Pedacovirus,2,0
+SRR10186444,28295,Porcine epidemic diarrhea virus,2,2
+SRR10221777,2501931,Orthocoronavirinae,29,1
+SRR10221777,693995,Coronavirinae,17,0
+SRR10221777,2664420,unclassified Coronavirinae,17,1
+SRR10221777,693996,Alphacoronavirus,16,0
+SRR10221777,2509480,Duvinacovirus,13,3
+SRR10221777,864618,Bat coronavirus BR98-55/BGR/2008,13,13
+SRR10221777,694002,Betacoronavirus,12,0
+SRR10221777,11137,Human coronavirus 229E,10,1
+SRR10221777,1739614,229E-related bat coronavirus,9,9
+SRR10221777,696098,unclassified Betacoronavirus,8,0
+SRR10221777,2042556,Coronavirus PREDICT CoV-30,7,7
+SRR10221777,2509481,Embecovirus,3,0
+SRR10221777,694003,Betacoronavirus 1,3,0
+SRR10221777,366617,unclassified Alphacoronavirus,3,3
+SRR10221777,31631,Human coronavirus OC43,3,3
+SRR10221777,1508220,Bat coronavirus,2,2
+SRR10221777,2509511,Sarbecovirus,1,0
+SRR10221777,694009,Severe acute respiratory syndrome-related coronavirus,1,0
+SRR10221777,983924,Eidolon bat coronavirus/Kenya/KY24/2006,1,1
+SRR10221777,1269292,Coronavirus BCoV/PB675/Art_lit/PAN/2011,1,1
+SRR10221777,1508227,Bat SARS-like coronavirus,1,1
+SRR10221784,693995,Coronavirinae,426,0
+SRR10221784,2664420,unclassified Coronavirinae,426,8
+SRR10221784,1508220,Bat coronavirus,249,249
+SRR10221784,2501931,Orthocoronavirinae,215,2
+SRR10221784,693996,Alphacoronavirus,201,2
+SRR10221784,366617,unclassified Alphacoronavirus,190,3
+SRR10221784,1897080,Bat coronavirus Stu.lil/1613/BRA/2012,151,151
+SRR10221784,1269302,Coronavirus BtCoV/KCR24/Ano_geo/CRC/2010,136,136
+SRR10221784,864618,Bat coronavirus BR98-55/BGR/2008,14,14
+SRR10221784,2042565,Coronavirus PREDICT CoV-4,14,14
+SRR10221784,694002,Betacoronavirus,10,0
+SRR10221784,2419667,Bat alphacoronavirus,10,10
+SRR10221784,1487701,Myotis daubentonii coronavirus,10,10
+SRR10221784,696098,unclassified Betacoronavirus,7,0
+SRR10221784,2509480,Duvinacovirus,5,2
+SRR10221784,2509514,Tegacovirus,4,0
+SRR10221784,693997,Alphacoronavirus 1,4,0
+SRR10221784,2042556,Coronavirus PREDICT CoV-30,4,4
+SRR10221784,1269292,Coronavirus BCoV/PB675/Art_lit/PAN/2011,4,4
+SRR10221784,1868634,Bat coronavirus/2173/2014/Cynomops planirostris/Brazil,4,4
+SRR10221784,11137,Human coronavirus 229E,3,1
+SRR10221784,983924,Eidolon bat coronavirus/Kenya/KY24/2006,3,3
+SRR10221784,1225483,Bat coronavirus Gabon/292/2009,3,3
+SRR10221784,694003,Betacoronavirus 1,2,0
+SRR10221784,694013,Gammacoronavirus,2,0
+SRR10221784,2509481,Embecovirus,2,0
+SRR10221784,2042542,Coronavirus PREDICT CoV-15,2,2
+SRR10221784,11153,Canine coronavirus,2,2
+SRR10221784,31631,Human coronavirus OC43,2,2
+SRR10221784,1739614,229E-related bat coronavirus,2,2
+SRR10221784,1897067,Bat coronavirus Art.lit/1816/BRA/2010,2,2
+SRR10221784,12663,Feline coronavirus,2,2
+SRR10221784,2509476,Cegacovirus,1,0
+SRR10221784,694014,Avian coronavirus,1,0
+SRR10221784,2509487,Igacovirus,1,0
+SRR10221784,2509494,Merbecovirus,1,0
+SRR10221784,694015,Beluga whale coronavirus SW1,1,0
+SRR10221784,2042644,Alphacoronavirus Trinidad/1FY2BA/2007,1,1
+SRR10221784,11120,Infectious bronchitis virus,1,1
+SRR10221784,1004948,Rocky Mountain bat coronavirus 61/2007/EF,1,1
+SRR10221784,903623,Kenya bat coronavirus BtKY85,1,1
+SRR10221784,1897072,Bat coronavirus Car.per/1599/BRA/2012,1,1
+SRR10221784,1433215,Bottlenose dolphin coronavirus HKU22,1,1
+SRR10221784,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+SRR10221784,1906673,Alphacoronavirus sp.,1,1
+SRR10221784,903592,Kenya bat coronavirus BtKY54,1,1
+SRR10221786,2501931,Orthocoronavirinae,751,7
+SRR10221786,693996,Alphacoronavirus,711,1
+SRR10221786,366617,unclassified Alphacoronavirus,700,45
+SRR10221786,2042562,Coronavirus PREDICT CoV-37,618,618
+SRR10221786,693995,Coronavirinae,75,0
+SRR10221786,2664420,unclassified Coronavirinae,75,13
+SRR10221786,694002,Betacoronavirus,28,0
+SRR10221786,2419667,Bat alphacoronavirus,25,25
+SRR10221786,864618,Bat coronavirus BR98-55/BGR/2008,23,23
+SRR10221786,1508220,Bat coronavirus,19,19
+SRR10221786,2509481,Embecovirus,10,0
+SRR10221786,694003,Betacoronavirus 1,10,0
+SRR10221786,31631,Human coronavirus OC43,10,10
+SRR10221786,696098,unclassified Betacoronavirus,8,0
+SRR10221786,2509511,Sarbecovirus,6,0
+SRR10221786,694009,Severe acute respiratory syndrome-related coronavirus,6,0
+SRR10221786,2509480,Duvinacovirus,6,3
+SRR10221786,1269292,Coronavirus BCoV/PB675/Art_lit/PAN/2011,6,6
+SRR10221786,983924,Eidolon bat coronavirus/Kenya/KY24/2006,6,6
+SRR10221786,1487701,Myotis daubentonii coronavirus,6,6
+SRR10221786,694013,Gammacoronavirus,5,0
+SRR10221786,347536,Bat SARS CoV Rm1/2004,5,5
+SRR10221786,2509477,Colacovirus,4,0
+SRR10221786,1913643,Bat coronavirus CDPHE15,4,4
+SRR10221786,1699322,Myotis Bat Alphacoronavirus strain YNXY_11C,4,4
+SRR10221786,2509476,Cegacovirus,3,0
+SRR10221786,2509494,Merbecovirus,3,0
+SRR10221786,694015,Beluga whale coronavirus SW1,3,0
+SRR10221786,11137,Human coronavirus 229E,3,1
+SRR10221786,1225483,Bat coronavirus Gabon/292/2009,3,3
+SRR10221786,1433215,Bottlenose dolphin coronavirus HKU22,3,3
+SRR10221786,2509487,Igacovirus,2,0
+SRR10221786,694014,Avian coronavirus,2,2
+SRR10221786,1739614,229E-related bat coronavirus,2,2
+SRR10221786,2050018,Rodent coronavirus,2,2
+SRR10221786,745740,Coronavirus M.das/VM2/2007/NLD,2,2
+SRR10221786,1503287,BtMf-AlphaCoV/HuB2013-a,2,2
+SRR10221786,1335626,Middle East respiratory syndrome-related coronavirus,2,2
+SRR10221786,2509502,Nobecovirus,1,0
+SRR10221786,1897067,Bat coronavirus Art.lit/1816/BRA/2010,1,1
+SRR10221786,1508227,Bat SARS-like coronavirus,1,1
+SRR10221786,2042565,Coronavirus PREDICT CoV-4,1,1
+SRR10221786,903583,Kenya bat coronavirus BtKY45,1,1
+SRR10221786,2042696,Bat coronavirus 1,1,1
+SRR10221786,681885,Kenya bat coronavirus BtKY42,1,1
+SRR10221786,2042558,Coronavirus PREDICT CoV-33,1,1
+SRR10221786,903592,Kenya bat coronavirus BtKY54,1,1
+SRR10221786,1906673,Alphacoronavirus sp.,1,1
+SRR10221786,694006,Rousettus bat coronavirus HKU9,1,1
+SRR10221786,694007,Tylonycteris bat coronavirus HKU4,1,1
+SRR10221786,1146857,Bat coronavirus M.nattereri/UK/Sav/1106A,1,1
+SRR10221794,693995,Coronavirinae,83886,0
+SRR10221794,2664420,unclassified Coronavirinae,83886,29
+SRR10221794,864618,Bat coronavirus BR98-55/BGR/2008,83829,83829
+SRR10221794,2501931,Orthocoronavirinae,150,0
+SRR10221794,693996,Alphacoronavirus,129,1
+SRR10221794,366617,unclassified Alphacoronavirus,119,3
+SRR10221794,1503287,BtMf-AlphaCoV/HuB2013-a,66,66
+SRR10221794,2042696,Bat coronavirus 1,27,27
+SRR10221794,694002,Betacoronavirus,21,0
+SRR10221794,1508220,Bat coronavirus,21,21
+SRR10221794,2509494,Merbecovirus,12,0
+SRR10221794,2509480,Duvinacovirus,9,5
+SRR10221794,2042587,Coronavirus PREDICT CoV-63,9,9
+SRR10221794,694007,Tylonycteris bat coronavirus HKU4,7,7
+SRR10221794,1699344,Myotis Bat Alphacoronavirus strain YNXY_50C,5,5
+SRR10221794,696098,unclassified Betacoronavirus,4,0
+SRR10221794,11137,Human coronavirus 229E,4,1
+SRR10221794,694009,Severe acute respiratory syndrome-related coronavirus,3,0
+SRR10221794,2509511,Sarbecovirus,3,0
+SRR10221794,694008,Pipistrellus bat coronavirus HKU5,3,3
+SRR10221794,1897080,Bat coronavirus Stu.lil/1613/BRA/2012,3,3
+SRR10221794,1739614,229E-related bat coronavirus,3,3
+SRR10221794,983926,Miniopterus bat coronavirus/Kenya/KY27/2006,3,3
+SRR10221794,694003,Betacoronavirus 1,2,0
+SRR10221794,2509481,Embecovirus,2,0
+SRR10221794,903592,Kenya bat coronavirus BtKY54,2,2
+SRR10221794,1508227,Bat SARS-like coronavirus,2,2
+SRR10221794,31631,Human coronavirus OC43,2,2
+SRR10221794,2042556,Coronavirus PREDICT CoV-30,2,2
+SRR10221794,983924,Eidolon bat coronavirus/Kenya/KY24/2006,2,2
+SRR10221794,1225483,Bat coronavirus Gabon/292/2009,2,2
+SRR10221794,389126,Bat coronavirus China 2005,1,0
+SRR10221794,2664183,unclassified Merbecovirus,1,0
+SRR10221794,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+SRR10221794,1503303,BtRs-BetaCoV/YN2013,1,1
+SRR10221794,622709,Bat coronavirus Hipposideros/GhanaKwam/10/2008,1,1
+SRR10221794,2691590,Pipistrellus abramus bat coronavirus HKU5-related,1,1
+SRR10221794,1696543,Alphacoronavirus Pip3_M_FR_2014,1,1
+SRR10221794,2042576,Coronavirus PREDICT CoV-52,1,1
+SRR10221794,1269292,Coronavirus BCoV/PB675/Art_lit/PAN/2011,1,1
+SRR10221794,389162,Bat coronavirus (BtCoV/A914/2005),1,1
+SRR10221794,2419667,Bat alphacoronavirus,1,1
+SRR10221797,2501931,Orthocoronavirinae,48159,4226
+SRR10221797,693996,Alphacoronavirus,43799,70
+SRR10221797,2509480,Duvinacovirus,43722,4951
+SRR10221797,11137,Human coronavirus 229E,38770,3808
+SRR10221797,1739614,229E-related bat coronavirus,34944,34944
+SRR10221797,693995,Coronavirinae,225,0
+SRR10221797,2664420,unclassified Coronavirinae,225,11
+SRR10221797,903592,Kenya bat coronavirus BtKY54,162,162
+SRR10221797,694015,Beluga whale coronavirus SW1,118,0
+SRR10221797,2509476,Cegacovirus,118,0
+SRR10221797,694013,Gammacoronavirus,118,0
+SRR10221797,1433215,Bottlenose dolphin coronavirus HKU22,118,118
+SRR10221797,1508220,Bat coronavirus,22,22
+SRR10221797,1895985,Camel alphacoronavirus Camel229E,18,18
+SRR10221797,694002,Betacoronavirus,16,2
+SRR10221797,864618,Bat coronavirus BR98-55/BGR/2008,15,15
+SRR10221797,622709,Bat coronavirus Hipposideros/GhanaKwam/10/2008,11,11
+SRR10221797,696098,unclassified Betacoronavirus,7,0
+SRR10221797,366617,unclassified Alphacoronavirus,5,0
+SRR10221797,2042556,Coronavirus PREDICT CoV-30,5,5
+SRR10221797,2509481,Embecovirus,4,0
+SRR10221797,694003,Betacoronavirus 1,4,0
+SRR10221797,31631,Human coronavirus OC43,4,4
+SRR10221797,694009,Severe acute respiratory syndrome-related coronavirus,2,0
+SRR10221797,2509511,Sarbecovirus,2,0
+SRR10221797,2042696,Bat coronavirus 1,2,2
+SRR10221797,983924,Eidolon bat coronavirus/Kenya/KY24/2006,2,2
+SRR10221797,1225483,Bat coronavirus Gabon/292/2009,2,2
+SRR10221797,1508227,Bat SARS-like coronavirus,2,2
+SRR10221797,2691584,unclassified Duvinacovirus,1,0
+SRR10221797,2509494,Merbecovirus,1,0
+SRR10221797,2509503,Nyctacovirus,1,0
+SRR10221797,2501928,Nyctalus velutinus alphacoronavirus SC-2013,1,0
+SRR10221797,2509497,Minunacovirus,1,0
+SRR10221797,1018469,Bat coronavirus Hipposideros/Ratcha-67/THA/2007,1,1
+SRR10221797,1964806,Coronavirus AcCoV-JC34,1,1
+SRR10221797,1503291,BtNv-AlphaCoV/SC2013,1,1
+SRR10221797,1487704,Rhinolophus ferrumequinum coronavirus,1,1
+SRR10221797,1269292,Coronavirus BCoV/PB675/Art_lit/PAN/2011,1,1
+SRR10221797,2691585,Rousettus aegyptiacus bat coronavirus 229E-related,1,1
+SRR10221797,2419667,Bat alphacoronavirus,1,1
+SRR10221797,694001,Miniopterus bat coronavirus HKU8,1,1
+SRR10221797,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+SRR10221800,693995,Coronavirinae,56927,0
+SRR10221800,2664420,unclassified Coronavirinae,56927,1262
+SRR10221800,903583,Kenya bat coronavirus BtKY45,37916,37916
+SRR10221800,1508220,Bat coronavirus,17464,17464
+SRR10221800,2501931,Orthocoronavirinae,7097,8
+SRR10221800,694002,Betacoronavirus,7038,0
+SRR10221800,696098,unclassified Betacoronavirus,7027,6
+SRR10221800,983924,Eidolon bat coronavirus/Kenya/KY24/2006,6987,6987
+SRR10221800,903592,Kenya bat coronavirus BtKY54,102,102
+SRR10221800,903623,Kenya bat coronavirus BtKY85,94,94
+SRR10221800,903570,Kenya bat coronavirus BtKY102,43,43
+SRR10221800,694013,Gammacoronavirus,36,0
+SRR10221800,2509476,Cegacovirus,30,0
+SRR10221800,694015,Beluga whale coronavirus SW1,30,0
+SRR10221800,1433215,Bottlenose dolphin coronavirus HKU22,30,30
+SRR10221800,864618,Bat coronavirus BR98-55/BGR/2008,25,25
+SRR10221800,2042556,Coronavirus PREDICT CoV-30,18,18
+SRR10221800,693996,Alphacoronavirus,15,0
+SRR10221800,903590,Kenya bat coronavirus BtKY52,12,12
+SRR10221800,2509480,Duvinacovirus,8,3
+SRR10221800,1644142,Bat coronavirus MAH051F,8,8
+SRR10221800,2509487,Igacovirus,6,0
+SRR10221800,694014,Avian coronavirus,6,5
+SRR10221800,1805463,Bat betacoronavirus,6,6
+SRR10221800,11137,Human coronavirus 229E,5,0
+SRR10221800,1739614,229E-related bat coronavirus,5,5
+SRR10221800,2509511,Sarbecovirus,4,0
+SRR10221800,2509481,Embecovirus,4,0
+SRR10221800,366617,unclassified Alphacoronavirus,4,0
+SRR10221800,694009,Severe acute respiratory syndrome-related coronavirus,4,0
+SRR10221800,694003,Betacoronavirus 1,4,1
+SRR10221800,1269292,Coronavirus BCoV/PB675/Art_lit/PAN/2011,4,4
+SRR10221800,2509505,Pedacovirus,3,0
+SRR10221800,31631,Human coronavirus OC43,3,3
+SRR10221800,1503303,BtRs-BetaCoV/YN2013,3,3
+SRR10221800,693999,Scotophilus bat coronavirus 512,3,3
+SRR10221800,2509502,Nobecovirus,2,0
+SRR10221800,694006,Rousettus bat coronavirus HKU9,2,2
+SRR10221800,1225483,Bat coronavirus Gabon/292/2009,2,2
+SRR10221800,2042696,Bat coronavirus 1,2,2
+SRR10221800,2509494,Merbecovirus,1,0
+SRR10221800,389126,Bat coronavirus China 2005,1,0
+SRR10221800,2050018,Rodent coronavirus,1,1
+SRR10221800,1508227,Bat SARS-like coronavirus,1,1
+SRR10221800,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+SRR10221800,2042604,Kenya bat coronavirus/BtKY56/BtKY55,1,1
+SRR10221800,2419667,Bat alphacoronavirus,1,1
+SRR10221800,11120,Infectious bronchitis virus,1,1
+SRR10221800,2042562,Coronavirus PREDICT CoV-37,1,1
+SRR10221800,702734,Bat coronavirus Philippines/Diliman1525G2/2008,1,1
+SRR10221800,389164,Bat coronavirus (BtCoV/A970/2005),1,1
+SRR10221800,903637,Kenya bat coronavirus BtKY99,1,1
+SRR10221802,693995,Coronavirinae,14,0
+SRR10221802,2664420,unclassified Coronavirinae,14,2
+SRR10221802,864618,Bat coronavirus BR98-55/BGR/2008,9,9
+SRR10221802,2501931,Orthocoronavirinae,3,0
+SRR10221802,693996,Alphacoronavirus,2,0
+SRR10221802,2509480,Duvinacovirus,2,1
+SRR10221802,1269292,Coronavirus BCoV/PB675/Art_lit/PAN/2011,2,2
+SRR10221802,694002,Betacoronavirus,1,0
+SRR10221802,11137,Human coronavirus 229E,1,0
+SRR10221802,696098,unclassified Betacoronavirus,1,0
+SRR10221802,1508220,Bat coronavirus,1,1
+SRR10221802,1739614,229E-related bat coronavirus,1,1
+SRR10221802,2042556,Coronavirus PREDICT CoV-30,1,1
+SRR10221929,2501931,Orthocoronavirinae,2,0
+SRR10221929,694002,Betacoronavirus,2,0
+SRR10221929,2509481,Embecovirus,1,0
+SRR10221929,2509494,Merbecovirus,1,0
+SRR10221929,694003,Betacoronavirus 1,1,0
+SRR10221929,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+SRR10221929,31631,Human coronavirus OC43,1,1
+SRR10221938,2501931,Orthocoronavirinae,93,3
+SRR10221938,694002,Betacoronavirus,85,8
+SRR10221938,2509494,Merbecovirus,68,0
+SRR10221938,1335626,Middle East respiratory syndrome-related coronavirus,68,68
+SRR10221938,693995,Coronavirinae,25,0
+SRR10221938,2664420,unclassified Coronavirinae,25,6
+SRR10221938,696098,unclassified Betacoronavirus,6,0
+SRR10221938,864618,Bat coronavirus BR98-55/BGR/2008,6,6
+SRR10221938,903592,Kenya bat coronavirus BtKY54,6,6
+SRR10221938,2042556,Coronavirus PREDICT CoV-30,6,6
+SRR10221938,1508220,Bat coronavirus,4,4
+SRR10221938,693996,Alphacoronavirus,3,0
+SRR10221938,2509511,Sarbecovirus,3,0
+SRR10221938,694009,Severe acute respiratory syndrome-related coronavirus,3,0
+SRR10221938,2509480,Duvinacovirus,3,1
+SRR10221938,1508227,Bat SARS-like coronavirus,3,3
+SRR10221938,2509476,Cegacovirus,2,0
+SRR10221938,694015,Beluga whale coronavirus SW1,2,0
+SRR10221938,694013,Gammacoronavirus,2,0
+SRR10221938,11137,Human coronavirus 229E,2,0
+SRR10221938,1433215,Bottlenose dolphin coronavirus HKU22,2,2
+SRR10221938,1225483,Bat coronavirus Gabon/292/2009,2,2
+SRR10221938,1739614,229E-related bat coronavirus,2,2
+SRR10221938,1269292,Coronavirus BCoV/PB675/Art_lit/PAN/2011,1,1
+SRR10221945,694003,Betacoronavirus 1,3,0
+SRR10221945,2501931,Orthocoronavirinae,3,0
+SRR10221945,694002,Betacoronavirus,3,0
+SRR10221945,2509481,Embecovirus,3,0
+SRR10221945,31631,Human coronavirus OC43,3,3
+SRR10252896,2509481,Embecovirus,1,0
+SRR10252896,694003,Betacoronavirus 1,1,0
+SRR10252896,694002,Betacoronavirus,1,0
+SRR10252896,2501931,Orthocoronavirinae,1,0
+SRR10252896,31631,Human coronavirus OC43,1,1
+SRR10252924,2501931,Orthocoronavirinae,1,0
+SRR10252924,694002,Betacoronavirus,1,1
+SRR10252933,2501931,Orthocoronavirinae,1,0
+SRR10252933,694002,Betacoronavirus,1,1
+SRR10252956,2501931,Orthocoronavirinae,15,4
+SRR10252956,2509481,Embecovirus,10,0
+SRR10252956,694002,Betacoronavirus,10,0
+SRR10252956,290028,Human coronavirus HKU1,10,10
+SRR10252956,693995,Coronavirinae,6,0
+SRR10252956,2664420,unclassified Coronavirinae,6,3
+SRR10252956,2050018,Rodent coronavirus,3,3
+SRR10252956,2509487,Igacovirus,1,0
+SRR10252956,694013,Gammacoronavirus,1,0
+SRR10252956,694014,Avian coronavirus,1,1
+SRR10252987,2509476,Cegacovirus,2,0
+SRR10252987,694015,Beluga whale coronavirus SW1,2,0
+SRR10252987,694013,Gammacoronavirus,2,0
+SRR10252987,2501931,Orthocoronavirinae,2,0
+SRR10252987,1433215,Bottlenose dolphin coronavirus HKU22,2,2
+SRR10252997,2501931,Orthocoronavirinae,2,0
+SRR10252997,694003,Betacoronavirus 1,1,0
+SRR10252997,694002,Betacoronavirus,1,0
+SRR10252997,2509481,Embecovirus,1,0
+SRR10252997,693996,Alphacoronavirus,1,0
+SRR10252997,2509480,Duvinacovirus,1,0
+SRR10252997,31631,Human coronavirus OC43,1,1
+SRR10252997,11137,Human coronavirus 229E,1,1
+SRR10253030,694003,Betacoronavirus 1,2,0
+SRR10253030,2501931,Orthocoronavirinae,2,0
+SRR10253030,694002,Betacoronavirus,2,0
+SRR10253030,2509481,Embecovirus,2,0
+SRR10253030,31631,Human coronavirus OC43,2,2
+SRR10253037,2509481,Embecovirus,1,0
+SRR10253037,2501931,Orthocoronavirinae,1,0
+SRR10253037,694003,Betacoronavirus 1,1,0
+SRR10253037,694002,Betacoronavirus,1,0
+SRR10253037,31631,Human coronavirus OC43,1,1
+SRR10253041,694002,Betacoronavirus,1,0
+SRR10253041,2509481,Embecovirus,1,0
+SRR10253041,694003,Betacoronavirus 1,1,0
+SRR10253041,2501931,Orthocoronavirinae,1,0
+SRR10253041,31631,Human coronavirus OC43,1,1
+SRR10253044,2509481,Embecovirus,2,0
+SRR10253044,2501931,Orthocoronavirinae,2,0
+SRR10253044,694002,Betacoronavirus,2,0
+SRR10253044,694003,Betacoronavirus 1,2,0
+SRR10253044,31631,Human coronavirus OC43,2,2
+SRR10253083,2501931,Orthocoronavirinae,300,5
+SRR10253083,693995,Coronavirinae,254,0
+SRR10253083,2664420,unclassified Coronavirinae,254,0
+SRR10253083,903592,Kenya bat coronavirus BtKY54,246,246
+SRR10253083,2509476,Cegacovirus,149,0
+SRR10253083,694013,Gammacoronavirus,149,0
+SRR10253083,694015,Beluga whale coronavirus SW1,149,0
+SRR10253083,1433215,Bottlenose dolphin coronavirus HKU22,149,149
+SRR10253083,693996,Alphacoronavirus,146,1
+SRR10253083,2509480,Duvinacovirus,144,76
+SRR10253083,11137,Human coronavirus 229E,68,67
+SRR10253083,622709,Bat coronavirus Hipposideros/GhanaKwam/10/2008,6,6
+SRR10253083,1508220,Bat coronavirus,2,2
+SRR10253083,1986197,unclassified Coronaviridae,1,0
+SRR10253083,366617,unclassified Alphacoronavirus,1,1
+SRR10253083,2108211,Rhinolophus pusillus coronavirus,1,1
+SRR10253083,1895985,Camel alphacoronavirus Camel229E,1,1
+SRR10253112,2664420,unclassified Coronavirinae,1,0
+SRR10253112,693995,Coronavirinae,1,0
+SRR10253112,903592,Kenya bat coronavirus BtKY54,1,1
+SRR10316250,2509487,Igacovirus,7,0
+SRR10316250,694013,Gammacoronavirus,7,0
+SRR10316250,2501931,Orthocoronavirinae,7,0
+SRR10316250,694014,Avian coronavirus,7,2
+SRR10316250,11120,Infectious bronchitis virus,5,5
+SRR10431060,694002,Betacoronavirus,7,0
+SRR10431060,694005,Murine coronavirus,7,0
+SRR10431060,2509481,Embecovirus,7,0
+SRR10431060,2501931,Orthocoronavirinae,7,0
+SRR10431060,31632,Rat coronavirus,7,7
+SRR10524381,2509487,Igacovirus,1,0
+SRR10524381,694013,Gammacoronavirus,1,0
+SRR10524381,2501931,Orthocoronavirinae,1,0
+SRR10524381,694014,Avian coronavirus,1,1
+SRR10524404,2501931,Orthocoronavirinae,1,0
+SRR10524404,2509487,Igacovirus,1,0
+SRR10524404,694013,Gammacoronavirus,1,0
+SRR10524404,694014,Avian coronavirus,1,1
+SRR10524483,694013,Gammacoronavirus,1,0
+SRR10524483,2501931,Orthocoronavirinae,1,0
+SRR10524483,2509487,Igacovirus,1,0
+SRR10524483,694014,Avian coronavirus,1,1
+SRR10524538,694013,Gammacoronavirus,1,0
+SRR10524538,2509487,Igacovirus,1,0
+SRR10524538,2501931,Orthocoronavirinae,1,0
+SRR10524538,694014,Avian coronavirus,1,1
+SRR10524571,2501931,Orthocoronavirinae,1,0
+SRR10524571,694013,Gammacoronavirus,1,0
+SRR10524571,2509487,Igacovirus,1,0
+SRR10524571,694014,Avian coronavirus,1,1
+SRR10524579,2501931,Orthocoronavirinae,1,0
+SRR10524579,694013,Gammacoronavirus,1,0
+SRR10524579,2509487,Igacovirus,1,0
+SRR10524579,694014,Avian coronavirus,1,1
+SRR10524602,2501931,Orthocoronavirinae,1,0
+SRR10524602,694013,Gammacoronavirus,1,0
+SRR10524602,2509487,Igacovirus,1,0
+SRR10524602,694014,Avian coronavirus,1,1
+SRR10524606,694014,Avian coronavirus,1,0
+SRR10524606,2509487,Igacovirus,1,0
+SRR10524606,2501931,Orthocoronavirinae,1,0
+SRR10524606,694013,Gammacoronavirus,1,0
+SRR10524606,11120,Infectious bronchitis virus,1,1
+SRR10524992,694013,Gammacoronavirus,1,0
+SRR10524992,2501931,Orthocoronavirinae,1,0
+SRR10524992,2509487,Igacovirus,1,0
+SRR10524992,694014,Avian coronavirus,1,1
+SRR10525039,694013,Gammacoronavirus,1,0
+SRR10525039,2501931,Orthocoronavirinae,1,0
+SRR10525039,2509487,Igacovirus,1,0
+SRR10525039,694014,Avian coronavirus,1,1
+SRR10696638,2509487,Igacovirus,2,0
+SRR10696638,694013,Gammacoronavirus,2,0
+SRR10696638,2501931,Orthocoronavirinae,2,0
+SRR10696638,694014,Avian coronavirus,2,2
+SRR10696648,2501931,Orthocoronavirinae,2,0
+SRR10696648,2509487,Igacovirus,2,0
+SRR10696648,694013,Gammacoronavirus,2,0
+SRR10696648,694014,Avian coronavirus,2,2
+SRR10696649,2501931,Orthocoronavirinae,4,0
+SRR10696649,694013,Gammacoronavirus,2,0
+SRR10696649,2509487,Igacovirus,2,0
+SRR10696649,694002,Betacoronavirus,2,0
+SRR10696649,2509494,Merbecovirus,2,2
+SRR10696649,694014,Avian coronavirus,2,2
+SRR10696652,2509494,Merbecovirus,4,0
+SRR10696652,694002,Betacoronavirus,4,0
+SRR10696652,2501931,Orthocoronavirinae,4,0
+SRR10696652,694008,Pipistrellus bat coronavirus HKU5,4,4
+SRR10769511,2509512,Setracovirus,10,0
+SRR10769511,2501931,Orthocoronavirinae,10,0
+SRR10769511,693996,Alphacoronavirus,10,0
+SRR10769511,277944,Human coronavirus NL63,10,10
+SRR10850891,2501931,Orthocoronavirinae,2,0
+SRR10850891,2509487,Igacovirus,2,0
+SRR10850891,694014,Avian coronavirus,2,0
+SRR10850891,694013,Gammacoronavirus,2,0
+SRR10850891,258781,Pheasant coronavirus,2,2
+SRR10873780,2501931,Orthocoronavirinae,146,0
+SRR10873780,1159901,Deltacoronavirus,146,9
+SRR10873780,1232736,unclassified Deltacoronavirus,73,0
+SRR10873780,2219863,Sparrow deltacoronavirus,42,42
+SRR10873780,1297662,Thrush coronavirus HKU12,34,0
+SRR10873780,572290,Thrush coronavirus HKU12-600,34,34
+SRR10873780,1159906,Sparrow coronavirus HKU17,31,31
+SRR10873780,2509474,Buldecovirus,30,0
+SRR10873780,1965089,Coronavirus HKU15,19,19
+SRR10873780,574549,Bulbul coronavirus HKU11,8,8
+SRR10873780,1297661,Munia coronavirus HKU13,3,0
+SRR10873780,572289,Munia coronavirus HKU13-3514,3,3
+SRR10873780,693995,Coronavirinae,1,0
+SRR10873780,2664420,unclassified Coronavirinae,1,0
+SRR10873780,352849,Parrot coronavirus AV71/99,1,1
+SRR10874916,2501931,Orthocoronavirinae,168,0
+SRR10874916,1159901,Deltacoronavirus,168,5
+SRR10874916,1297662,Thrush coronavirus HKU12,163,0
+SRR10874916,572290,Thrush coronavirus HKU12-600,163,163
+SRR10903401,2501931,Orthocoronavirinae,13344,0
+SRR10903401,694002,Betacoronavirus,13344,101
+SRR10903401,696098,unclassified Betacoronavirus,13243,15
+SRR10903401,2697049,Wuhan seafood market pneumonia virus,13228,13228
+SRR10903401,693995,Coronavirinae,1,0
+SRR10903401,2664420,unclassified Coronavirinae,1,1
+SRR10948550,2501931,Orthocoronavirinae,874,0
+SRR10948550,694002,Betacoronavirus,874,39
+SRR10948550,696098,unclassified Betacoronavirus,834,0
+SRR10948550,2697049,Wuhan seafood market pneumonia virus,834,834
+SRR10948550,2509511,Sarbecovirus,1,0
+SRR10948550,694009,Severe acute respiratory syndrome-related coronavirus,1,0
+SRR10948550,349342,Bat SARS coronavirus Rp1,1,1
+SRR11039470,2501931,Orthocoronavirinae,137,0
+SRR11039470,694002,Betacoronavirus,137,1
+SRR11039470,2509481,Embecovirus,136,5
+SRR11039470,694005,Murine coronavirus,131,131
+SRR11039491,2501931,Orthocoronavirinae,2452,1
+SRR11039491,694002,Betacoronavirus,2451,99
+SRR11039491,2509481,Embecovirus,2352,47
+SRR11039491,694005,Murine coronavirus,2305,2305
+SRR11039499,2501931,Orthocoronavirinae,2291,2
+SRR11039499,694002,Betacoronavirus,2289,90
+SRR11039499,2509481,Embecovirus,2199,45
+SRR11039499,694005,Murine coronavirus,2154,2154
+SRR11039504,2501931,Orthocoronavirinae,3302,1
+SRR11039504,694002,Betacoronavirus,3301,130
+SRR11039504,2509481,Embecovirus,3171,55
+SRR11039504,694005,Murine coronavirus,3115,3114
+SRR11039504,694003,Betacoronavirus 1,1,0
+SRR11039504,11138,Murine hepatitis virus,1,1
+SRR11039504,136187,Equine coronavirus,1,1
+SRR11039513,2501931,Orthocoronavirinae,3174,5
+SRR11039513,694002,Betacoronavirus,3169,99
+SRR11039513,2509481,Embecovirus,3070,45
+SRR11039513,694005,Murine coronavirus,3025,3023
+SRR11039513,11138,Murine hepatitis virus,2,2
+SRR11039519,2501931,Orthocoronavirinae,3366,3
+SRR11039519,694002,Betacoronavirus,3363,103
+SRR11039519,2509481,Embecovirus,3260,78
+SRR11039519,694005,Murine coronavirus,3182,3178
+SRR11039519,11138,Murine hepatitis virus,3,1
+SRR11039519,591068,Murine coronavirus MHV-JHM.IA,2,2
+SRR11039519,31632,Rat coronavirus,1,1
+SRR11039545,2501931,Orthocoronavirinae,314338,46
+SRR11039545,694002,Betacoronavirus,314292,13028
+SRR11039545,2509481,Embecovirus,301263,7274
+SRR11039545,694005,Murine coronavirus,293988,293722
+SRR11039545,11138,Murine hepatitis virus,231,191
+SRR11039545,591068,Murine coronavirus MHV-JHM.IA,35,35
+SRR11039545,31632,Rat coronavirus,35,35
+SRR11039545,11142,Murine hepatitis virus strain A59,4,4
+SRR11039545,2664420,unclassified Coronavirinae,3,0
+SRR11039545,693995,Coronavirinae,3,0
+SRR11039545,2050018,Rodent coronavirus,3,3
+SRR11039545,694003,Betacoronavirus 1,1,0
+SRR11039545,696098,unclassified Betacoronavirus,1,0
+SRR11039545,1508223,Longquan Rl rat coronavirus,1,1
+SRR11039545,136187,Equine coronavirus,1,1
+SRR11039545,76344,Murine hepatitis virus strain 2,1,1
+SRR11039574,2501931,Orthocoronavirinae,385825,56
+SRR11039574,694002,Betacoronavirus,385768,15889
+SRR11039574,2509481,Embecovirus,369878,9293
+SRR11039574,694005,Murine coronavirus,360581,360306
+SRR11039574,11138,Murine hepatitis virus,243,167
+SRR11039574,591068,Murine coronavirus MHV-JHM.IA,72,72
+SRR11039574,31632,Rat coronavirus,32,32
+SRR11039574,694003,Betacoronavirus 1,4,0
+SRR11039574,2664420,unclassified Coronavirinae,3,0
+SRR11039574,693995,Coronavirinae,3,0
+SRR11039574,11142,Murine hepatitis virus strain A59,3,3
+SRR11039574,2050018,Rodent coronavirus,3,3
+SRR11039574,136187,Equine coronavirus,3,3
+SRR11039574,694013,Gammacoronavirus,1,0
+SRR11039574,2509487,Igacovirus,1,0
+SRR11039574,696098,unclassified Betacoronavirus,1,0
+SRR11039574,694014,Avian coronavirus,1,0
+SRR11039574,11120,Infectious bronchitis virus,1,1
+SRR11039574,502104,Murine coronavirus MHV-3,1,1
+SRR11039574,1508223,Longquan Rl rat coronavirus,1,1
+SRR11039574,215681,Canine respiratory coronavirus,1,1
+SRR11039581,2501931,Orthocoronavirinae,121377,13
+SRR11039581,694002,Betacoronavirus,121364,4610
+SRR11039581,2509481,Embecovirus,116754,2673
+SRR11039581,694005,Murine coronavirus,114079,114005
+SRR11039581,11138,Murine hepatitis virus,60,44
+SRR11039581,591068,Murine coronavirus MHV-JHM.IA,15,15
+SRR11039581,31632,Rat coronavirus,14,14
+SRR11039581,694003,Betacoronavirus 1,2,0
+SRR11039581,136187,Equine coronavirus,2,2
+SRR11039581,693995,Coronavirinae,1,0
+SRR11039581,2664420,unclassified Coronavirinae,1,0
+SRR11039581,502104,Murine coronavirus MHV-3,1,1
+SRR11039581,2050018,Rodent coronavirus,1,1
+SRR11039616,2501931,Orthocoronavirinae,686490,185
+SRR11039616,694002,Betacoronavirus,686304,30045
+SRR11039616,2509481,Embecovirus,656257,14623
+SRR11039616,694005,Murine coronavirus,641633,641280
+SRR11039616,11138,Murine hepatitis virus,319,229
+SRR11039616,591068,Murine coronavirus MHV-JHM.IA,82,82
+SRR11039616,31632,Rat coronavirus,34,34
+SRR11039616,693995,Coronavirinae,6,0
+SRR11039616,2664420,unclassified Coronavirinae,6,0
+SRR11039616,2050018,Rodent coronavirus,6,6
+SRR11039616,11142,Murine hepatitis virus strain A59,6,6
+SRR11039616,696098,unclassified Betacoronavirus,2,0
+SRR11039616,502104,Murine coronavirus MHV-3,2,2
+SRR11039616,1508223,Longquan Rl rat coronavirus,2,2
+SRR11039616,2509487,Igacovirus,1,0
+SRR11039616,694013,Gammacoronavirus,1,0
+SRR11039616,694003,Betacoronavirus 1,1,1
+SRR11039616,694014,Avian coronavirus,1,1
+SRR11039622,2501931,Orthocoronavirinae,691181,191
+SRR11039622,694002,Betacoronavirus,690989,29465
+SRR11039622,2509481,Embecovirus,661520,15414
+SRR11039622,694005,Murine coronavirus,646103,645596
+SRR11039622,11138,Murine hepatitis virus,428,356
+SRR11039622,31632,Rat coronavirus,79,79
+SRR11039622,591068,Murine coronavirus MHV-JHM.IA,70,70
+SRR11039622,696098,unclassified Betacoronavirus,4,0
+SRR11039622,1508223,Longquan Rl rat coronavirus,4,4
+SRR11039622,694003,Betacoronavirus 1,3,0
+SRR11039622,136187,Equine coronavirus,3,3
+SRR11039622,11142,Murine hepatitis virus strain A59,2,2
+SRR11039622,694014,Avian coronavirus,1,0
+SRR11039622,2664420,unclassified Coronavirinae,1,0
+SRR11039622,694013,Gammacoronavirus,1,0
+SRR11039622,2509487,Igacovirus,1,0
+SRR11039622,693995,Coronavirinae,1,0
+SRR11039622,11120,Infectious bronchitis virus,1,1
+SRR11039622,2050018,Rodent coronavirus,1,1
+SRR11039644,2501931,Orthocoronavirinae,393633,5
+SRR11039644,694002,Betacoronavirus,393628,17527
+SRR11039644,2509481,Embecovirus,376100,5022
+SRR11039644,694005,Murine coronavirus,371078,370834
+SRR11039644,11138,Murine hepatitis virus,224,94
+SRR11039644,591068,Murine coronavirus MHV-JHM.IA,130,130
+SRR11039644,31632,Rat coronavirus,19,19
+SRR11039644,2664420,unclassified Coronavirinae,3,0
+SRR11039644,693995,Coronavirinae,3,0
+SRR11039644,2050018,Rodent coronavirus,3,3
+SRR11039644,696098,unclassified Betacoronavirus,1,0
+SRR11039644,76583,Puffinosis coronavirus,1,1
+SRR11039644,1508223,Longquan Rl rat coronavirus,1,1
+SRR11039668,2501931,Orthocoronavirinae,420311,34
+SRR11039668,694002,Betacoronavirus,420277,16648
+SRR11039668,2509481,Embecovirus,403626,8465
+SRR11039668,694005,Murine coronavirus,395159,394836
+SRR11039668,11138,Murine hepatitis virus,286,236
+SRR11039668,591068,Murine coronavirus MHV-JHM.IA,48,48
+SRR11039668,31632,Rat coronavirus,37,37
+SRR11039668,696098,unclassified Betacoronavirus,3,0
+SRR11039668,1508223,Longquan Rl rat coronavirus,3,3
+SRR11039668,694003,Betacoronavirus 1,2,0
+SRR11039668,136187,Equine coronavirus,2,2
+SRR11039668,693995,Coronavirinae,1,0
+SRR11039668,2664420,unclassified Coronavirinae,1,0
+SRR11039668,502104,Murine coronavirus MHV-3,1,1
+SRR11039668,2050018,Rodent coronavirus,1,1
+SRR11039668,11142,Murine hepatitis virus strain A59,1,1
+SRR11039680,2501931,Orthocoronavirinae,649484,209
+SRR11039680,694002,Betacoronavirus,649273,26404
+SRR11039680,2509481,Embecovirus,622867,13909
+SRR11039680,694005,Murine coronavirus,608958,608515
+SRR11039680,11138,Murine hepatitis virus,410,324
+SRR11039680,591068,Murine coronavirus MHV-JHM.IA,75,75
+SRR11039680,31632,Rat coronavirus,33,33
+SRR11039680,11142,Murine hepatitis virus strain A59,10,10
+SRR11039680,2664420,unclassified Coronavirinae,5,0
+SRR11039680,693995,Coronavirinae,5,0
+SRR11039680,2050018,Rodent coronavirus,5,5
+SRR11039680,696098,unclassified Betacoronavirus,2,0
+SRR11039680,694013,Gammacoronavirus,2,0
+SRR11039680,2509487,Igacovirus,2,0
+SRR11039680,1508223,Longquan Rl rat coronavirus,2,2
+SRR11039680,694014,Avian coronavirus,2,2
+SRR11039680,502104,Murine coronavirus MHV-3,1,1
+SRR11039695,2501931,Orthocoronavirinae,650889,199
+SRR11039695,694002,Betacoronavirus,650690,25782
+SRR11039695,2509481,Embecovirus,624906,14216
+SRR11039695,694005,Murine coronavirus,610689,610265
+SRR11039695,11138,Murine hepatitis virus,380,289
+SRR11039695,591068,Murine coronavirus MHV-JHM.IA,83,83
+SRR11039695,31632,Rat coronavirus,44,44
+SRR11039695,11142,Murine hepatitis virus strain A59,6,6
+SRR11039695,693995,Coronavirinae,3,0
+SRR11039695,2664420,unclassified Coronavirinae,3,0
+SRR11039695,696098,unclassified Betacoronavirus,2,0
+SRR11039695,1508223,Longquan Rl rat coronavirus,2,2
+SRR11039695,2050018,Rodent coronavirus,2,2
+SRR11039695,502104,Murine coronavirus MHV-3,2,2
+SRR11039695,694003,Betacoronavirus 1,1,0
+SRR11039695,1679889,Coronavirus RCoV/D_RMU10_1919/Myo_gla/GER/2010,1,1
+SRR11039695,136187,Equine coronavirus,1,1
+SRR11039718,2501931,Orthocoronavirinae,336922,139
+SRR11039718,694002,Betacoronavirus,336783,12145
+SRR11039718,2509481,Embecovirus,324638,7227
+SRR11039718,694005,Murine coronavirus,317410,317216
+SRR11039718,11138,Murine hepatitis virus,180,119
+SRR11039718,591068,Murine coronavirus MHV-JHM.IA,59,59
+SRR11039718,31632,Rat coronavirus,14,14
+SRR11039718,2664420,unclassified Coronavirinae,2,0
+SRR11039718,693995,Coronavirinae,2,0
+SRR11039718,2050018,Rodent coronavirus,2,2
+SRR11039718,694003,Betacoronavirus 1,1,1
+SRR11039718,76344,Murine hepatitis virus strain 2,1,1
+SRR11039718,11142,Murine hepatitis virus strain A59,1,1
+SRR11039724,2501931,Orthocoronavirinae,357719,140
+SRR11039724,694002,Betacoronavirus,357579,12455
+SRR11039724,2509481,Embecovirus,345122,7281
+SRR11039724,694005,Murine coronavirus,337840,337627
+SRR11039724,11138,Murine hepatitis virus,194,122
+SRR11039724,591068,Murine coronavirus MHV-JHM.IA,69,69
+SRR11039724,31632,Rat coronavirus,19,19
+SRR11039724,696098,unclassified Betacoronavirus,2,0
+SRR11039724,11142,Murine hepatitis virus strain A59,2,2
+SRR11039724,1508223,Longquan Rl rat coronavirus,2,2
+SRR11039724,694003,Betacoronavirus 1,1,0
+SRR11039724,136187,Equine coronavirus,1,1
+SRR11039724,502104,Murine coronavirus MHV-3,1,1
+SRR11057245,2501931,Orthocoronavirinae,1,0
+SRR11057245,694002,Betacoronavirus,1,0
+SRR11057245,2509494,Merbecovirus,1,0
+SRR11057245,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+SRR11057246,694002,Betacoronavirus,2,0
+SRR11057246,2509494,Merbecovirus,2,0
+SRR11057246,2501931,Orthocoronavirinae,2,0
+SRR11057246,1335626,Middle East respiratory syndrome-related coronavirus,2,2
+SRR11057249,2509494,Merbecovirus,4,0
+SRR11057249,694002,Betacoronavirus,4,0
+SRR11057249,2501931,Orthocoronavirinae,4,0
+SRR11057249,1335626,Middle East respiratory syndrome-related coronavirus,4,4
+SRR11057250,694002,Betacoronavirus,5,0
+SRR11057250,2509494,Merbecovirus,5,0
+SRR11057250,2501931,Orthocoronavirinae,5,0
+SRR11057250,1335626,Middle East respiratory syndrome-related coronavirus,5,5
+SRR11057261,2501931,Orthocoronavirinae,2,0
+SRR11057261,2509494,Merbecovirus,2,0
+SRR11057261,694002,Betacoronavirus,2,0
+SRR11057261,1335626,Middle East respiratory syndrome-related coronavirus,2,2
+SRR11057262,694002,Betacoronavirus,1,0
+SRR11057262,2501931,Orthocoronavirinae,1,0
+SRR11057262,2509494,Merbecovirus,1,0
+SRR11057262,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+SRR11057277,694002,Betacoronavirus,7,0
+SRR11057277,2509494,Merbecovirus,7,0
+SRR11057277,2501931,Orthocoronavirinae,7,0
+SRR11057277,1335626,Middle East respiratory syndrome-related coronavirus,7,7
+SRR11057278,694002,Betacoronavirus,16,0
+SRR11057278,2501931,Orthocoronavirinae,16,0
+SRR11057278,2509494,Merbecovirus,16,0
+SRR11057278,1335626,Middle East respiratory syndrome-related coronavirus,16,16
+SRR11057279,694002,Betacoronavirus,3,0
+SRR11057279,2501931,Orthocoronavirinae,3,0
+SRR11057279,2509494,Merbecovirus,3,0
+SRR11057279,1335626,Middle East respiratory syndrome-related coronavirus,3,3
+SRR11140746,2501931,Orthocoronavirinae,340737,4
+SRR11140746,694002,Betacoronavirus,340733,2210
+SRR11140746,2509511,Sarbecovirus,338519,0
+SRR11140746,694009,Severe acute respiratory syndrome-related coronavirus,338519,4316
+SRR11140746,2697049,Severe acute respiratory syndrome coronavirus 2,334182,334182
+SRR11140746,1986197,unclassified Coronaviridae,16,0
+SRR11140746,2709072,Bat coronavirus RaTG13,16,16
+SRR11140746,1508227,Bat SARS-like coronavirus,14,14
+SRR11140746,696098,unclassified Betacoronavirus,4,0
+SRR11140746,663565,Bat SARS Cov Rs806/2006,4,4
+SRR11140746,693995,Coronavirinae,2,0
+SRR11140746,2664420,unclassified Coronavirinae,2,0
+SRR11140746,349342,Bat SARS coronavirus Rp1,2,2
+SRR11140746,347536,Bat SARS CoV Rm1/2004,2,2
+SRR11140746,1283333,Bat coronavirus Cp/Yunnan2011,1,1
+SRR11140746,240273,SARS coronavirus ZMY 1,1,1
+SRR11140746,1503301,BtRs-BetaCoV/GX2013,1,1
+SRR11140746,864596,Bat coronavirus BM48-31/BGR/2008,1,1
+SRR11140746,1508220,Bat coronavirus,1,1
+SRR11178050,2501931,Orthocoronavirinae,2311,0
+SRR11178050,694002,Betacoronavirus,2311,111
+SRR11178050,696098,unclassified Betacoronavirus,2195,0
+SRR11178050,2697049,Wuhan seafood market pneumonia virus,2195,2195
+SRR11178050,2509511,Sarbecovirus,5,0
+SRR11178050,694009,Severe acute respiratory syndrome-related coronavirus,5,1
+SRR11178050,1508227,Bat SARS-like coronavirus,3,3
+SRR11178050,693995,Coronavirinae,2,0
+SRR11178050,2664420,unclassified Coronavirinae,2,0
+SRR11178050,1508220,Bat coronavirus,2,2
+SRR11178050,258445,SARS coronavirus GD69,1,1
+SRR11247077,2501931,Orthocoronavirinae,603909,1
+SRR11247077,694002,Betacoronavirus,603908,5476
+SRR11247077,2509511,Sarbecovirus,598420,0
+SRR11247077,694009,Severe acute respiratory syndrome-related coronavirus,598420,7500
+SRR11247077,2697049,Severe acute respiratory syndrome coronavirus 2,590884,590884
+SRR11247077,1508227,Bat SARS-like coronavirus,26,26
+SRR11247077,1986197,unclassified Coronaviridae,19,0
+SRR11247077,2709072,Bat coronavirus RaTG13,19,19
+SRR11247077,696098,unclassified Betacoronavirus,12,0
+SRR11247077,2708335,Pangolin coronavirus,9,9
+SRR11247077,663565,Bat SARS Cov Rs806/2006,3,3
+SRR11247077,442736,Bat SARS coronavirus HKU3,2,0
+SRR11247077,1503301,BtRs-BetaCoV/GX2013,2,2
+SRR11247077,741999,Bat SARS coronavirus HKU3-12,2,2
+SRR11247077,1487703,Rhinolophus affinis coronavirus,2,2
+SRR11247077,1283333,Bat coronavirus Cp/Yunnan2011,2,2
+SRR11247077,2664420,unclassified Coronavirinae,1,0
+SRR11247077,693995,Coronavirinae,1,0
+SRR11247077,1508220,Bat coronavirus,1,1
+SRR11247077,347536,Bat SARS CoV Rm1/2004,1,1
+SRR11247077,1503302,BtRs-BetaCoV/HuB2013,1,1
+SRR1168913,2501931,Orthocoronavirinae,391,0
+SRR1168913,694002,Betacoronavirus,391,2
+SRR1168913,2509494,Merbecovirus,389,2
+SRR1168913,1335626,Middle East respiratory syndrome-related coronavirus,387,387
+SRR1168914,696098,unclassified Betacoronavirus,123,0
+SRR1168914,694002,Betacoronavirus,123,0
+SRR1168914,693995,Coronavirinae,123,0
+SRR1168914,1335626,Middle East respiratory syndrome coronavirus,123,123
+SRR1168915,693995,Coronavirinae,134,0
+SRR1168915,694002,Betacoronavirus,134,0
+SRR1168915,696098,unclassified Betacoronavirus,134,0
+SRR1168915,1335626,Middle East respiratory syndrome coronavirus,134,134
+SRR1168916,693995,Coronavirinae,117,0
+SRR1168916,696098,unclassified Betacoronavirus,117,0
+SRR1168916,694002,Betacoronavirus,117,0
+SRR1168916,1335626,Middle East respiratory syndrome coronavirus,117,117
+SRR1168917,2509494,Merbecovirus,261,0
+SRR1168917,694002,Betacoronavirus,261,0
+SRR1168917,2501931,Orthocoronavirinae,261,0
+SRR1168917,1335626,Middle East respiratory syndrome-related coronavirus,261,261
+SRR1168918,696098,unclassified Betacoronavirus,92,0
+SRR1168918,693995,Coronavirinae,92,0
+SRR1168918,694002,Betacoronavirus,92,0
+SRR1168918,1335626,Middle East respiratory syndrome coronavirus,92,92
+SRR1168919,694002,Betacoronavirus,297,0
+SRR1168919,2501931,Orthocoronavirinae,297,0
+SRR1168919,2509494,Merbecovirus,297,1
+SRR1168919,1335626,Middle East respiratory syndrome-related coronavirus,296,296
+SRR1168920,2501931,Orthocoronavirinae,277,0
+SRR1168920,694002,Betacoronavirus,277,0
+SRR1168920,2509494,Merbecovirus,277,1
+SRR1168920,1335626,Middle East respiratory syndrome-related coronavirus,276,276
+SRR1168920,693995,Coronavirinae,1,0
+SRR1168920,2664420,unclassified Coronavirinae,1,0
+SRR1168920,1508220,Bat coronavirus,1,1
+SRR1168921,693995,Coronavirinae,77,0
+SRR1168921,696098,unclassified Betacoronavirus,77,0
+SRR1168921,694002,Betacoronavirus,77,0
+SRR1168921,1335626,Middle East respiratory syndrome coronavirus,77,77
+SRR1168922,693995,Coronavirinae,76,0
+SRR1168922,694002,Betacoronavirus,76,0
+SRR1168922,696098,unclassified Betacoronavirus,76,0
+SRR1168922,1335626,Middle East respiratory syndrome coronavirus,76,76
+SRR1168923,694002,Betacoronavirus,81,0
+SRR1168923,693995,Coronavirinae,81,0
+SRR1168923,696098,unclassified Betacoronavirus,81,0
+SRR1168923,1335626,Middle East respiratory syndrome coronavirus,81,81
+SRR1168924,693995,Coronavirinae,91,0
+SRR1168924,694002,Betacoronavirus,91,0
+SRR1168924,696098,unclassified Betacoronavirus,91,0
+SRR1168924,1335626,Middle East respiratory syndrome coronavirus,91,91
+SRR1168929,2501931,Orthocoronavirinae,30,0
+SRR1168929,2509494,Merbecovirus,30,0
+SRR1168929,694002,Betacoronavirus,30,0
+SRR1168929,1335626,Middle East respiratory syndrome-related coronavirus,30,30
+SRR1168930,696098,unclassified Betacoronavirus,9,0
+SRR1168930,694002,Betacoronavirus,9,0
+SRR1168930,693995,Coronavirinae,9,0
+SRR1168930,1335626,Middle East respiratory syndrome coronavirus,9,9
+SRR1168931,693995,Coronavirinae,7,0
+SRR1168931,696098,unclassified Betacoronavirus,7,0
+SRR1168931,694002,Betacoronavirus,7,0
+SRR1168931,1335626,Middle East respiratory syndrome coronavirus,7,7
+SRR1168932,2501931,Orthocoronavirinae,42,0
+SRR1168932,2509494,Merbecovirus,42,0
+SRR1168932,694002,Betacoronavirus,42,0
+SRR1168932,1335626,Middle East respiratory syndrome-related coronavirus,42,42
+SRR1609241,694002,Betacoronavirus,1,0
+SRR1609241,2501931,Orthocoronavirinae,1,0
+SRR1609241,2509481,Embecovirus,1,0
+SRR1609241,694005,Murine coronavirus,1,1
+SRR1714126,2501931,Orthocoronavirinae,5,0
+SRR1714126,2509481,Embecovirus,5,0
+SRR1714126,694002,Betacoronavirus,5,0
+SRR1714126,694005,Murine coronavirus,5,5
+SRR1776513,2501931,Orthocoronavirinae,5826,2261
+SRR1776513,694002,Betacoronavirus,3508,183
+SRR1776513,2509481,Embecovirus,3324,5
+SRR1776513,694003,Betacoronavirus 1,3319,2134
+SRR1776513,11128,Bovine coronavirus,1157,1157
+SRR1776513,693996,Alphacoronavirus,57,0
+SRR1776513,366617,unclassified Alphacoronavirus,57,0
+SRR1776513,1699096,Camel coronavirus HKU23,57,57
+SRR1776513,42005,Porcine hemagglutinating encephalomyelitis virus,21,21
+SRR1776513,31631,Human coronavirus OC43,5,5
+SRR1776513,215681,Canine respiratory coronavirus,2,2
+SRR1776513,696098,unclassified Betacoronavirus,1,0
+SRR1776513,1160968,Rabbit coronavirus HKU14,1,1
+SRR1784248,2509481,Embecovirus,5,0
+SRR1784248,2501931,Orthocoronavirinae,5,0
+SRR1784248,694002,Betacoronavirus,5,0
+SRR1784248,694005,Murine coronavirus,5,5
+SRR1818318,2501931,Orthocoronavirinae,136523,0
+SRR1818318,694002,Betacoronavirus,136523,10
+SRR1818318,2509494,Merbecovirus,136513,665
+SRR1818318,1335626,Middle East respiratory syndrome-related coronavirus,135847,135815
+SRR1818318,1368314,Coronavirus Neoromicia/PML-PHE1/RSA/2011,30,30
+SRR1818318,693995,Coronavirinae,9,0
+SRR1818318,2664420,unclassified Coronavirinae,9,0
+SRR1818318,1508220,Bat coronavirus,8,8
+SRR1818318,1306931,Human betacoronavirus 2c Jordan-N3/2012,2,2
+SRR1818318,1965093,Hedgehog coronavirus 1,1,1
+SRR1818318,2020423,Hypsugo bat coronavirus HKU25,1,1
+SRR1819083,694013,Gammacoronavirus,1,0
+SRR1819083,2509487,Igacovirus,1,0
+SRR1819083,2501931,Orthocoronavirinae,1,0
+SRR1819083,694014,Avian coronavirus,1,1
+SRR1819094,694013,Gammacoronavirus,1,0
+SRR1819094,2509487,Igacovirus,1,0
+SRR1819094,2501931,Orthocoronavirinae,1,0
+SRR1819094,694014,Avian coronavirus,1,1
+SRR2049108,2501931,Orthocoronavirinae,14,0
+SRR2049108,694002,Betacoronavirus,14,0
+SRR2049108,2509481,Embecovirus,14,0
+SRR2049108,694005,Murine coronavirus,14,14
+SRR2071325,693996,Alphacoronavirus,2,0
+SRR2071325,2501931,Orthocoronavirinae,2,0
+SRR2071325,2509505,Pedacovirus,2,0
+SRR2071325,28295,Porcine epidemic diarrhea virus,2,2
+SRR2143479,2509505,Pedacovirus,4,0
+SRR2143479,693996,Alphacoronavirus,4,0
+SRR2143479,2501931,Orthocoronavirinae,4,0
+SRR2143479,28295,Porcine epidemic diarrhea virus,4,4
+SRR2545347,693996,Alphacoronavirus,3,0
+SRR2545347,2501931,Orthocoronavirinae,3,0
+SRR2545347,2509505,Pedacovirus,3,0
+SRR2545347,28295,Porcine epidemic diarrhea virus,3,3
+SRR2760931,2501931,Orthocoronavirinae,262,47
+SRR2760931,693996,Alphacoronavirus,114,0
+SRR2760931,2509481,Embecovirus,101,0
+SRR2760931,694002,Betacoronavirus,101,0
+SRR2760931,694003,Betacoronavirus 1,70,39
+SRR2760931,2509512,Setracovirus,62,0
+SRR2760931,277944,Human coronavirus NL63,62,62
+SRR2760931,2509480,Duvinacovirus,52,2
+SRR2760931,11137,Human coronavirus 229E,50,50
+SRR2760931,31631,Human coronavirus OC43,31,31
+SRR2760931,290028,Human coronavirus HKU1,31,31
+SRR2760956,2501931,Orthocoronavirinae,10,0
+SRR2760956,2509512,Setracovirus,7,0
+SRR2760956,693996,Alphacoronavirus,7,0
+SRR2760956,277944,Human coronavirus NL63,7,7
+SRR2760956,694002,Betacoronavirus,3,1
+SRR2760956,2509481,Embecovirus,2,0
+SRR2760956,694003,Betacoronavirus 1,1,1
+SRR2760956,290028,Human coronavirus HKU1,1,1
+SRR2760959,2501931,Orthocoronavirinae,45,2
+SRR2760959,693996,Alphacoronavirus,31,0
+SRR2760959,2509480,Duvinacovirus,17,3
+SRR2760959,2509512,Setracovirus,14,0
+SRR2760959,277944,Human coronavirus NL63,14,14
+SRR2760959,11137,Human coronavirus 229E,14,14
+SRR2760959,2509481,Embecovirus,12,0
+SRR2760959,694002,Betacoronavirus,12,0
+SRR2760959,290028,Human coronavirus HKU1,8,8
+SRR2760959,694003,Betacoronavirus 1,4,2
+SRR2760959,31631,Human coronavirus OC43,2,2
+SRR3080649,2509487,Igacovirus,17,0
+SRR3080649,694013,Gammacoronavirus,17,0
+SRR3080649,2501931,Orthocoronavirinae,17,0
+SRR3080649,694014,Avian coronavirus,17,16
+SRR3080649,11120,Infectious bronchitis virus,1,1
+SRR3080651,694013,Gammacoronavirus,12,0
+SRR3080651,2501931,Orthocoronavirinae,12,0
+SRR3080651,2509487,Igacovirus,12,0
+SRR3080651,694014,Avian coronavirus,12,11
+SRR3080651,11120,Infectious bronchitis virus,1,1
+SRR3080653,694013,Gammacoronavirus,4,0
+SRR3080653,2509487,Igacovirus,4,0
+SRR3080653,2501931,Orthocoronavirinae,4,0
+SRR3080653,694014,Avian coronavirus,4,4
+SRR3080658,694013,Gammacoronavirus,6,0
+SRR3080658,2509487,Igacovirus,6,0
+SRR3080658,2501931,Orthocoronavirinae,6,0
+SRR3080658,694014,Avian coronavirus,6,6
+SRR3080662,2509487,Igacovirus,26,0
+SRR3080662,694013,Gammacoronavirus,26,0
+SRR3080662,2501931,Orthocoronavirinae,26,0
+SRR3080662,694014,Avian coronavirus,26,26
+SRR3080663,694013,Gammacoronavirus,2,0
+SRR3080663,2501931,Orthocoronavirinae,2,0
+SRR3080663,2509487,Igacovirus,2,0
+SRR3080663,694014,Avian coronavirus,2,2
+SRR3080665,2509487,Igacovirus,4,0
+SRR3080665,694013,Gammacoronavirus,4,0
+SRR3080665,2501931,Orthocoronavirinae,4,0
+SRR3080665,694014,Avian coronavirus,4,4
+SRR3080674,2501931,Orthocoronavirinae,9,0
+SRR3080674,2509487,Igacovirus,9,0
+SRR3080674,694013,Gammacoronavirus,9,0
+SRR3080674,694014,Avian coronavirus,9,9
+SRR3080676,2509487,Igacovirus,5,0
+SRR3080676,2501931,Orthocoronavirinae,5,0
+SRR3080676,694013,Gammacoronavirus,5,0
+SRR3080676,694014,Avian coronavirus,5,5
+SRR3080679,2509487,Igacovirus,22,0
+SRR3080679,2501931,Orthocoronavirinae,22,0
+SRR3080679,694013,Gammacoronavirus,22,0
+SRR3080679,694014,Avian coronavirus,22,21
+SRR3080679,11120,Infectious bronchitis virus,1,1
+SRR3080682,2501931,Orthocoronavirinae,9,0
+SRR3080682,694013,Gammacoronavirus,9,0
+SRR3080682,2509487,Igacovirus,9,0
+SRR3080682,694014,Avian coronavirus,9,9
+SRR3080683,2509487,Igacovirus,9,0
+SRR3080683,2501931,Orthocoronavirinae,9,0
+SRR3080683,694013,Gammacoronavirus,9,0
+SRR3080683,694014,Avian coronavirus,9,8
+SRR3080683,11120,Infectious bronchitis virus,1,1
+SRR3080684,2509487,Igacovirus,11,0
+SRR3080684,2501931,Orthocoronavirinae,11,0
+SRR3080684,694013,Gammacoronavirus,11,0
+SRR3080684,694014,Avian coronavirus,11,9
+SRR3080684,11120,Infectious bronchitis virus,2,2
+SRR3080685,2501931,Orthocoronavirinae,13,0
+SRR3080685,694013,Gammacoronavirus,13,0
+SRR3080685,2509487,Igacovirus,13,0
+SRR3080685,694014,Avian coronavirus,13,12
+SRR3080685,11120,Infectious bronchitis virus,1,1
+SRR3081230,2501931,Orthocoronavirinae,5,0
+SRR3081230,694013,Gammacoronavirus,5,0
+SRR3081230,2509487,Igacovirus,5,0
+SRR3081230,694014,Avian coronavirus,5,5
+SRR3082497,694013,Gammacoronavirus,6,0
+SRR3082497,2509487,Igacovirus,6,0
+SRR3082497,2501931,Orthocoronavirinae,6,0
+SRR3082497,694014,Avian coronavirus,6,6
+SRR3082935,694013,Gammacoronavirus,24,0
+SRR3082935,2501931,Orthocoronavirinae,24,0
+SRR3082935,2509487,Igacovirus,24,0
+SRR3082935,694014,Avian coronavirus,24,24
+SRR3084257,2509487,Igacovirus,5,0
+SRR3084257,694013,Gammacoronavirus,5,0
+SRR3084257,2501931,Orthocoronavirinae,5,0
+SRR3084257,694014,Avian coronavirus,5,5
+SRR3084270,2501931,Orthocoronavirinae,10,0
+SRR3084270,694013,Gammacoronavirus,10,0
+SRR3084270,2509487,Igacovirus,10,0
+SRR3084270,694014,Avian coronavirus,10,9
+SRR3084270,11120,Infectious bronchitis virus,1,1
+SRR3084777,2509487,Igacovirus,1,0
+SRR3084777,2501931,Orthocoronavirinae,1,0
+SRR3084777,694013,Gammacoronavirus,1,0
+SRR3084777,694014,Avian coronavirus,1,1
+SRR3084794,2509487,Igacovirus,3,0
+SRR3084794,2501931,Orthocoronavirinae,3,0
+SRR3084794,694013,Gammacoronavirus,3,0
+SRR3084794,694014,Avian coronavirus,3,3
+SRR3084814,2501931,Orthocoronavirinae,4,0
+SRR3084814,694013,Gammacoronavirus,4,0
+SRR3084814,2509487,Igacovirus,4,0
+SRR3084814,694014,Avian coronavirus,4,4
+SRR3198416,2501931,Orthocoronavirinae,5,0
+SRR3198416,694002,Betacoronavirus,5,1
+SRR3198416,2509481,Embecovirus,4,0
+SRR3198416,694003,Betacoronavirus 1,4,3
+SRR3198416,31631,Human coronavirus OC43,1,1
+SRR3393743,2501931,Orthocoronavirinae,253,0
+SRR3393743,2509487,Igacovirus,253,0
+SRR3393743,694013,Gammacoronavirus,253,0
+SRR3393743,694014,Avian coronavirus,253,233
+SRR3393743,11120,Infectious bronchitis virus,20,20
+SRR3393759,2501931,Orthocoronavirinae,744,0
+SRR3393759,694013,Gammacoronavirus,743,0
+SRR3393759,2509487,Igacovirus,743,0
+SRR3393759,694014,Avian coronavirus,743,698
+SRR3393759,11120,Infectious bronchitis virus,45,45
+SRR3393759,366617,unclassified Alphacoronavirus,1,0
+SRR3393759,693996,Alphacoronavirus,1,0
+SRR3393759,1034320,Rm-Bat-CoV 429/2007/MV,1,1
+SRR3393766,2501931,Orthocoronavirinae,221,0
+SRR3393766,694013,Gammacoronavirus,220,0
+SRR3393766,2509487,Igacovirus,220,0
+SRR3393766,694014,Avian coronavirus,220,216
+SRR3393766,11120,Infectious bronchitis virus,4,4
+SRR3393766,694002,Betacoronavirus,1,0
+SRR3393766,696098,unclassified Betacoronavirus,1,0
+SRR3393766,1805463,Bat betacoronavirus,1,1
+SRR3393776,2501931,Orthocoronavirinae,9,0
+SRR3393776,694013,Gammacoronavirus,9,0
+SRR3393776,2509487,Igacovirus,9,0
+SRR3393776,694014,Avian coronavirus,9,9
+SRR3393848,2509487,Igacovirus,559,0
+SRR3393848,2501931,Orthocoronavirinae,559,0
+SRR3393848,694013,Gammacoronavirus,559,0
+SRR3393848,694014,Avian coronavirus,559,524
+SRR3393848,11120,Infectious bronchitis virus,35,35
+SRR3393852,2501931,Orthocoronavirinae,82,0
+SRR3393852,2509487,Igacovirus,82,0
+SRR3393852,694013,Gammacoronavirus,82,0
+SRR3393852,694014,Avian coronavirus,82,81
+SRR3393852,11120,Infectious bronchitis virus,1,1
+SRR3393855,694013,Gammacoronavirus,263,0
+SRR3393855,2501931,Orthocoronavirinae,263,0
+SRR3393855,2509487,Igacovirus,263,0
+SRR3393855,694014,Avian coronavirus,263,242
+SRR3393855,11120,Infectious bronchitis virus,21,21
+SRR3393856,2509487,Igacovirus,288,0
+SRR3393856,694013,Gammacoronavirus,288,0
+SRR3393856,2501931,Orthocoronavirinae,288,0
+SRR3393856,694014,Avian coronavirus,288,268
+SRR3393856,11120,Infectious bronchitis virus,20,20
+SRR3393860,2501931,Orthocoronavirinae,189,0
+SRR3393860,694013,Gammacoronavirus,189,0
+SRR3393860,2509487,Igacovirus,189,0
+SRR3393860,694014,Avian coronavirus,189,179
+SRR3393860,11120,Infectious bronchitis virus,10,10
+SRR3393862,694013,Gammacoronavirus,440,0
+SRR3393862,2509487,Igacovirus,440,0
+SRR3393862,2501931,Orthocoronavirinae,440,0
+SRR3393862,694014,Avian coronavirus,440,422
+SRR3393862,11120,Infectious bronchitis virus,18,18
+SRR3393882,2501931,Orthocoronavirinae,110,0
+SRR3393882,2509487,Igacovirus,110,0
+SRR3393882,694013,Gammacoronavirus,110,0
+SRR3393882,694014,Avian coronavirus,110,107
+SRR3393882,11120,Infectious bronchitis virus,3,3
+SRR3393896,2509487,Igacovirus,1,0
+SRR3393896,694013,Gammacoronavirus,1,0
+SRR3393896,2501931,Orthocoronavirinae,1,0
+SRR3393896,694014,Avian coronavirus,1,1
+SRR3393923,2501931,Orthocoronavirinae,1,0
+SRR3393923,694013,Gammacoronavirus,1,0
+SRR3393923,2509487,Igacovirus,1,0
+SRR3393923,694014,Avian coronavirus,1,1
+SRR3393929,2501931,Orthocoronavirinae,1,0
+SRR3393929,2509487,Igacovirus,1,0
+SRR3393929,694013,Gammacoronavirus,1,0
+SRR3393929,694014,Avian coronavirus,1,1
+SRR3393934,694013,Gammacoronavirus,1,0
+SRR3393934,2509487,Igacovirus,1,0
+SRR3393934,2501931,Orthocoronavirinae,1,0
+SRR3393934,694014,Avian coronavirus,1,1
+SRR3394017,2509487,Igacovirus,2,0
+SRR3394017,694013,Gammacoronavirus,2,0
+SRR3394017,2501931,Orthocoronavirinae,2,0
+SRR3394017,694014,Avian coronavirus,2,2
+SRR3394087,2509487,Igacovirus,1,0
+SRR3394087,694013,Gammacoronavirus,1,0
+SRR3394087,2501931,Orthocoronavirinae,1,0
+SRR3394087,694014,Avian coronavirus,1,1
+SRR3394107,2509487,Igacovirus,1,0
+SRR3394107,2501931,Orthocoronavirinae,1,0
+SRR3394107,694013,Gammacoronavirus,1,0
+SRR3394107,694014,Avian coronavirus,1,1
+SRR3394110,694013,Gammacoronavirus,1,0
+SRR3394110,2509487,Igacovirus,1,0
+SRR3394110,2501931,Orthocoronavirinae,1,0
+SRR3394110,694014,Avian coronavirus,1,1
+SRR3394172,2501931,Orthocoronavirinae,1,0
+SRR3394172,2509487,Igacovirus,1,0
+SRR3394172,694013,Gammacoronavirus,1,0
+SRR3394172,694014,Avian coronavirus,1,1
+SRR3394175,2501931,Orthocoronavirinae,1742,0
+SRR3394175,2509487,Igacovirus,1742,0
+SRR3394175,694013,Gammacoronavirus,1742,0
+SRR3394175,694014,Avian coronavirus,1742,1643
+SRR3394175,11120,Infectious bronchitis virus,98,98
+SRR3394175,258781,Pheasant coronavirus,1,1
+SRR3394176,2501931,Orthocoronavirinae,1924,1
+SRR3394176,694013,Gammacoronavirus,1923,0
+SRR3394176,2509487,Igacovirus,1923,0
+SRR3394176,694014,Avian coronavirus,1923,1761
+SRR3394176,11120,Infectious bronchitis virus,161,161
+SRR3394176,258781,Pheasant coronavirus,1,1
+SRR3394180,2509487,Igacovirus,612,0
+SRR3394180,694013,Gammacoronavirus,612,0
+SRR3394180,2501931,Orthocoronavirinae,612,0
+SRR3394180,694014,Avian coronavirus,612,578
+SRR3394180,11120,Infectious bronchitis virus,34,34
+SRR3394182,2509487,Igacovirus,384,0
+SRR3394182,694013,Gammacoronavirus,384,0
+SRR3394182,2501931,Orthocoronavirinae,384,0
+SRR3394182,694014,Avian coronavirus,384,366
+SRR3394182,11120,Infectious bronchitis virus,18,18
+SRR3394184,2509487,Igacovirus,382,0
+SRR3394184,694013,Gammacoronavirus,382,0
+SRR3394184,2501931,Orthocoronavirinae,382,0
+SRR3394184,694014,Avian coronavirus,382,355
+SRR3394184,11120,Infectious bronchitis virus,27,27
+SRR3394185,694013,Gammacoronavirus,1727,0
+SRR3394185,2509487,Igacovirus,1727,0
+SRR3394185,2501931,Orthocoronavirinae,1727,0
+SRR3394185,694014,Avian coronavirus,1727,1602
+SRR3394185,11120,Infectious bronchitis virus,125,125
+SRR3394189,2509487,Igacovirus,84,0
+SRR3394189,694013,Gammacoronavirus,84,0
+SRR3394189,2501931,Orthocoronavirinae,84,0
+SRR3394189,694014,Avian coronavirus,84,81
+SRR3394189,11120,Infectious bronchitis virus,3,3
+SRR3394198,2501931,Orthocoronavirinae,1341,0
+SRR3394198,694013,Gammacoronavirus,1336,0
+SRR3394198,2509487,Igacovirus,1336,0
+SRR3394198,694014,Avian coronavirus,1336,1249
+SRR3394198,11120,Infectious bronchitis virus,87,87
+SRR3394198,693996,Alphacoronavirus,5,0
+SRR3394198,2509480,Duvinacovirus,5,0
+SRR3394198,11137,Human coronavirus 229E,5,5
+SRR3494316,2501931,Orthocoronavirinae,21,7
+SRR3494316,2509481,Embecovirus,14,0
+SRR3494316,694002,Betacoronavirus,14,0
+SRR3494316,694003,Betacoronavirus 1,14,12
+SRR3494316,31631,Human coronavirus OC43,2,2
+SRR3494337,2501931,Orthocoronavirinae,39,17
+SRR3494337,694002,Betacoronavirus,22,0
+SRR3494337,2509481,Embecovirus,22,0
+SRR3494337,694003,Betacoronavirus 1,22,20
+SRR3494337,31631,Human coronavirus OC43,2,2
+SRR3535186,694002,Betacoronavirus,3,0
+SRR3535186,2509494,Merbecovirus,3,0
+SRR3535186,2501931,Orthocoronavirinae,3,0
+SRR3535186,1335626,Middle East respiratory syndrome-related coronavirus,3,3
+SRR3578139,694013,Gammacoronavirus,112,0
+SRR3578139,693995,Coronavirinae,112,0
+SRR3578139,694014,Avian coronavirus,112,31
+SRR3578139,11120,Infectious bronchitis virus,81,81
+SRR3578144,2501931,Orthocoronavirinae,570,0
+SRR3578144,694013,Gammacoronavirus,570,1
+SRR3578144,2509487,Igacovirus,569,0
+SRR3578144,694014,Avian coronavirus,569,377
+SRR3578144,11120,Infectious bronchitis virus,190,183
+SRR3578144,658929,Infectious bronchitis virus ITA/90254/2005,7,7
+SRR3578144,258781,Pheasant coronavirus,1,1
+SRR3578144,11152,Turkey coronavirus,1,1
+SRR3578152,694013,Gammacoronavirus,6,0
+SRR3578152,2509487,Igacovirus,6,0
+SRR3578152,2501931,Orthocoronavirinae,6,0
+SRR3578152,694014,Avian coronavirus,6,6
+SRR3742821,693995,Coronavirinae,324770,0
+SRR3742821,694002,Betacoronavirus,324770,35
+SRR3742821,696098,unclassified Betacoronavirus,324645,294
+SRR3742821,1335626,Middle East respiratory syndrome coronavirus,324347,324347
+SRR3742821,694008,Pipistrellus bat coronavirus HKU5,43,43
+SRR3742821,694007,Tylonycteris bat coronavirus HKU4,39,39
+SRR3742821,290028,Human coronavirus HKU1,7,7
+SRR3742821,1385427,Betacoronavirus Erinaceus/VMC/DEU/2012,4,4
+SRR3742821,694005,Murine coronavirus,1,1
+SRR4427283,2501931,Orthocoronavirinae,9,0
+SRR4427283,693996,Alphacoronavirus,9,0
+SRR4427283,2509512,Setracovirus,9,0
+SRR4427283,277944,Human coronavirus NL63,9,9
+SRR5204214,2501931,Orthocoronavirinae,6,0
+SRR5204214,2509505,Pedacovirus,6,0
+SRR5204214,693996,Alphacoronavirus,6,0
+SRR5204214,28295,Porcine epidemic diarrhea virus,6,6
+SRR5204215,2501931,Orthocoronavirinae,22,0
+SRR5204215,693996,Alphacoronavirus,22,0
+SRR5204215,2509505,Pedacovirus,22,0
+SRR5204215,28295,Porcine epidemic diarrhea virus,22,22
+SRR5204216,2509505,Pedacovirus,3,0
+SRR5204216,693996,Alphacoronavirus,3,0
+SRR5204216,2501931,Orthocoronavirinae,3,0
+SRR5204216,28295,Porcine epidemic diarrhea virus,3,3
+SRR5204219,693996,Alphacoronavirus,2,0
+SRR5204219,2509505,Pedacovirus,2,0
+SRR5204219,2501931,Orthocoronavirinae,2,0
+SRR5204219,28295,Porcine epidemic diarrhea virus,2,2
+SRR5204231,2501931,Orthocoronavirinae,43,0
+SRR5204231,693996,Alphacoronavirus,43,24
+SRR5204231,2509505,Pedacovirus,19,0
+SRR5204231,28295,Porcine epidemic diarrhea virus,19,19
+SRR5204234,2509505,Pedacovirus,8,0
+SRR5204234,693996,Alphacoronavirus,8,0
+SRR5204234,2501931,Orthocoronavirinae,8,0
+SRR5204234,28295,Porcine epidemic diarrhea virus,8,8
+SRR5204236,693996,Alphacoronavirus,60,0
+SRR5204236,2509505,Pedacovirus,60,0
+SRR5204236,2501931,Orthocoronavirinae,60,0
+SRR5204236,28295,Porcine epidemic diarrhea virus,60,60
+SRR5204238,2501931,Orthocoronavirinae,238,0
+SRR5204238,693996,Alphacoronavirus,238,6
+SRR5204238,2509505,Pedacovirus,232,0
+SRR5204238,28295,Porcine epidemic diarrhea virus,232,232
+SRR5204239,2501931,Orthocoronavirinae,40,0
+SRR5204239,693996,Alphacoronavirus,40,1
+SRR5204239,2509505,Pedacovirus,39,0
+SRR5204239,28295,Porcine epidemic diarrhea virus,39,39
+SRR5204240,2501931,Orthocoronavirinae,38,0
+SRR5204240,693996,Alphacoronavirus,38,1
+SRR5204240,2509505,Pedacovirus,37,0
+SRR5204240,28295,Porcine epidemic diarrhea virus,37,37
+SRR5204242,2501931,Orthocoronavirinae,21,0
+SRR5204242,693996,Alphacoronavirus,21,0
+SRR5204242,2509505,Pedacovirus,21,0
+SRR5204242,28295,Porcine epidemic diarrhea virus,21,21
+SRR5204243,693996,Alphacoronavirus,11,0
+SRR5204243,2509505,Pedacovirus,11,0
+SRR5204243,2501931,Orthocoronavirinae,11,0
+SRR5204243,28295,Porcine epidemic diarrhea virus,11,11
+SRR5204246,2501931,Orthocoronavirinae,7,0
+SRR5204246,693996,Alphacoronavirus,7,3
+SRR5204246,2509505,Pedacovirus,4,0
+SRR5204246,28295,Porcine epidemic diarrhea virus,4,4
+SRR5204250,2501931,Orthocoronavirinae,48,0
+SRR5204250,693996,Alphacoronavirus,48,2
+SRR5204250,2509505,Pedacovirus,46,0
+SRR5204250,28295,Porcine epidemic diarrhea virus,46,46
+SRR5204258,2501931,Orthocoronavirinae,53,0
+SRR5204258,693996,Alphacoronavirus,53,0
+SRR5204258,2509505,Pedacovirus,53,0
+SRR5204258,28295,Porcine epidemic diarrhea virus,53,53
+SRR5289006,2501931,Orthocoronavirinae,171438,0
+SRR5289006,694002,Betacoronavirus,171438,46
+SRR5289006,2509494,Merbecovirus,171391,274
+SRR5289006,1335626,Middle East respiratory syndrome-related coronavirus,171117,171111
+SRR5289006,1368314,Coronavirus Neoromicia/PML-PHE1/RSA/2011,5,5
+SRR5289006,696098,unclassified Betacoronavirus,1,0
+SRR5289006,1306931,Human betacoronavirus 2c Jordan-N3/2012,1,1
+SRR5289006,1805463,Bat betacoronavirus,1,1
+SRR5351760,2501931,Orthocoronavirinae,1652,0
+SRR5351760,694002,Betacoronavirus,1652,61
+SRR5351760,2509511,Sarbecovirus,1591,0
+SRR5351760,694009,Severe acute respiratory syndrome-related coronavirus,1591,198
+SRR5351760,1508227,Bat SARS-like coronavirus,1393,1393
+SRR5438706,2509487,Igacovirus,4,0
+SRR5438706,694014,Avian coronavirus,4,0
+SRR5438706,694013,Gammacoronavirus,4,0
+SRR5438706,2501931,Orthocoronavirinae,4,0
+SRR5438706,11120,Infectious bronchitis virus,4,4
+SRR5438721,694013,Gammacoronavirus,243,0
+SRR5438721,2501931,Orthocoronavirinae,243,0
+SRR5438721,2509487,Igacovirus,243,0
+SRR5438721,694014,Avian coronavirus,243,75
+SRR5438721,11120,Infectious bronchitis virus,163,162
+SRR5438721,11152,Turkey coronavirus,3,3
+SRR5438721,749416,unclassified Avian coronavirus,2,0
+SRR5438721,1245464,Guinea fowl coronavirus GfCoV/FR/2011,2,2
+SRR5438721,658930,Infectious bronchitis virus NGA/A116E7/2006,1,1
+SRR5507453,2501931,Orthocoronavirinae,1,0
+SRR5507453,2509481,Embecovirus,1,0
+SRR5507453,694002,Betacoronavirus,1,0
+SRR5507453,290028,Human coronavirus HKU1,1,1
+SRR5532368,2501931,Orthocoronavirinae,1,0
+SRR5532368,2509481,Embecovirus,1,0
+SRR5532368,694002,Betacoronavirus,1,0
+SRR5532368,290028,Human coronavirus HKU1,1,1
+SRR5809358,2501931,Orthocoronavirinae,6847,0
+SRR5809358,693996,Alphacoronavirus,6847,1
+SRR5809358,2509480,Duvinacovirus,6846,48
+SRR5809358,11137,Human coronavirus 229E,6798,6796
+SRR5809358,1739614,229E-related bat coronavirus,2,2
+SRR5816371,2501931,Orthocoronavirinae,53119,0
+SRR5816371,693996,Alphacoronavirus,53119,0
+SRR5816371,2509480,Duvinacovirus,53119,122
+SRR5816371,11137,Human coronavirus 229E,52997,52997
+SRR5871963,693996,Alphacoronavirus,2212,0
+SRR5871963,2501931,Orthocoronavirinae,2212,0
+SRR5871963,2509480,Duvinacovirus,2212,30
+SRR5871963,11137,Human coronavirus 229E,2182,2181
+SRR5871963,1739614,229E-related bat coronavirus,1,1
+SRR5872053,2501931,Orthocoronavirinae,499,0
+SRR5872053,693996,Alphacoronavirus,499,0
+SRR5872053,2509480,Duvinacovirus,499,3
+SRR5872053,11137,Human coronavirus 229E,496,496
+SRR5872059,2501931,Orthocoronavirinae,2,2
+SRR5872097,2501931,Orthocoronavirinae,287317,4
+SRR5872097,694002,Betacoronavirus,287312,68
+SRR5872097,2509481,Embecovirus,287235,199
+SRR5872097,290028,Human coronavirus HKU1,287035,287035
+SRR5872097,693995,Coronavirinae,15,0
+SRR5872097,2664420,unclassified Coronavirinae,15,0
+SRR5872097,694448,unidentified human coronavirus,12,12
+SRR5872097,696098,unclassified Betacoronavirus,9,2
+SRR5872097,1928434,Betacoronavirus sp.,4,4
+SRR5872097,2050018,Rodent coronavirus,2,2
+SRR5872097,694013,Gammacoronavirus,1,0
+SRR5872097,2509487,Igacovirus,1,0
+SRR5872097,694003,Betacoronavirus 1,1,1
+SRR5872097,1381358,Bat Coronavirus Rhhar/CII_KSA_004/Bisha/Saudi Arabia/2013,1,1
+SRR5872097,1508223,Longquan Rl rat coronavirus,1,1
+SRR5872097,1160968,Rabbit coronavirus HKU14,1,1
+SRR5872097,1679918,Coronavirus RCoV/RMU10_3147/Apo_fla/GER/2010,1,1
+SRR5872097,694014,Avian coronavirus,1,1
+SRR5872104,2501931,Orthocoronavirinae,2115,233
+SRR5872104,694002,Betacoronavirus,1882,29
+SRR5872104,2509481,Embecovirus,1853,1
+SRR5872104,694003,Betacoronavirus 1,1852,1631
+SRR5872104,31631,Human coronavirus OC43,213,213
+SRR5872104,11128,Bovine coronavirus,4,4
+SRR5872104,2030446,Coronavirus HKU23,1,0
+SRR5872104,136187,Equine coronavirus,1,1
+SRR5872104,42005,Porcine hemagglutinating encephalomyelitis virus,1,1
+SRR5872104,1479610,Dromedary camel coronavirus HKU23,1,1
+SRR5872104,215681,Canine respiratory coronavirus,1,1
+SRR5991652,693995,Coronavirinae,270,0
+SRR5991652,2664420,unclassified Coronavirinae,270,3
+SRR5991652,2032731,Swine acute diarrhea syndrome coronavirus,211,211
+SRR5991652,2501931,Orthocoronavirinae,107,0
+SRR5991652,693996,Alphacoronavirus,107,2
+SRR5991652,2509509,Rhinacovirus,94,9
+SRR5991652,2115988,Swine acute diarrhea syndrome related coronavirus,52,52
+SRR5991652,693998,Rhinolophus bat coronavirus HKU2,48,47
+SRR5991652,2691594,unclassified Rhinacovirus,37,0
+SRR5991652,2691595,Rhinolophus affinis bat coronavirus HKU2-related,37,37
+SRR5991652,366617,unclassified Alphacoronavirus,9,0
+SRR5991652,1503293,BtRf-AlphaCoV/YN2012,6,6
+SRR5991652,1508220,Bat coronavirus,4,4
+SRR5991652,2045491,Swine enteric alphacoronavirus,3,3
+SRR5991652,2509514,Tegacovirus,1,0
+SRR5991652,693997,Alphacoronavirus 1,1,0
+SRR5991652,2018513,Porcine enteric alphacoronavirus,1,1
+SRR5991652,12663,Feline coronavirus,1,1
+SRR5991652,2509497,Minunacovirus,1,1
+SRR6043420,2501931,Orthocoronavirinae,7,0
+SRR6043420,2509481,Embecovirus,7,0
+SRR6043420,694002,Betacoronavirus,7,0
+SRR6043420,694005,Murine coronavirus,7,7
+SRR6238243,2509487,Igacovirus,966,0
+SRR6238243,2501931,Orthocoronavirinae,966,0
+SRR6238243,694013,Gammacoronavirus,966,0
+SRR6238243,694014,Avian coronavirus,966,904
+SRR6238243,11120,Infectious bronchitis virus,62,62
+SRR6321707,694003,Betacoronavirus 1,9,0
+SRR6321707,2509481,Embecovirus,9,0
+SRR6321707,694002,Betacoronavirus,9,0
+SRR6321707,2501931,Orthocoronavirinae,9,0
+SRR6321707,31631,Human coronavirus OC43,9,9
+SRR6339436,2501931,Orthocoronavirinae,10,0
+SRR6339436,694002,Betacoronavirus,10,2
+SRR6339436,2509511,Sarbecovirus,8,0
+SRR6339436,694009,Severe acute respiratory syndrome-related coronavirus,8,8
+SRR6344284,694002,Betacoronavirus,1,0
+SRR6344284,693995,Coronavirinae,1,0
+SRR6344284,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+SRR6367402,2509505,Pedacovirus,1,0
+SRR6367402,693996,Alphacoronavirus,1,0
+SRR6367402,2501931,Orthocoronavirinae,1,0
+SRR6367402,28295,Porcine epidemic diarrhea virus,1,1
+SRR6434393,2509514,Tegacovirus,2,0
+SRR6434393,2501931,Orthocoronavirinae,2,0
+SRR6434393,693996,Alphacoronavirus,2,0
+SRR6434393,12663,Feline coronavirus,2,0
+SRR6434393,693997,Alphacoronavirus 1,2,0
+SRR6434393,454953,Feline coronavirus UU5,1,1
+SRR6434393,1052157,Feline coronavirus UU47,1,1
+SRR6713694,2501931,Orthocoronavirinae,339779,88
+SRR6713694,693996,Alphacoronavirus,339680,3031
+SRR6713694,2509505,Pedacovirus,336647,0
+SRR6713694,28295,Porcine epidemic diarrhea virus,336647,336647
+SRR6713694,1159901,Deltacoronavirus,11,1
+SRR6713694,2509474,Buldecovirus,10,0
+SRR6713694,1965089,Coronavirus HKU15,10,8
+SRR6713694,366617,unclassified Alphacoronavirus,2,1
+SRR6713694,1159905,Porcine coronavirus HKU15,2,2
+SRR6713694,1906673,Alphacoronavirus sp.,1,1
+SRR6713695,2501931,Orthocoronavirinae,181062,41
+SRR6713695,693996,Alphacoronavirus,181020,1562
+SRR6713695,2509505,Pedacovirus,179457,0
+SRR6713695,28295,Porcine epidemic diarrhea virus,179457,179457
+SRR6713695,1965089,Coronavirus HKU15,1,0
+SRR6713695,1159901,Deltacoronavirus,1,0
+SRR6713695,2509474,Buldecovirus,1,0
+SRR6713695,2509480,Duvinacovirus,1,0
+SRR6713695,11137,Human coronavirus 229E,1,0
+SRR6713695,1739614,229E-related bat coronavirus,1,1
+SRR6713695,1159905,Porcine coronavirus HKU15,1,1
+SRR6713697,2501931,Orthocoronavirinae,561035,146
+SRR6713697,693996,Alphacoronavirus,560889,4418
+SRR6713697,2509505,Pedacovirus,556470,0
+SRR6713697,28295,Porcine epidemic diarrhea virus,556470,556470
+SRR6713697,2509514,Tegacovirus,1,0
+SRR6713697,693997,Alphacoronavirus 1,1,0
+SRR6713697,11149,Transmissible gastroenteritis virus,1,1
+SRR6713700,2501931,Orthocoronavirinae,138174,14
+SRR6713700,693996,Alphacoronavirus,138160,494
+SRR6713700,2509505,Pedacovirus,137666,0
+SRR6713700,28295,Porcine epidemic diarrhea virus,137666,137666
+SRR6713710,2501931,Orthocoronavirinae,21848,0
+SRR6713710,693996,Alphacoronavirus,21847,64
+SRR6713710,2509505,Pedacovirus,21783,0
+SRR6713710,28295,Porcine epidemic diarrhea virus,21783,21783
+SRR6713710,1159901,Deltacoronavirus,1,0
+SRR6713710,2509474,Buldecovirus,1,0
+SRR6713710,1965089,Coronavirus HKU15,1,1
+SRR6713712,2501931,Orthocoronavirinae,45796,8
+SRR6713712,693996,Alphacoronavirus,45788,151
+SRR6713712,2509505,Pedacovirus,45637,0
+SRR6713712,28295,Porcine epidemic diarrhea virus,45637,45637
+SRR6713714,2501931,Orthocoronavirinae,84030,4
+SRR6713714,693996,Alphacoronavirus,84026,108
+SRR6713714,2509505,Pedacovirus,83918,0
+SRR6713714,28295,Porcine epidemic diarrhea virus,83918,83918
+SRR6713722,2501931,Orthocoronavirinae,47877,1
+SRR6713722,693996,Alphacoronavirus,47876,74
+SRR6713722,2509505,Pedacovirus,47802,0
+SRR6713722,28295,Porcine epidemic diarrhea virus,47802,47802
+SRR6713724,2501931,Orthocoronavirinae,4483,0
+SRR6713724,693996,Alphacoronavirus,4483,12
+SRR6713724,2509505,Pedacovirus,4471,0
+SRR6713724,28295,Porcine epidemic diarrhea virus,4471,4471
+SRR6713726,2501931,Orthocoronavirinae,362433,16
+SRR6713726,693996,Alphacoronavirus,362417,346
+SRR6713726,2509505,Pedacovirus,362070,0
+SRR6713726,28295,Porcine epidemic diarrhea virus,362070,362070
+SRR6713726,2509480,Duvinacovirus,1,0
+SRR6713726,11137,Human coronavirus 229E,1,1
+SRR6713729,2501931,Orthocoronavirinae,268274,11
+SRR6713729,693996,Alphacoronavirus,268263,497
+SRR6713729,2509505,Pedacovirus,267765,0
+SRR6713729,28295,Porcine epidemic diarrhea virus,267765,267765
+SRR6713729,2509480,Duvinacovirus,1,0
+SRR6713729,11137,Human coronavirus 229E,1,1
+SRR6713736,2501931,Orthocoronavirinae,130,0
+SRR6713736,693996,Alphacoronavirus,128,0
+SRR6713736,2509505,Pedacovirus,128,0
+SRR6713736,28295,Porcine epidemic diarrhea virus,128,128
+SRR6713736,1159901,Deltacoronavirus,2,0
+SRR6713736,2509474,Buldecovirus,2,0
+SRR6713736,1965089,Coronavirus HKU15,2,1
+SRR6713736,1159905,Porcine coronavirus HKU15,1,1
+SRR6713737,2501931,Orthocoronavirinae,347742,9
+SRR6713737,693996,Alphacoronavirus,347733,423
+SRR6713737,2509505,Pedacovirus,347309,0
+SRR6713737,28295,Porcine epidemic diarrhea virus,347309,347309
+SRR6713737,693997,Alphacoronavirus 1,1,0
+SRR6713737,2509514,Tegacovirus,1,0
+SRR6713737,1766554,Swine enteric coronavirus,1,1
+SRR6713738,2501931,Orthocoronavirinae,109844,4
+SRR6713738,693996,Alphacoronavirus,109840,221
+SRR6713738,2509505,Pedacovirus,109619,0
+SRR6713738,28295,Porcine epidemic diarrhea virus,109619,109619
+SRR6713740,2501931,Orthocoronavirinae,29587,0
+SRR6713740,693996,Alphacoronavirus,29587,47
+SRR6713740,2509505,Pedacovirus,29540,0
+SRR6713740,28295,Porcine epidemic diarrhea virus,29540,29540
+SRR6713742,2501931,Orthocoronavirinae,131219,5
+SRR6713742,693996,Alphacoronavirus,131214,255
+SRR6713742,2509505,Pedacovirus,130959,0
+SRR6713742,28295,Porcine epidemic diarrhea virus,130959,130959
+SRR6713744,2501931,Orthocoronavirinae,70303,0
+SRR6713744,693996,Alphacoronavirus,70303,119
+SRR6713744,2509505,Pedacovirus,70184,0
+SRR6713744,28295,Porcine epidemic diarrhea virus,70184,70184
+SRR6713745,2501931,Orthocoronavirinae,29201,3
+SRR6713745,693996,Alphacoronavirus,29198,71
+SRR6713745,2509505,Pedacovirus,29127,0
+SRR6713745,28295,Porcine epidemic diarrhea virus,29127,29127
+SRR6713748,2501931,Orthocoronavirinae,84665,3
+SRR6713748,693996,Alphacoronavirus,84662,176
+SRR6713748,2509505,Pedacovirus,84486,0
+SRR6713748,28295,Porcine epidemic diarrhea virus,84486,84486
+SRR6713749,2501931,Orthocoronavirinae,114167,2
+SRR6713749,693996,Alphacoronavirus,114165,215
+SRR6713749,2509505,Pedacovirus,113950,0
+SRR6713749,28295,Porcine epidemic diarrhea virus,113950,113950
+SRR6713758,2501931,Orthocoronavirinae,71946,3
+SRR6713758,693996,Alphacoronavirus,71756,147
+SRR6713758,2509505,Pedacovirus,71609,0
+SRR6713758,28295,Porcine epidemic diarrhea virus,71609,71609
+SRR6713758,1159901,Deltacoronavirus,187,4
+SRR6713758,2509474,Buldecovirus,183,0
+SRR6713758,1965089,Coronavirus HKU15,183,89
+SRR6713758,1159905,Porcine coronavirus HKU15,94,90
+SRR6713758,1586324,Porcine deltacoronavirus,4,4
+SRR6713759,2501931,Orthocoronavirinae,15847,0
+SRR6713759,693996,Alphacoronavirus,15847,31
+SRR6713759,2509505,Pedacovirus,15816,0
+SRR6713759,28295,Porcine epidemic diarrhea virus,15816,15816
+SRR6713760,2501931,Orthocoronavirinae,192490,2
+SRR6713760,693996,Alphacoronavirus,192488,258
+SRR6713760,2509505,Pedacovirus,192230,0
+SRR6713760,28295,Porcine epidemic diarrhea virus,192230,192230
+SRR6713761,2501931,Orthocoronavirinae,39115,0
+SRR6713761,693996,Alphacoronavirus,39115,361
+SRR6713761,2509505,Pedacovirus,38754,0
+SRR6713761,28295,Porcine epidemic diarrhea virus,38754,38754
+SRR6713764,2501931,Orthocoronavirinae,199503,11
+SRR6713764,693996,Alphacoronavirus,199492,449
+SRR6713764,2509505,Pedacovirus,199043,0
+SRR6713764,28295,Porcine epidemic diarrhea virus,199043,199043
+SRR6713773,2501931,Orthocoronavirinae,7730,0
+SRR6713773,693996,Alphacoronavirus,7730,14
+SRR6713773,2509505,Pedacovirus,7716,0
+SRR6713773,28295,Porcine epidemic diarrhea virus,7716,7716
+SRR6713774,2501931,Orthocoronavirinae,2114,0
+SRR6713774,693996,Alphacoronavirus,2114,6
+SRR6713774,2509505,Pedacovirus,2108,0
+SRR6713774,28295,Porcine epidemic diarrhea virus,2108,2108
+SRR6713778,2501931,Orthocoronavirinae,504011,23
+SRR6713778,693996,Alphacoronavirus,503988,1303
+SRR6713778,2509505,Pedacovirus,502683,0
+SRR6713778,28295,Porcine epidemic diarrhea virus,502683,502683
+SRR6713778,366617,unclassified Alphacoronavirus,2,0
+SRR6713778,1906673,Alphacoronavirus sp.,2,2
+SRR6713787,2501931,Orthocoronavirinae,31615,0
+SRR6713787,693996,Alphacoronavirus,31615,40
+SRR6713787,2509505,Pedacovirus,31575,0
+SRR6713787,28295,Porcine epidemic diarrhea virus,31575,31575
+SRR6713789,2501931,Orthocoronavirinae,5923,0
+SRR6713789,693996,Alphacoronavirus,5923,4
+SRR6713789,2509505,Pedacovirus,5919,0
+SRR6713789,28295,Porcine epidemic diarrhea virus,5919,5919
+SRR6713790,2501931,Orthocoronavirinae,2077,0
+SRR6713790,693996,Alphacoronavirus,2077,1
+SRR6713790,2509505,Pedacovirus,2076,0
+SRR6713790,28295,Porcine epidemic diarrhea virus,2076,2076
+SRR6713793,2501931,Orthocoronavirinae,106900,1
+SRR6713793,693996,Alphacoronavirus,106520,1314
+SRR6713793,2509505,Pedacovirus,105205,0
+SRR6713793,28295,Porcine epidemic diarrhea virus,105205,105205
+SRR6713793,1159901,Deltacoronavirus,379,12
+SRR6713793,2509474,Buldecovirus,367,0
+SRR6713793,1965089,Coronavirus HKU15,367,272
+SRR6713793,1159905,Porcine coronavirus HKU15,95,89
+SRR6713793,1586324,Porcine deltacoronavirus,6,6
+SRR6713793,2501929,NL63-related bat coronavirus strain BtKYNL63-9b,1,0
+SRR6713793,2509512,Setracovirus,1,0
+SRR6713793,1920748,NL63-related bat coronavirus,1,1
+SRR6713794,2501931,Orthocoronavirinae,6344,3
+SRR6713794,693996,Alphacoronavirus,5516,66
+SRR6713794,2509505,Pedacovirus,5450,0
+SRR6713794,28295,Porcine epidemic diarrhea virus,5450,5450
+SRR6713794,1159901,Deltacoronavirus,825,26
+SRR6713794,2509474,Buldecovirus,798,1
+SRR6713794,1965089,Coronavirus HKU15,797,558
+SRR6713794,1159905,Porcine coronavirus HKU15,239,213
+SRR6713794,1586324,Porcine deltacoronavirus,23,23
+SRR6713794,1476502,Porcine deltacoronavirus 8734/USA-IA/2014,3,3
+SRR6713794,1232736,unclassified Deltacoronavirus,1,0
+SRR6713794,2249315,Quail deltacoronavirus,1,1
+SRR6713796,2501931,Orthocoronavirinae,3043,1
+SRR6713796,693996,Alphacoronavirus,2639,45
+SRR6713796,2509505,Pedacovirus,2594,0
+SRR6713796,28295,Porcine epidemic diarrhea virus,2594,2594
+SRR6713796,1159901,Deltacoronavirus,403,14
+SRR6713796,2509474,Buldecovirus,389,0
+SRR6713796,1965089,Coronavirus HKU15,389,273
+SRR6713796,1159905,Porcine coronavirus HKU15,116,107
+SRR6713796,1586324,Porcine deltacoronavirus,9,9
+SRR6713797,2501931,Orthocoronavirinae,382731,130
+SRR6713797,693996,Alphacoronavirus,382589,4170
+SRR6713797,2509505,Pedacovirus,378418,0
+SRR6713797,28295,Porcine epidemic diarrhea virus,378418,378418
+SRR6713797,1159901,Deltacoronavirus,12,1
+SRR6713797,2509474,Buldecovirus,11,0
+SRR6713797,1965089,Coronavirus HKU15,11,5
+SRR6713797,1159905,Porcine coronavirus HKU15,6,6
+SRR6713797,2509496,Minacovirus,1,0
+SRR6713797,1264898,Ferret coronavirus,1,1
+SRR6713799,2501931,Orthocoronavirinae,434162,156
+SRR6713799,693996,Alphacoronavirus,434004,5232
+SRR6713799,2509505,Pedacovirus,428769,0
+SRR6713799,28295,Porcine epidemic diarrhea virus,428769,428769
+SRR6713799,2509480,Duvinacovirus,2,0
+SRR6713799,2509474,Buldecovirus,2,0
+SRR6713799,1159901,Deltacoronavirus,2,0
+SRR6713799,11137,Human coronavirus 229E,2,1
+SRR6713799,1965089,Coronavirus HKU15,2,1
+SRR6713799,366617,unclassified Alphacoronavirus,1,0
+SRR6713799,1508225,Lushi Ml bat coronavirus,1,1
+SRR6713799,1739614,229E-related bat coronavirus,1,1
+SRR6713799,1159905,Porcine coronavirus HKU15,1,1
+SRR6713800,2501931,Orthocoronavirinae,1924,1
+SRR6713800,693996,Alphacoronavirus,1923,22
+SRR6713800,2509505,Pedacovirus,1901,0
+SRR6713800,28295,Porcine epidemic diarrhea virus,1901,1901
+SRR6713801,2501931,Orthocoronavirinae,354361,67
+SRR6713801,693996,Alphacoronavirus,354202,2727
+SRR6713801,2509505,Pedacovirus,351474,0
+SRR6713801,28295,Porcine epidemic diarrhea virus,351474,351474
+SRR6713801,1159901,Deltacoronavirus,92,2
+SRR6713801,2509474,Buldecovirus,90,0
+SRR6713801,1965089,Coronavirus HKU15,90,67
+SRR6713801,1159905,Porcine coronavirus HKU15,23,23
+SRR6713801,366617,unclassified Alphacoronavirus,1,0
+SRR6713801,1906673,Alphacoronavirus sp.,1,1
+SRR6713802,2501931,Orthocoronavirinae,479823,39
+SRR6713802,693996,Alphacoronavirus,479782,2609
+SRR6713802,2509505,Pedacovirus,477171,0
+SRR6713802,28295,Porcine epidemic diarrhea virus,477171,477171
+SRR6713802,1159901,Deltacoronavirus,2,0
+SRR6713802,2509474,Buldecovirus,2,0
+SRR6713802,366617,unclassified Alphacoronavirus,2,0
+SRR6713802,1906673,Alphacoronavirus sp.,2,2
+SRR6713802,1965089,Coronavirus HKU15,2,2
+SRR6713804,2501931,Orthocoronavirinae,143973,14
+SRR6713804,693996,Alphacoronavirus,143958,587
+SRR6713804,2509505,Pedacovirus,143371,0
+SRR6713804,28295,Porcine epidemic diarrhea virus,143371,143371
+SRR6713804,2509474,Buldecovirus,1,0
+SRR6713804,1159901,Deltacoronavirus,1,0
+SRR6713804,1965089,Coronavirus HKU15,1,1
+SRR6713809,2501931,Orthocoronavirinae,568212,29
+SRR6713809,693996,Alphacoronavirus,568183,1338
+SRR6713809,2509505,Pedacovirus,566841,0
+SRR6713809,28295,Porcine epidemic diarrhea virus,566841,566841
+SRR6713809,366617,unclassified Alphacoronavirus,2,0
+SRR6713809,2501926,Rhinolophus ferrumequinum alphacoronavirus HuB-2013,1,0
+SRR6713809,2509514,Tegacovirus,1,0
+SRR6713809,693997,Alphacoronavirus 1,1,0
+SRR6713809,2509479,Decacovirus,1,0
+SRR6713809,983929,Chaerephon bat coronavirus/Kenya/KY22/2006,1,1
+SRR6713809,1503292,BtRf-AlphaCoV/HuB2013,1,1
+SRR6713809,1766554,Swine enteric coronavirus,1,1
+SRR6713809,1906673,Alphacoronavirus sp.,1,1
+SRR6713811,2501931,Orthocoronavirinae,8619,1
+SRR6713811,693996,Alphacoronavirus,8618,36
+SRR6713811,2509505,Pedacovirus,8581,0
+SRR6713811,28295,Porcine epidemic diarrhea virus,8581,8581
+SRR6713811,11137,Human coronavirus 229E,1,0
+SRR6713811,2509480,Duvinacovirus,1,0
+SRR6713811,1739614,229E-related bat coronavirus,1,1
+SRR6713812,2501931,Orthocoronavirinae,218140,17
+SRR6713812,693996,Alphacoronavirus,218123,1357
+SRR6713812,2509505,Pedacovirus,216765,0
+SRR6713812,28295,Porcine epidemic diarrhea virus,216765,216765
+SRR6713812,2509503,Nyctacovirus,1,0
+SRR6713812,2501928,Nyctalus velutinus alphacoronavirus SC-2013,1,0
+SRR6713812,1503291,BtNv-AlphaCoV/SC2013,1,1
+SRR6713813,2501931,Orthocoronavirinae,232490,23
+SRR6713813,693996,Alphacoronavirus,232440,782
+SRR6713813,2509505,Pedacovirus,231657,0
+SRR6713813,28295,Porcine epidemic diarrhea virus,231657,231657
+SRR6713813,2509474,Buldecovirus,24,0
+SRR6713813,1159901,Deltacoronavirus,24,0
+SRR6713813,1965089,Coronavirus HKU15,24,16
+SRR6713813,1159905,Porcine coronavirus HKU15,8,7
+SRR6713813,2509481,Embecovirus,3,0
+SRR6713813,694002,Betacoronavirus,3,0
+SRR6713813,694003,Betacoronavirus 1,3,1
+SRR6713813,42005,Porcine hemagglutinating encephalomyelitis virus,2,2
+SRR6713813,2509480,Duvinacovirus,1,0
+SRR6713813,1559519,Porcine deltacoronavirus KNU14-04,1,1
+SRR6713813,11137,Human coronavirus 229E,1,1
+SRR6713816,2501931,Orthocoronavirinae,303763,27
+SRR6713816,693996,Alphacoronavirus,302470,742
+SRR6713816,2509505,Pedacovirus,301728,0
+SRR6713816,28295,Porcine epidemic diarrhea virus,301728,301728
+SRR6713816,1159901,Deltacoronavirus,1266,19
+SRR6713816,2509474,Buldecovirus,1247,0
+SRR6713816,1965089,Coronavirus HKU15,1247,748
+SRR6713816,1159905,Porcine coronavirus HKU15,499,467
+SRR6713816,1586324,Porcine deltacoronavirus,23,23
+SRR6713816,1476502,Porcine deltacoronavirus 8734/USA-IA/2014,9,9
+SRR6713819,2501931,Orthocoronavirinae,372982,38
+SRR6713819,693996,Alphacoronavirus,372928,1511
+SRR6713819,2509505,Pedacovirus,371416,0
+SRR6713819,28295,Porcine epidemic diarrhea virus,371416,371416
+SRR6713819,2509474,Buldecovirus,16,0
+SRR6713819,1159901,Deltacoronavirus,16,0
+SRR6713819,1965089,Coronavirus HKU15,16,8
+SRR6713819,1159905,Porcine coronavirus HKU15,8,6
+SRR6713819,366617,unclassified Alphacoronavirus,1,0
+SRR6713819,1586324,Porcine deltacoronavirus,1,1
+SRR6713819,1906673,Alphacoronavirus sp.,1,1
+SRR6713819,1476502,Porcine deltacoronavirus 8734/USA-IA/2014,1,1
+SRR6713820,2501931,Orthocoronavirinae,47799,3
+SRR6713820,1159901,Deltacoronavirus,26023,365
+SRR6713820,2509474,Buldecovirus,25651,8
+SRR6713820,1965089,Coronavirus HKU15,25643,15616
+SRR6713820,693996,Alphacoronavirus,21773,70
+SRR6713820,2509505,Pedacovirus,21698,0
+SRR6713820,28295,Porcine epidemic diarrhea virus,21698,21698
+SRR6713820,1159905,Porcine coronavirus HKU15,10027,9522
+SRR6713820,1586324,Porcine deltacoronavirus,505,505
+SRR6713820,1232736,unclassified Deltacoronavirus,7,1
+SRR6713820,2509514,Tegacovirus,5,0
+SRR6713820,693997,Alphacoronavirus 1,5,3
+SRR6713820,2219863,Sparrow deltacoronavirus,3,3
+SRR6713820,11149,Transmissible gastroenteritis virus,2,0
+SRR6713820,11146,Porcine respiratory coronavirus,2,2
+SRR6713820,2249315,Quail deltacoronavirus,2,2
+SRR6713820,1159906,Sparrow coronavirus HKU17,1,1
+SRR6713825,2501931,Orthocoronavirinae,90961,6
+SRR6713825,693996,Alphacoronavirus,90950,313
+SRR6713825,2509505,Pedacovirus,90636,0
+SRR6713825,28295,Porcine epidemic diarrhea virus,90636,90636
+SRR6713825,1159901,Deltacoronavirus,5,0
+SRR6713825,2509474,Buldecovirus,5,0
+SRR6713825,1965089,Coronavirus HKU15,5,3
+SRR6713825,1159905,Porcine coronavirus HKU15,2,1
+SRR6713825,366617,unclassified Alphacoronavirus,1,0
+SRR6713825,1586324,Porcine deltacoronavirus,1,1
+SRR6713825,2591228,Coronavirus BtSk-AlphaCoV/GX2018A,1,1
+SRR6713826,2501931,Orthocoronavirinae,83484,6
+SRR6713826,693996,Alphacoronavirus,83478,304
+SRR6713826,2509505,Pedacovirus,83174,0
+SRR6713826,28295,Porcine epidemic diarrhea virus,83174,83174
+SRR6713827,2501931,Orthocoronavirinae,311206,24
+SRR6713827,693996,Alphacoronavirus,311182,1091
+SRR6713827,2509505,Pedacovirus,310090,0
+SRR6713827,28295,Porcine epidemic diarrhea virus,310090,310090
+SRR6713827,366617,unclassified Alphacoronavirus,1,0
+SRR6713827,2591228,Coronavirus BtSk-AlphaCoV/GX2018A,1,1
+SRR6713829,2501931,Orthocoronavirinae,228211,13
+SRR6713829,693996,Alphacoronavirus,228193,507
+SRR6713829,2509505,Pedacovirus,227683,0
+SRR6713829,28295,Porcine epidemic diarrhea virus,227683,227683
+SRR6713829,2509474,Buldecovirus,5,0
+SRR6713829,1159901,Deltacoronavirus,5,0
+SRR6713829,1965089,Coronavirus HKU15,5,3
+SRR6713829,366617,unclassified Alphacoronavirus,3,0
+SRR6713829,1906673,Alphacoronavirus sp.,3,3
+SRR6713829,1159905,Porcine coronavirus HKU15,2,2
+SRR6713831,2501931,Orthocoronavirinae,215978,20
+SRR6713831,693996,Alphacoronavirus,215955,665
+SRR6713831,2509505,Pedacovirus,215281,0
+SRR6713831,28295,Porcine epidemic diarrhea virus,215281,215281
+SRR6713831,2509514,Tegacovirus,8,0
+SRR6713831,693997,Alphacoronavirus 1,8,3
+SRR6713831,11149,Transmissible gastroenteritis virus,5,5
+SRR6713831,1159901,Deltacoronavirus,3,0
+SRR6713831,2509474,Buldecovirus,3,0
+SRR6713831,1965089,Coronavirus HKU15,3,2
+SRR6713831,11137,Human coronavirus 229E,1,0
+SRR6713831,2509480,Duvinacovirus,1,0
+SRR6713831,1739614,229E-related bat coronavirus,1,1
+SRR6713831,1159905,Porcine coronavirus HKU15,1,1
+SRR6713834,2501931,Orthocoronavirinae,11429,0
+SRR6713834,693996,Alphacoronavirus,11429,21
+SRR6713834,2509505,Pedacovirus,11408,0
+SRR6713834,28295,Porcine epidemic diarrhea virus,11408,11408
+SRR6713835,2501931,Orthocoronavirinae,173647,14
+SRR6713835,693996,Alphacoronavirus,173633,656
+SRR6713835,2509505,Pedacovirus,172977,0
+SRR6713835,28295,Porcine epidemic diarrhea virus,172977,172977
+SRR6713842,2501931,Orthocoronavirinae,26165,1
+SRR6713842,693996,Alphacoronavirus,26164,65
+SRR6713842,2509505,Pedacovirus,26098,0
+SRR6713842,28295,Porcine epidemic diarrhea virus,26098,26098
+SRR6713842,366617,unclassified Alphacoronavirus,1,0
+SRR6713842,983923,Chaerephon bat coronavirus/Kenya/KY41/2006,1,1
+SRR6713845,2501931,Orthocoronavirinae,25793,2
+SRR6713845,693996,Alphacoronavirus,25791,47
+SRR6713845,2509505,Pedacovirus,25744,0
+SRR6713845,28295,Porcine epidemic diarrhea virus,25744,25744
+SRR6713854,2501931,Orthocoronavirinae,3368,0
+SRR6713854,693996,Alphacoronavirus,3368,5
+SRR6713854,2509505,Pedacovirus,3363,0
+SRR6713854,28295,Porcine epidemic diarrhea virus,3363,3363
+SRR6713868,2501931,Orthocoronavirinae,365216,11
+SRR6713868,693996,Alphacoronavirus,365196,511
+SRR6713868,2509505,Pedacovirus,364685,0
+SRR6713868,28295,Porcine epidemic diarrhea virus,364685,364685
+SRR6713868,1159901,Deltacoronavirus,9,0
+SRR6713868,2509474,Buldecovirus,9,0
+SRR6713868,1965089,Coronavirus HKU15,9,5
+SRR6713868,1159905,Porcine coronavirus HKU15,4,3
+SRR6713868,1586324,Porcine deltacoronavirus,1,1
+SRR6713873,2501931,Orthocoronavirinae,184196,9
+SRR6713873,693996,Alphacoronavirus,184187,627
+SRR6713873,2509505,Pedacovirus,183560,0
+SRR6713873,28295,Porcine epidemic diarrhea virus,183560,183560
+SRR6713876,2501931,Orthocoronavirinae,242599,7
+SRR6713876,693996,Alphacoronavirus,242592,363
+SRR6713876,2509505,Pedacovirus,242228,0
+SRR6713876,28295,Porcine epidemic diarrhea virus,242228,242228
+SRR6713876,2509514,Tegacovirus,1,0
+SRR6713876,693997,Alphacoronavirus 1,1,0
+SRR6713876,1766554,Swine enteric coronavirus,1,1
+SRR6713879,2501931,Orthocoronavirinae,13956,1
+SRR6713879,693996,Alphacoronavirus,13954,25
+SRR6713879,2509505,Pedacovirus,13929,0
+SRR6713879,28295,Porcine epidemic diarrhea virus,13929,13929
+SRR6713879,2509474,Buldecovirus,1,0
+SRR6713879,1159901,Deltacoronavirus,1,0
+SRR6713879,1965089,Coronavirus HKU15,1,1
+SRR6713885,2501931,Orthocoronavirinae,60751,9
+SRR6713885,693996,Alphacoronavirus,60742,213
+SRR6713885,2509505,Pedacovirus,60528,0
+SRR6713885,28295,Porcine epidemic diarrhea virus,60528,60528
+SRR6713885,366617,unclassified Alphacoronavirus,1,0
+SRR6713885,1906673,Alphacoronavirus sp.,1,1
+SRR6713887,2501931,Orthocoronavirinae,121277,16
+SRR6713887,693996,Alphacoronavirus,121260,627
+SRR6713887,2509505,Pedacovirus,120633,0
+SRR6713887,28295,Porcine epidemic diarrhea virus,120633,120633
+SRR6713887,694009,Severe acute respiratory syndrome-related coronavirus,1,0
+SRR6713887,2509511,Sarbecovirus,1,0
+SRR6713887,694002,Betacoronavirus,1,0
+SRR6713887,1283332,Bat coronavirus Rp/Shaanxi2011,1,1
+SRR6713889,2501931,Orthocoronavirinae,20113,1
+SRR6713889,693996,Alphacoronavirus,20107,75
+SRR6713889,2509505,Pedacovirus,20032,0
+SRR6713889,28295,Porcine epidemic diarrhea virus,20032,20032
+SRR6713889,1159901,Deltacoronavirus,5,0
+SRR6713889,2509474,Buldecovirus,5,0
+SRR6713889,1965089,Coronavirus HKU15,5,4
+SRR6713889,1159905,Porcine coronavirus HKU15,1,1
+SRR6713897,2501931,Orthocoronavirinae,31310,0
+SRR6713897,693996,Alphacoronavirus,31310,42
+SRR6713897,2509505,Pedacovirus,31268,0
+SRR6713897,28295,Porcine epidemic diarrhea virus,31268,31268
+SRR6713902,2501931,Orthocoronavirinae,51104,4
+SRR6713902,693996,Alphacoronavirus,51100,87
+SRR6713902,2509505,Pedacovirus,51013,0
+SRR6713902,28295,Porcine epidemic diarrhea virus,51013,51013
+SRR6713906,2501931,Orthocoronavirinae,127538,0
+SRR6713906,693996,Alphacoronavirus,127538,205
+SRR6713906,2509505,Pedacovirus,127333,0
+SRR6713906,28295,Porcine epidemic diarrhea virus,127333,127333
+SRR6713907,2501931,Orthocoronavirinae,419098,21
+SRR6713907,693996,Alphacoronavirus,419077,1264
+SRR6713907,2509505,Pedacovirus,417811,0
+SRR6713907,28295,Porcine epidemic diarrhea virus,417811,417811
+SRR6713907,2509514,Tegacovirus,1,0
+SRR6713907,2509480,Duvinacovirus,1,0
+SRR6713907,693997,Alphacoronavirus 1,1,0
+SRR6713907,1766554,Swine enteric coronavirus,1,1
+SRR6713907,11137,Human coronavirus 229E,1,1
+SRR6713908,2501931,Orthocoronavirinae,58771,4
+SRR6713908,693996,Alphacoronavirus,58767,168
+SRR6713908,2509505,Pedacovirus,58599,0
+SRR6713908,28295,Porcine epidemic diarrhea virus,58599,58599
+SRR6914229,2509505,Pedacovirus,87,0
+SRR6914229,2501931,Orthocoronavirinae,87,0
+SRR6914229,693996,Alphacoronavirus,87,0
+SRR6914229,28295,Porcine epidemic diarrhea virus,87,87
+SRR6994268,2501931,Orthocoronavirinae,250607,376
+SRR6994268,693996,Alphacoronavirus,250231,94
+SRR6994268,2509514,Tegacovirus,250137,0
+SRR6994268,693997,Alphacoronavirus 1,250137,57047
+SRR6994268,11149,Transmissible gastroenteritis virus,193012,192970
+SRR6994268,11153,Canine coronavirus,54,54
+SRR6994268,11146,Porcine respiratory coronavirus,42,41
+SRR6994268,12663,Feline coronavirus,18,14
+SRR6994268,1766554,Swine enteric coronavirus,6,6
+SRR6994268,906887,Feline coronavirus UU40,3,3
+SRR6994268,398815,PRCV ISU-1,1,1
+SRR6994268,871678,Feline coronavirus UU17,1,1
+SRR6994270,2501931,Orthocoronavirinae,110,0
+SRR6994270,2509481,Embecovirus,90,0
+SRR6994270,694002,Betacoronavirus,90,0
+SRR6994270,694003,Betacoronavirus 1,90,90
+SRR6994270,694013,Gammacoronavirus,15,0
+SRR6994270,2509487,Igacovirus,15,0
+SRR6994270,694014,Avian coronavirus,15,4
+SRR6994270,11120,Infectious bronchitis virus,11,11
+SRR6994270,693996,Alphacoronavirus,5,0
+SRR6994270,2509512,Setracovirus,5,0
+SRR6994270,277944,Human coronavirus NL63,5,5
+SRR6994304,2509514,Tegacovirus,1,0
+SRR6994304,2501931,Orthocoronavirinae,1,0
+SRR6994304,693996,Alphacoronavirus,1,0
+SRR6994304,693997,Alphacoronavirus 1,1,1
+SRR6994330,2501931,Orthocoronavirinae,206,3
+SRR6994330,2509480,Duvinacovirus,196,0
+SRR6994330,693996,Alphacoronavirus,196,0
+SRR6994330,11137,Human coronavirus 229E,196,196
+SRR6994330,2509481,Embecovirus,7,0
+SRR6994330,694002,Betacoronavirus,7,0
+SRR6994330,694003,Betacoronavirus 1,7,6
+SRR6994330,31631,Human coronavirus OC43,1,1
+SRR6994334,2509514,Tegacovirus,380,0
+SRR6994334,693996,Alphacoronavirus,380,0
+SRR6994334,2501931,Orthocoronavirinae,380,0
+SRR6994334,693997,Alphacoronavirus 1,380,5
+SRR6994334,11149,Transmissible gastroenteritis virus,375,375
+SRR6994347,2501931,Orthocoronavirinae,339706,127
+SRR6994347,694013,Gammacoronavirus,339579,0
+SRR6994347,2509487,Igacovirus,339579,0
+SRR6994347,694014,Avian coronavirus,339579,114227
+SRR6994347,11120,Infectious bronchitis virus,225267,225210
+SRR6994347,658930,Infectious bronchitis virus NGA/A116E7/2006,57,57
+SRR6994347,300188,Duck coronavirus,54,54
+SRR6994347,11152,Turkey coronavirus,26,26
+SRR6994347,1763410,European turkey coronavirus 080385d,4,4
+SRR6994347,749416,unclassified Avian coronavirus,1,0
+SRR6994347,1245464,Guinea fowl coronavirus GfCoV/FR/2011,1,1
+SRR6994353,694013,Gammacoronavirus,45,0
+SRR6994353,2501931,Orthocoronavirinae,45,0
+SRR6994353,2509487,Igacovirus,45,0
+SRR6994353,694014,Avian coronavirus,45,18
+SRR6994353,11120,Infectious bronchitis virus,27,27
+SRR6994385,2501931,Orthocoronavirinae,66,0
+SRR6994385,693996,Alphacoronavirus,65,0
+SRR6994385,2509480,Duvinacovirus,65,0
+SRR6994385,11137,Human coronavirus 229E,65,65
+SRR6994385,694013,Gammacoronavirus,1,0
+SRR6994385,694014,Avian coronavirus,1,0
+SRR6994385,2509487,Igacovirus,1,0
+SRR6994385,11120,Infectious bronchitis virus,1,1
+SRR6994389,2509481,Embecovirus,2,0
+SRR6994389,694002,Betacoronavirus,2,0
+SRR6994389,2501931,Orthocoronavirinae,2,0
+SRR6994389,694003,Betacoronavirus 1,2,2
+SRR6994393,2501931,Orthocoronavirinae,8,0
+SRR6994393,694002,Betacoronavirus,6,0
+SRR6994393,2509494,Merbecovirus,6,0
+SRR6994393,1335626,Middle East respiratory syndrome-related coronavirus,6,6
+SRR6994393,694013,Gammacoronavirus,2,0
+SRR6994393,2509487,Igacovirus,2,0
+SRR6994393,694014,Avian coronavirus,2,1
+SRR6994393,11120,Infectious bronchitis virus,1,1
+SRR6994405,2501931,Orthocoronavirinae,10,2
+SRR6994405,2509481,Embecovirus,8,0
+SRR6994405,694002,Betacoronavirus,8,0
+SRR6994405,694003,Betacoronavirus 1,8,7
+SRR6994405,31631,Human coronavirus OC43,1,1
+SRR6994420,2501931,Orthocoronavirinae,316012,1036
+SRR6994420,693996,Alphacoronavirus,314966,160
+SRR6994420,2509514,Tegacovirus,314806,0
+SRR6994420,693997,Alphacoronavirus 1,314806,76812
+SRR6994420,11149,Transmissible gastroenteritis virus,237927,237886
+SRR6994420,11153,Canine coronavirus,56,56
+SRR6994420,11146,Porcine respiratory coronavirus,41,39
+SRR6994420,2509481,Embecovirus,10,0
+SRR6994420,694002,Betacoronavirus,10,0
+SRR6994420,694003,Betacoronavirus 1,9,5
+SRR6994420,1766554,Swine enteric coronavirus,6,6
+SRR6994420,12663,Feline coronavirus,5,3
+SRR6994420,31631,Human coronavirus OC43,3,3
+SRR6994420,398815,PRCV ISU-1,2,2
+SRR6994420,906887,Feline coronavirus UU40,2,2
+SRR6994420,2030446,Coronavirus HKU23,1,0
+SRR6994420,1479610,Dromedary camel coronavirus HKU23,1,1
+SRR6994420,694005,Murine coronavirus,1,1
+SRR6994446,2501931,Orthocoronavirinae,4,0
+SRR6994446,693996,Alphacoronavirus,3,0
+SRR6994446,2509514,Tegacovirus,3,0
+SRR6994446,693997,Alphacoronavirus 1,3,2
+SRR6994446,694002,Betacoronavirus,1,0
+SRR6994446,2509481,Embecovirus,1,0
+SRR6994446,694003,Betacoronavirus 1,1,1
+SRR6994446,11149,Transmissible gastroenteritis virus,1,1
+SRR6994453,2501931,Orthocoronavirinae,1437,1
+SRR6994453,694013,Gammacoronavirus,1436,0
+SRR6994453,2509487,Igacovirus,1436,0
+SRR6994453,694014,Avian coronavirus,1436,343
+SRR6994453,11120,Infectious bronchitis virus,1093,1093
+SRR6994460,2501931,Orthocoronavirinae,204973,0
+SRR6994460,693996,Alphacoronavirus,204969,22
+SRR6994460,2509480,Duvinacovirus,204945,25
+SRR6994460,11137,Human coronavirus 229E,204918,204865
+SRR6994460,1739614,229E-related bat coronavirus,48,48
+SRR6994460,1895985,Camel alphacoronavirus Camel229E,5,5
+SRR6994460,2509481,Embecovirus,4,0
+SRR6994460,694002,Betacoronavirus,4,0
+SRR6994460,694003,Betacoronavirus 1,4,3
+SRR6994460,366617,unclassified Alphacoronavirus,2,0
+SRR6994460,2691584,unclassified Duvinacovirus,2,0
+SRR6994460,2691585,Rousettus aegyptiacus bat coronavirus 229E-related,2,2
+SRR6994460,1906673,Alphacoronavirus sp.,2,2
+SRR6994460,31631,Human coronavirus OC43,1,1
+SRR6994516,2501931,Orthocoronavirinae,9065,7938
+SRR6994516,2509480,Duvinacovirus,883,0
+SRR6994516,693996,Alphacoronavirus,883,0
+SRR6994516,11137,Human coronavirus 229E,883,883
+SRR6994516,694002,Betacoronavirus,243,91
+SRR6994516,2509494,Merbecovirus,74,0
+SRR6994516,2509481,Embecovirus,72,0
+SRR6994516,1335626,Middle East respiratory syndrome-related coronavirus,72,72
+SRR6994516,694003,Betacoronavirus 1,67,27
+SRR6994516,11128,Bovine coronavirus,15,14
+SRR6994516,2030446,Coronavirus HKU23,12,0
+SRR6994516,1479610,Dromedary camel coronavirus HKU23,12,12
+SRR6994516,696098,unclassified Betacoronavirus,6,0
+SRR6994516,31631,Human coronavirus OC43,6,6
+SRR6994516,1805463,Bat betacoronavirus,5,5
+SRR6994516,42005,Porcine hemagglutinating encephalomyelitis virus,4,4
+SRR6994516,693995,Coronavirinae,3,0
+SRR6994516,2664420,unclassified Coronavirinae,3,1
+SRR6994516,290028,Human coronavirus HKU1,3,3
+SRR6994516,1965093,Hedgehog coronavirus 1,2,0
+SRR6994516,1385427,Betacoronavirus Erinaceus/VMC/DEU/2012,2,2
+SRR6994516,694005,Murine coronavirus,2,2
+SRR6994516,694013,Gammacoronavirus,1,0
+SRR6994516,694014,Avian coronavirus,1,0
+SRR6994516,2509487,Igacovirus,1,0
+SRR6994516,166124,Human enteric coronavirus 4408,1,1
+SRR6994516,2501420,Yak coronavirus,1,1
+SRR6994516,136187,Equine coronavirus,1,1
+SRR6994516,694448,unidentified human coronavirus,1,1
+SRR6994516,1508220,Bat coronavirus,1,1
+SRR6994516,1770168,Alpaca coronavirus,1,1
+SRR6994516,11120,Infectious bronchitis virus,1,1
+SRR6994516,215681,Canine respiratory coronavirus,1,1
+SRR6994559,2509487,Igacovirus,4,0
+SRR6994559,2501931,Orthocoronavirinae,4,0
+SRR6994559,694013,Gammacoronavirus,4,0
+SRR6994559,694014,Avian coronavirus,4,1
+SRR6994559,11120,Infectious bronchitis virus,3,3
+SRR6994560,2501931,Orthocoronavirinae,322767,144
+SRR6994560,694013,Gammacoronavirus,322622,0
+SRR6994560,2509487,Igacovirus,322622,0
+SRR6994560,694014,Avian coronavirus,322622,106085
+SRR6994560,11120,Infectious bronchitis virus,216506,216478
+SRR6994560,658930,Infectious bronchitis virus NGA/A116E7/2006,28,28
+SRR6994560,11152,Turkey coronavirus,16,16
+SRR6994560,300188,Duck coronavirus,11,11
+SRR6994560,749416,unclassified Avian coronavirus,2,0
+SRR6994560,1245464,Guinea fowl coronavirus GfCoV/FR/2011,2,2
+SRR6994560,1763410,European turkey coronavirus 080385d,2,2
+SRR6994560,2509481,Embecovirus,1,0
+SRR6994560,694003,Betacoronavirus 1,1,0
+SRR6994560,694002,Betacoronavirus,1,0
+SRR6994560,31631,Human coronavirus OC43,1,1
+SRR8600100,2501931,Orthocoronavirinae,6,0
+SRR8600100,694013,Gammacoronavirus,6,0
+SRR8600100,694014,Avian coronavirus,6,0
+SRR8600100,2509487,Igacovirus,6,0
+SRR8600100,11120,Infectious bronchitis virus,6,6
+SRR8600113,694014,Avian coronavirus,11,0
+SRR8600113,694013,Gammacoronavirus,11,0
+SRR8600113,2501931,Orthocoronavirinae,11,0
+SRR8600113,2509487,Igacovirus,11,0
+SRR8600113,11120,Infectious bronchitis virus,11,11
+SRR8600313,694014,Avian coronavirus,6,0
+SRR8600313,694013,Gammacoronavirus,6,0
+SRR8600313,2509487,Igacovirus,6,0
+SRR8600313,2501931,Orthocoronavirinae,6,0
+SRR8600313,11120,Infectious bronchitis virus,6,6
+SRR8988456,2501931,Orthocoronavirinae,8,0
+SRR8988456,693996,Alphacoronavirus,4,0
+SRR8988456,2509505,Pedacovirus,4,0
+SRR8988456,2509474,Buldecovirus,4,0
+SRR8988456,1159901,Deltacoronavirus,4,0
+SRR8988456,1965089,Coronavirus HKU15,4,3
+SRR8988456,28295,Porcine epidemic diarrhea virus,4,4
+SRR8988456,1159905,Porcine coronavirus HKU15,1,1
+SRR8988457,2501931,Orthocoronavirinae,11,0
+SRR8988457,2509474,Buldecovirus,7,0
+SRR8988457,1159901,Deltacoronavirus,7,0
+SRR8988457,1965089,Coronavirus HKU15,7,4
+SRR8988457,693996,Alphacoronavirus,4,0
+SRR8988457,2509505,Pedacovirus,4,0
+SRR8988457,28295,Porcine epidemic diarrhea virus,4,4
+SRR8988457,1159905,Porcine coronavirus HKU15,3,3
+SRR8988459,2501931,Orthocoronavirinae,5,0
+SRR8988459,693996,Alphacoronavirus,3,0
+SRR8988459,2509505,Pedacovirus,3,0
+SRR8988459,28295,Porcine epidemic diarrhea virus,3,3
+SRR8988459,2509474,Buldecovirus,2,0
+SRR8988459,1159901,Deltacoronavirus,2,0
+SRR8988459,1965089,Coronavirus HKU15,2,1
+SRR8988459,1159905,Porcine coronavirus HKU15,1,1
+SRR8988469,2509505,Pedacovirus,8,0
+SRR8988469,2501931,Orthocoronavirinae,8,0
+SRR8988469,693996,Alphacoronavirus,8,0
+SRR8988469,28295,Porcine epidemic diarrhea virus,8,8
+SRR8988473,693996,Alphacoronavirus,12,0
+SRR8988473,2501931,Orthocoronavirinae,12,0
+SRR8988473,2509505,Pedacovirus,12,0
+SRR8988473,28295,Porcine epidemic diarrhea virus,12,12
+SRR8988477,2501931,Orthocoronavirinae,3,0
+SRR8988477,2509505,Pedacovirus,3,0
+SRR8988477,693996,Alphacoronavirus,3,0
+SRR8988477,28295,Porcine epidemic diarrhea virus,3,3
+SRR8988484,2501931,Orthocoronavirinae,2,0
+SRR8988484,693996,Alphacoronavirus,2,0
+SRR8988484,2509505,Pedacovirus,2,0
+SRR8988484,28295,Porcine epidemic diarrhea virus,2,2
+SRR8988498,2501931,Orthocoronavirinae,7,0
+SRR8988498,2509505,Pedacovirus,6,0
+SRR8988498,693996,Alphacoronavirus,6,0
+SRR8988498,28295,Porcine epidemic diarrhea virus,6,6
+SRR8988498,2509474,Buldecovirus,1,0
+SRR8988498,1159901,Deltacoronavirus,1,0
+SRR8988498,1965089,Coronavirus HKU15,1,1
+SRR8988500,2509505,Pedacovirus,4,0
+SRR8988500,693996,Alphacoronavirus,4,0
+SRR8988500,2501931,Orthocoronavirinae,4,0
+SRR8988500,28295,Porcine epidemic diarrhea virus,4,4
+SRR8988505,2501931,Orthocoronavirinae,9,0
+SRR8988505,1159901,Deltacoronavirus,5,0
+SRR8988505,2509474,Buldecovirus,5,0
+SRR8988505,1965089,Coronavirus HKU15,5,2
+SRR8988505,2509505,Pedacovirus,4,0
+SRR8988505,693996,Alphacoronavirus,4,0
+SRR8988505,28295,Porcine epidemic diarrhea virus,4,4
+SRR8988505,1159905,Porcine coronavirus HKU15,3,3
+SRR8988506,2501931,Orthocoronavirinae,8,0
+SRR8988506,2509505,Pedacovirus,4,0
+SRR8988506,2509474,Buldecovirus,4,0
+SRR8988506,1159901,Deltacoronavirus,4,0
+SRR8988506,693996,Alphacoronavirus,4,0
+SRR8988506,1965089,Coronavirus HKU15,4,2
+SRR8988506,28295,Porcine epidemic diarrhea virus,4,4
+SRR8988506,1159905,Porcine coronavirus HKU15,2,2
+SRR8988507,2501931,Orthocoronavirinae,4,0
+SRR8988507,2509505,Pedacovirus,4,0
+SRR8988507,693996,Alphacoronavirus,4,0
+SRR8988507,28295,Porcine epidemic diarrhea virus,4,4
+SRR8988508,2501931,Orthocoronavirinae,2,0
+SRR8988508,1159901,Deltacoronavirus,1,0
+SRR8988508,2509505,Pedacovirus,1,0
+SRR8988508,2509474,Buldecovirus,1,0
+SRR8988508,693996,Alphacoronavirus,1,0
+SRR8988508,28295,Porcine epidemic diarrhea virus,1,1
+SRR8988508,1965089,Coronavirus HKU15,1,1
+SRR8988511,2501931,Orthocoronavirinae,4,0
+SRR8988511,693996,Alphacoronavirus,3,0
+SRR8988511,2509505,Pedacovirus,3,0
+SRR8988511,28295,Porcine epidemic diarrhea virus,3,3
+SRR8988511,2509474,Buldecovirus,1,0
+SRR8988511,1159901,Deltacoronavirus,1,0
+SRR8988511,1965089,Coronavirus HKU15,1,1
+SRR8988516,2501931,Orthocoronavirinae,5,0
+SRR8988516,2509505,Pedacovirus,4,0
+SRR8988516,693996,Alphacoronavirus,4,0
+SRR8988516,28295,Porcine epidemic diarrhea virus,4,4
+SRR8988516,1159901,Deltacoronavirus,1,0
+SRR8988516,2509474,Buldecovirus,1,0
+SRR8988516,1965089,Coronavirus HKU15,1,1
+SRR8988517,2501931,Orthocoronavirinae,7,0
+SRR8988517,2509505,Pedacovirus,6,0
+SRR8988517,693996,Alphacoronavirus,6,0
+SRR8988517,28295,Porcine epidemic diarrhea virus,6,6
+SRR8988517,2509474,Buldecovirus,1,0
+SRR8988517,1159901,Deltacoronavirus,1,0
+SRR8988517,1965089,Coronavirus HKU15,1,1
+SRR9017108,2501931,Orthocoronavirinae,81,0
+SRR9017108,693996,Alphacoronavirus,81,1
+SRR9017108,2509505,Pedacovirus,80,0
+SRR9017108,28295,Porcine epidemic diarrhea virus,80,80
+SRR9108120,2501931,Orthocoronavirinae,1,0
+SRR9108120,693996,Alphacoronavirus,1,0
+SRR9108120,2509505,Pedacovirus,1,0
+SRR9108120,28295,Porcine epidemic diarrhea virus,1,1
+SRR9213353,2509494,Merbecovirus,2,0
+SRR9213353,2501931,Orthocoronavirinae,2,0
+SRR9213353,694002,Betacoronavirus,2,0
+SRR9213353,1335626,Middle East respiratory syndrome-related coronavirus,2,2
+SRR9668111,2501931,Orthocoronavirinae,476,0
+SRR9668111,694002,Betacoronavirus,476,0
+SRR9668111,2509494,Merbecovirus,476,1
+SRR9668111,1335626,Middle East respiratory syndrome-related coronavirus,475,475
+SRR9670187,2509494,Merbecovirus,1,0
+SRR9670187,2501931,Orthocoronavirinae,1,0
+SRR9670187,694002,Betacoronavirus,1,0
+SRR9670187,1335626,Middle East respiratory syndrome-related coronavirus,1,1
+SRR9678354,694002,Betacoronavirus,1,0
+SRR9678354,2509481,Embecovirus,1,0
+SRR9678354,2501931,Orthocoronavirinae,1,0
+SRR9678354,694003,Betacoronavirus 1,1,1
+SRR9966483,2501931,Orthocoronavirinae,75800,2394
+SRR9966483,694002,Betacoronavirus,73404,295
+SRR9966483,2509481,Embecovirus,73097,22
+SRR9966483,694003,Betacoronavirus 1,73074,61620
+SRR9966483,31631,Human coronavirus OC43,10722,10722
+SRR9966483,215681,Canine respiratory coronavirus,561,561
+SRR9966483,11128,Bovine coronavirus,90,78
+SRR9966483,42005,Porcine hemagglutinating encephalomyelitis virus,40,40
+SRR9966483,2030446,Coronavirus HKU23,18,0
+SRR9966483,1479610,Dromedary camel coronavirus HKU23,18,18
+SRR9966483,696098,unclassified Betacoronavirus,12,3
+SRR9966483,136187,Equine coronavirus,12,12
+SRR9966483,693995,Coronavirinae,11,0
+SRR9966483,2664420,unclassified Coronavirinae,11,7
+SRR9966483,2501420,Yak coronavirus,11,11
+SRR9966483,2126133,Water deer coronavirus,7,7
+SRR9966483,1160968,Rabbit coronavirus HKU14,7,7
+SRR9966483,404135,Bovine coronavirus isolate Alpaca,2,2
+SRR9966483,1679890,Coronavirus RCoV/D_RMU10_1940/Myo_gla/GER/2010,2,2
+SRR9966483,1928434,Betacoronavirus sp.,2,2
+SRR9966483,694014,Avian coronavirus,1,0
+SRR9966483,422217,Bovine coronavirus E-AH65,1,0
+SRR9966483,694005,Murine coronavirus,1,0
+SRR9966483,366617,unclassified Alphacoronavirus,1,0
+SRR9966483,693996,Alphacoronavirus,1,0
+SRR9966483,694013,Gammacoronavirus,1,0
+SRR9966483,2509487,Igacovirus,1,0
+SRR9966483,1699096,Camel coronavirus HKU23,1,1
+SRR9966483,11138,Murine hepatitis virus,1,1
+SRR9966483,422218,Bovine coronavirus E-AH65-TC,1,1
+SRR9966483,166124,Human enteric coronavirus 4408,1,1
+SRR9966483,2050018,Rodent coronavirus,1,1
+SRR9966483,11120,Infectious bronchitis virus,1,1
+SRR9966483,694448,unidentified human coronavirus,1,1
+SRR9966483,756651,Bovine coronavirus cow/WDBR-54/BRA/2003,1,1
+SRR9966484,2501931,Orthocoronavirinae,2,0
+SRR9966484,2509512,Setracovirus,1,0
+SRR9966484,693996,Alphacoronavirus,1,0
+SRR9966484,694002,Betacoronavirus,1,0
+SRR9966484,2509481,Embecovirus,1,0
+SRR9966484,277944,Human coronavirus NL63,1,1
+SRR9966484,694003,Betacoronavirus 1,1,1
+SRR9966519,2501931,Orthocoronavirinae,4,0
+SRR9966519,694002,Betacoronavirus,4,0
+SRR9966519,2509481,Embecovirus,4,0
+SRR9966519,694003,Betacoronavirus 1,4,3
+SRR9966519,31631,Human coronavirus OC43,1,1
+SRR9967720,694002,Betacoronavirus,12,0
+SRR9967720,2509481,Embecovirus,12,0
+SRR9967720,2501931,Orthocoronavirinae,12,0
+SRR9967720,694003,Betacoronavirus 1,12,11
+SRR9967720,31631,Human coronavirus OC43,1,1
+SRR9967725,2501931,Orthocoronavirinae,1,0
+SRR9967725,2509481,Embecovirus,1,0
+SRR9967725,694002,Betacoronavirus,1,0
+SRR9967725,694003,Betacoronavirus 1,1,1
+SRR9967732,2509481,Embecovirus,1,0
+SRR9967732,694002,Betacoronavirus,1,0
+SRR9967732,2501931,Orthocoronavirinae,1,0
+SRR9967732,694003,Betacoronavirus 1,1,1
+SRR9967735,2501931,Orthocoronavirinae,5,1
+SRR9967735,2509481,Embecovirus,4,0
+SRR9967735,694002,Betacoronavirus,4,0
+SRR9967735,694003,Betacoronavirus 1,4,3
+SRR9967735,31631,Human coronavirus OC43,1,1
+SRR9967739,2501931,Orthocoronavirinae,15,0
+SRR9967739,693996,Alphacoronavirus,12,0
+SRR9967739,2509512,Setracovirus,12,0
+SRR9967739,277944,Human coronavirus NL63,12,12
+SRR9967739,694002,Betacoronavirus,3,1
+SRR9967739,694003,Betacoronavirus 1,2,0
+SRR9967739,2509481,Embecovirus,2,0
+SRR9967739,31631,Human coronavirus OC43,2,2
+SRR9967743,2501931,Orthocoronavirinae,2,0
+SRR9967743,2509481,Embecovirus,2,0
+SRR9967743,694002,Betacoronavirus,2,0
+SRR9967743,694003,Betacoronavirus 1,2,2
+SRR9967744,2509481,Embecovirus,1,0
+SRR9967744,694002,Betacoronavirus,1,0
+SRR9967744,2501931,Orthocoronavirinae,1,0
+SRR9967744,694003,Betacoronavirus 1,1,1
+SRR9976399,693995,Coronavirinae,2,2
+SRR9981834,693995,Coronavirinae,1,1
