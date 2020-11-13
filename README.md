@@ -186,7 +186,7 @@ The top level script to download all necessary data, calculate distances, create
 ./do_the_things.sh
 ```
 If files are already generated for a step, then `do_the_things.sh` will skip that step.  If you want to redo a stage in the script (warning: this can take up to an hour to run), then find the file referenced in the conditional and delete it.  Don't worry if you make a mistake since you can alway reset the repo.
-For example, to rerun the generation of the `taxids_clusters.txt` file, delete it at `data/clusters/taxids_clusters.txt`.  You can figure this out by looking at the condition at the top of the section in `do_the_things.sh`.
+For example, to rerun the generation of the `cov_clusters.txt` file, delete it at `data/clusters/cov_clusters.txt`.  You can figure this out by looking at the condition at the top of the section in `do_the_things.sh`.
 ```
 if [ ! -f data/clusters/cov_clusters.txt ] || [ ! -f data/dists/cov_dists.txt ]
 then
