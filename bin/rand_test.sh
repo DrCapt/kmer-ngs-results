@@ -9,4 +9,4 @@ do
   shuf $1 | bin/cluster.py > data/clusters/rand.clusters
   cat $2 | bin/score_cluster.py data/clusters/rand.clusters >> data/rand/rand_results.txt
 done
-Rscript bin/rand_calc.r $4
+bin/rand_test_results.py $4
